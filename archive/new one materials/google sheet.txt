@@ -1,0 +1,3 @@
+service account name: prothomalo-scraper
+service account email: prothomalo-scraper@prothomalo-corn-testing.iam.gserviceaccount.com
+OAuth 2 client id: 101364200438989858931
