@@ -4,8 +4,6 @@ Python Environment Setup Cheat Sheet
 Virtual Environment Setup
 -------------------------
 
-shell
-
 ```shell
 $ python -m venv env_name
 $ env\Scripts\activate  # activate on Windows CMD
@@ -16,9 +14,7 @@ $ source /director_path/env/bin/activate  # activate on Linux CMD
 Python Package Management
 -------------------------
 
-ruby
-
-```ruby
+```python
 $ pip install package_name					
 $ pip install -r requirements.txt				# requirements.txt
 $ pip install git+github_repo_url.git				# install package from Github
@@ -31,9 +27,7 @@ $ pip uninstall package_name -y					# uninstall
 Jupyter Lab Environment Setup
 -----------------------------
 
-ruby
-
-```ruby
+```python
 * activate env_name and run this command
     $ pip install ipykernel
     $ python -m ipykernel install --user --name=env_name
@@ -45,8 +39,6 @@ ruby
 
 Python Code Format Library List
 -------------------------------
-
-python
 
 ```python
 # Linting
@@ -61,8 +53,6 @@ black
 
 VS Code Extensions for Python Environment
 -----------------------------------------
-
-diff
 
 ```diff
 - Python
