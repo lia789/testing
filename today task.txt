@@ -5,7 +5,7 @@ this document is path about overcome web scraping building solutions
 
 What is goal of building web application?
 The purpose of building web application is survive with the process, not building full feature application quickly.
-Overcome every obstacle with by heart. Deep drive everything and just eat the frog.
+Overcome every obstacle with by heart. Deep drive everything and just eat the upcoming live frogs.
 
 
 
@@ -33,6 +33,7 @@ What I want end of today?
 			* SQL
 			* Render Server
 			* Docker
+	6. Building a full feature web application to view my teams
 
 
 
