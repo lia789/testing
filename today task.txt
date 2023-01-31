@@ -1,0 +1,65 @@
+"""
+this document is path about overcome web scraping building solutions
+"""
+
+
+What is goal of building web application?
+The purpose of building web application is survive with the process, not building full feature application quickly.
+Overcome every obstacle with by heart. Deep drive everything and just eat the frog.
+
+
+
+What I want end of today?
+	1. Building web application solutions steps
+	2. "admin" repository with project source code, documents, and cheat sheet
+	3. Setup chrome "WebApp" directory with building solutions materials and easy navigation tools
+	4. Building "quotes App" with common full stack application features:
+			* User friendly UX & UI
+			* User login and session management
+			* User input 
+			* Scrapy integration
+			* Handle models and database best practice
+			* Scrapy spider status page and view logs on web page
+			* Easy away download data as CSV file
+			* Deploy application on "Render" server
+			* Dockerize application with Playwright and deploy on "Render" server
+	5. Building cheat sheet about this list of technology:
+			* HTML
+			* CSS
+			* Bootstrap
+			* JavaScript
+			* Django
+			* ScrapyD
+			* SQL
+			* Render Server
+			* Docker
+
+
+
+
+How should the process will go?
+1. Start with software development requirements engineering process. Build "Vision" and "SRS" document.
+2. Work with user interface design (UX UI). Understand process, tools & technology.
+3. Work with Django industry level best practices, and supported tools & technology. Build minimal text and more code snipe cheat sheet.
+4. Work with ScrapyD, build a sample cheat sheet. Find out data points about monitoring spider.
+5. Work with JavaScript, work how to make website dynamic and user friendly
+4. Work with solution building "Design" document and data scraping "Design" document
+5. Write code about UX UI
+6. Write project code
+7. Deploy on Render and test
+8. Integrate Playwright with Scrapy
+9. Work with Docker & Docker Hub, build cheat sheet
+10. Dockerize Django application with Playwright Script and deploy on Render
+11. Organize project source code, cheat sheet, guideline documents on "admin" repository and Chrome
+
+
+
+
+
+
+
+
+
+
+
+
