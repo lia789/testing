@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>Download data as CSV</h1>
+    <form action="{% url 'export_quotes' %}" method="post">
+        {% csrf_token %}
+        <input type="submit" value="Download CSV" class="btn btn-primary">
+    </form>
+{% endblock content %}
