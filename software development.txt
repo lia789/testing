@@ -4,10 +4,7 @@ this document about software development
 
 
 
-
-
 What are steps about building a freelance software solutions?
-	
 	1. Do feasibility study about project like; can you do, match catalogs, done it before, understand domain, enough time, and handsome money.
 	2. Respond or write proposal with sales speech best practice with requirements core feature and project name
 	
@@ -25,7 +22,6 @@ What are steps about building a freelance software solutions?
 	
 
 
-						
 
 What are steps about building vision document and requirements engineering?
 	1. Build a Github repository with project name
@@ -61,6 +57,14 @@ What are steps about building vision document and requirements engineering?
 
 	 
 
+What are steps about building UX UI?
+	1. Identify user and their goals
+	2. Inspire existing solutions
+	3. Write down website structure
+	4. Draw user flow
+	5. Free hand sketching about web pages
+	6. Drawing wire frame
+	7. Building full visual MOC file
 
 
 
