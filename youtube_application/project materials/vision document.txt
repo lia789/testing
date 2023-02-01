@@ -1,0 +1,151 @@
+#################### Vision Document ####################
+
+
+
+
+######### PROJECT META DATA ##########
+
+title: YouTube Data Collection Tool for Content Creators
+price: 300$
+deadline:
+project_name: "YouTube Metrics Manager"
+
+
+
+########## CLIENT META DATA ##########
+
+client_name:
+client_country: UK
+time_deference: -4H
+client_designation: CEO
+client_technical_expertise: High
+
+
+
+
+########## REQUIREMENTS COLLECTION ##########
+
+project_descriptions:
+"""
+The application will be used by YouTube content creators, and must have a user-friendly interface.
+The following features are required:
+1. "Input search keyword functionality"
+   - The user will input a search keyword and the application will collect 100 channel metadata from YouTube.
+2. "Video URL input functionality"
+   - The user will input a video URL and the application will collect all comments data.
+3. Keyword search functionality
+   - The user will input a keyword that will search on YouTube and collect all recent video metadata.
+"""
+
+core_application_feature:
+	1. Input search keyword functionality - allows users to input a search keyword and collect 100 channel metadata from YouTube.
+	2. Video URL input functionality - allows users to input a video URL and collect all comments data.
+	3. Keyword search functionality - allows users to input a keyword that will search on YouTube and collect all recent video metadata.
+	
+
+project_objective:
+"""
+This project aims to build a subscription-based data solution for YouTube content creators. The tool will collect and analyze channel metadata, video metadata, and comment data to provide content creators with valuable insights and data to help grow their channels. The user-friendly interface will be offered as a subscription service to help content creators make informed decisions.
+"""
+
+existing_important_document:
+"""
+* Build solutions with rich data sets
+* The application will be used by YouTube content creators, and must have a user-friendly interface.
+* 100 channel metadata from YouTube
+* collect all comments data
+* collect all recent video metadata for trending keyword based analytic
+
+"""
+
+
+domain_knowledge:
+"""
+Use YouTube API for building high quality solutions
+"""
+
+similar_solutions:
+1. https://socialblade.com/
+2. https://vidiq.com/
+3. https://www.tubebuddy.com/
+4. https://vidooly.com/
+
+
+
+
+########## REQUIREMENTS ANALYZING ##########
+
+existing_solutions_report:
+
+list of service offer by TubeBuddy about data science categories:
+	1. Tracking uploads about about competitors
+	2. Generating report about own channel videos meta data
+	3. Calculate brand worth of YouTube channels
+	4. Comment sentiment analysis
+	5. Export comment
+	6. Get geo location data about viewers
+	7. Identify videos tags based on search result
+	8. Analytics and insights, instantly for any YouTube video
+	9. Screen shot base tutorial for using the solutions
+
+
+list of service offer by vidiq about data science categories:
+	1. Trending videos alert via email, SMS
+	
+
+list of service offer by vidooly.com about data science categories: 
+	1. most trending YouTube videos based on country and category
+	
+
+list of service offer by Social Blade about data science categories: 
+	1. It is totally data related tools
+
+
+
+identified core application features:
+	1. Collect 100 channels meta data based on channels name as keyword from user input 
+	2. Export all comments to CSV file based on YouTube videos URL as user input
+	3. Export all videos meta data to CSV file based on YouTube channels URL as user input
+	4. Collect number of videos meta data based on YouTube search bar keyword as user input
+	5. Export trending YouTube videos meta data based on country and category
+	6. User friendly interface
+
+
+
+
+
+
+
+
+
+### TEMP ###
+channel_url: https://www.youtube.com/@bodhichittaju
+username: @bodhichittaju
+video_url: https://www.youtube.com/watch?v=fO08c37yhwc
+
+
+list of data points about channel search result:
+name: "বোধিচিত্ত"
+created: Nov 5th, 2016 
+videos: 202
+subscribers: 75.6k
+videos_views: 4311891
+channel_type: "education"
+badge: "B-"
+social_blade_rank: 731061
+subscriber_rank: 2603
+videos_rank: 1343919
+country_rank:
+education_rank: 1697
+subscriber_last_30_days: 700
+estimated_monthly_earning: "13$-204$"
+last_30_days_earning: "51.107k"
+daily_average_subscriber: 24
+daily_average_views: 11928
+last_30_days_subscriber: 700
+last_30_days_view: 51107
+
+
+For other as much as you can!
+
+
