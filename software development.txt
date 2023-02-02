@@ -16,7 +16,7 @@ What are steps about building a freelance software solutions?
 	5. Build UX-UI prototype 
 	6. Build "Project Scope" document
 	7. Validate client about "Project Scope" and "UI" file
-	8. Write "Design Document" for solutions
+	8. Write "Design Document" for solution
 	9. Build solution based on design document milestone
 	10. Handover project
 	

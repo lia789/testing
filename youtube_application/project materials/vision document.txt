@@ -12,6 +12,7 @@ project_name: "YouTube Metrics Manager"
 
 
 
+
 ########## CLIENT META DATA ##########
 
 client_name:
@@ -183,6 +184,11 @@ What are list of pages should have?
 	* tutorial
 	
 
+How to deliver software?
+	* live application deployed on "Render"
+	* All project file will store on "admin" repository
+	* Make it as portfolio based on Fiverr conditions
+	* Make a project document for teams to visualize how to build a solutions
 	
 	
 
@@ -192,6 +198,7 @@ list of pending task, that will filup gaps 2nd version of project:
 	1. UX UI philosophy document
 	2. Designing Userflow, Wireframe, and MOC file on Figma
 	3. Designing static pages like: about, FAQ, and tutorial page
+	4. YouTube API, web scraping, and data structure will develop when feature need
 
 
 
