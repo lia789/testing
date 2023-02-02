@@ -114,6 +114,92 @@ identified core application features:
 
 
 
+########## MATERIALS FOR PROJECT SCOPE DOCUMENT ##########
+
+functional_requirements:
+R1: Keyword Input
+The application shall accept a keyword from the user as input.
+The keyword shall be limited to alphanumeric characters and have a maximum length of 100 characters.
+
+R2: Video URL Input
+The application shall accept a YouTube video URL from the user as input.
+
+R3: Video Metrics Collection
+The application shall collect video metrics from YouTube based on the provided keyword or video URL.
+The metrics collected shall include video title, channel name, number of views, number of comments, etc.
+
+R4: Comment Collection
+The application shall collect all comments associated with the specified video.
+
+R5: CSV Output
+The application shall generate a CSV file containing the collected video metrics and comments data.
+The user shall be able to download the CSV file via a button on the web page.
+
+R6: User-Friendly Interface
+The application shall have a user-friendly interface that allows users to easily input their keyword or video URL and view the collected data.
+
+R7: Error Handling
+If the user input is invalid, the application shall display an error message and ask the user to enter a valid keyword or video URL.
+If there is an error collecting the video metrics or comments data, the application shall display an error message and terminate the process.
+If there is an error generating the CSV file or providing it for download, the application shall display an error message and terminate the process.
+
+
+nonfunctional_requirements:
+	Should have a user-friendly interface with clear and intuitive navigation.
+	Should respond quickly to user inputs and retrieve data from YouTube with in 2 minutes
+	Protect user data and prevent unauthorized access to the data.
+	Capable of handling large amounts of data as the user base grows.
+	The application shall be compatible with a wide range of web browsers and operating systems.
+	The application shall be easy to maintain and have a clear documentation for future updates and improvements.
+	Don't harm IP address
+	User should not use multiple feature at a single time
+	Should clear database every time after scraping data
+	
+
+
+
+
+########## UX UI DESIGN ##########
+
+Who are user of this system?
+	- content creators
+	- my teams
+	- portfolios for client
+
+
+What are their desire expectations about this system?
+	- Observe application functionalities
+	- Quick view data as table format with in short window
+	- Quick summary view
+	- Download clean data as CSV file with appropriate name
+
+
+What are list of pages should have?
+	* home page
+	* result page
+	* other service page
+	* about
+	* FAQ
+	* tutorial
+	
+
+	
+	
+
+
+######### LIST OF PENDING TASK #########
+list of pending task, that will filup gaps 2nd version of project:
+	1. UX UI philosophy document
+	2. Designing Userflow, Wireframe, and MOC file on Figma
+	3. Designing static pages like: about, FAQ, and tutorial page
+
+
+
+
+
+
+
+
 
 
 
