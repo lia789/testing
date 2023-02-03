@@ -69,6 +69,51 @@ What are steps about building UX UI?
 
 
 
+### UX UI ###
+
+What is UX-UI design?
+UX is about subconscious feel about system, and UI is visual expression of the system. They work together to build great user interface for user.
+
+
+
+What are property of user experience (UX)?
+	* Usability
+	* Accessibility
+	* Emotion
+	* Functionality
+	* Information Architecture
+	* Interaction Design
+
+
+
+What are property of UI?
+	* Layout
+	* Typography
+	* Color
+	* Icons & Button
+	* Responsive
+	
+
+
+What are steps about building user interface?
+	* Understand business goals
+	* User identification and their goals
+	* Inspire existing solutions
+	* Write down website structure
+	* Draw user flow
+	* sketching web pages
+	* Drawing wire frames
+	* Building MOC file on Figma
+	* Convert Figma to HTML boot strap code
+	
+	
+
+
+## Pending Task ##
+1. Work with UX UI design
+2. Work with common web scraping solutions and get inspirations
+3. Work with Figma
+
 
 
 
