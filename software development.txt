@@ -24,7 +24,7 @@ What are steps about building a freelance software solutions?
 
 
 What are steps about building vision document and requirements engineering?
-	1. Build a Github repository with project name
+	1. Build a GitHub repository with project name
 	2. Write project meta data:
 		- title
 		- job_url

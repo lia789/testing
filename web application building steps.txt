@@ -1,0 +1,117 @@
+"""
+this document about building web application with Django🖐️
+"""
+
+
+What steps to follow building a Web Application solutions❓️
+	1. Do feasibility study with your subconscious mind
+	2. Write proposal with application core feature and mention project name
+	3. Communication client and asking questions
+	4. Building "Vision Document"📃️ with this structure:
+		👉️ Write down project and client meta data
+		👉️ Gather requirements help of existing document, domain knowledge and questions
+		👉️ Analyzing requirements
+		👉️ Process requirements
+	5. Design user interface help of this structure:
+		👉️ Inspire with other existing solutions
+		👉️ Write down visually about website structure
+		👉️ Draw user flow diagram
+		👉️ Draw web pages scratch on paper
+		👉️ Draw wire frame diagram  
+	9. Writing project scope
+	10. Validation with client project scope and UI documents
+
+
+
+
+
+What about feasibility study❓️
+Your subconscious mind will define project is feasible or not,
+some common factor are:
+	- Can I do this confident
+	- Match project catalog
+	- Done it before
+	- Understand domain
+	- Enough time
+	- Good client
+	- Handsome money
+	
+
+
+What about communication with client and asking questions❓️
+This is tricky part only communication skills save us, convert prospect to sales.
+This is list of goals about initial communication with client:
+	➡️ Consult client and uncover client real need
+	➡️ Convert communication to sales
+	➡️ Collect project building materials
+
+I should ask questions based on this topics:
+	➡️ Business Goals
+	➡️ System User
+	➡️ System Core Feature
+	➡️ Similar Solution
+	➡️ Web Scraping Meta Data
+	➡️ Data Structure
+	➡️ Web Application Meta Data
+
+
+
+How to build "Vision Document" for a project❓️
+Vision document is base band about building a high quality project, before start building a Vision document make sure you convert it into sales.
+
+Start with creating a GitHub repository and copy Vision Document template file.
+
+Possible meta data component about project and client ✋️:
+	♊️ title
+	♊️ price
+	♊️ deadline
+	♊️ project_name
+	♊️ client_name
+	♊️ country
+	♊️ time_deference
+	♊️ client_technical_expertise
+	♊️ project_objectives
+
+Possible component about requirements gathering ✋️:
+	♊️ client_job_description
+	♊️ application_core_feature
+	♊️ questions_answer
+	♊️ domain_knowledge
+	♊️ constrain
+	♊️ existing_solutions_key_point
+	♊️ data_structure
+	♊️ web_scraping_meta_data
+	♊️ web_application_meta_data
+
+Requirements analyzing steps and component ✋️:
+	♊️ system_user (identify systems user and their goals)
+	♊️ application_core_feature (identify application core feature)
+	➡️ draw Use Case diagram
+
+Requirements processing steps and component ✋️:
+	♊️ project_scope_description
+	♊️ functional_requirement
+	♊️ nonfunctional_requirement
+	♊️ project_delivery_process
+	♊️ project_delivery_materials
+	♊️ data_structure
+	♊️ web_scraping_meta_data
+	♊️ web_application_meta_data
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
