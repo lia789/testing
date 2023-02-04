@@ -12,6 +12,7 @@ What steps to follow building a Web Application solutions❓️
 		👉️ Gather requirements help of existing document, domain knowledge and questions
 		👉️ Analyzing requirements
 		👉️ Process requirements
+		👉️ UX UI design component
 	5. Design user interface help of this structure:
 		👉️ Inspire with other existing solutions
 		👉️ Write down visually about website structure
@@ -67,6 +68,7 @@ Possible meta data component about project and client ✋️:
 	♊️ deadline
 	♊️ project_name
 	♊️ client_name
+	♊️ client_designation
 	♊️ country
 	♊️ time_deference
 	♊️ client_technical_expertise
@@ -97,6 +99,12 @@ Requirements processing steps and component ✋️:
 	♊️ data_structure
 	♊️ web_scraping_meta_data
 	♊️ web_application_meta_data
+
+UX UI design component ✋️:
+	♊️ Who are user of this system?
+	♊️ What are their desire expectations about this system?
+	♊️ What are list of pages should have?
+
 
 
 
