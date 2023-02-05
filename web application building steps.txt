@@ -14,7 +14,7 @@ this document about building web application with Django🖐️
 			➡️ Web Scraping Meta Data
 			➡️ Data Structure
 			➡️ Web Application Meta Data
-	4️⃣️ Building "Vision Document"📃️ with this structure:
+	4️⃣️ Building "Vision Document 📃️" with this structure:
 		👉️ Write down project and client meta data
 		👉️ Gather requirements help of existing document, domain knowledge and questions
 		👉️ Analyzing requirements
@@ -28,7 +28,7 @@ this document about building web application with Django🖐️
 		👉️ Draw wire frame diagram  
 	6️⃣️ Writing project scope document
 	7️⃣️ Validation with client project scope and UI documents
-	8️⃣️ Write "Design Document" for building solution
+	8️⃣️ Write "Design Document 📃️" for building solution
 	9️⃣️ Build solution based on "Design Document" Milestone
 	🔟️ Handover project and do all formalities like asking good review, store projects on "Archive"
 
@@ -157,6 +157,32 @@ Steps about building a Design document:
 	👉️ Integrating web scraping code
 	👉️ Handle exceptions and display meaningful error messages to the user
 	👉️ Deploy the application
+
+	➡️ List of common framework component for building Django project:
+		♊️ django_framework_core_feature
+		♊️ project_name
+		♊️ application_name
+		♊️ model_class_name_&_field
+		♊️ superuser_name
+		♊️ views_description
+		♊️ urls_pattern_description
+		♊️ web_scraping_integrating_description
+		♊️ forms_description
+		♊️ database_query_description
+
+		
+
+
+⬜️ What are supported materials available building Django application efficiency❓️
+	➡️ django-crispy-forms (https://django-crispy-forms.readthedocs.io/en/latest/)
+	➡️ django-import-export (https://django-import-export.readthedocs.io/en/latest/index.html)
+	➡️ django-filter (https://django-filter.readthedocs.io/en/stable/)
+	➡️ Django Debug Toolbar (https://django-debug-toolbar.readthedocs.io/en/latest/)
+	➡️ Django-Sentry (https://docs.sentry.io/platforms/python/guides/django/)
+	➡️ django-extensions (https://django-extensions.readthedocs.io/en/stable/index.html)
+	➡️ django-simple-history (https://django-simple-history.readthedocs.io/)
+	➡️ django-model-utils (https://github.com/jazzband/django-model-utils)
+	➡️ django-environ (https://django-environ.readthedocs.io/en/latest/)
 
 
 
