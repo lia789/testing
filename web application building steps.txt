@@ -141,8 +141,38 @@ Steps about building a Design document:
 
 
 
-	
+⬜️ How to build a Django project❓️
+	👉️ Make sure, You have "Design Document"
+	👉️ Project
+	👉️ Application
+	👉️ Setup Django project settings
+	👉️ Define models about your application
+	👉️ Define admin
+	👉️ Migrate models and create super user
+	👉️ Create forms based on requirements
+	👉️ Define views as requirements
+	👉️ Create URL patterns
+	👉️ Design templates and work with static file
+	👉️ Implement authentication and sessions
+	👉️ Integrating web scraping code
+	👉️ Handle exceptions and display meaningful error messages to the user
+	👉️ Deploy the application
 
+
+
+## Raw Requirements for Django ##
+- virtual environment
+- define project requirements
+- choose database
+- define structure of the project
+- work with security
+- implement caching
+- setup 3rd party packages for Django best practices
+- implement analytic in your project, to track the performance and usage of the application
+- implement logging in your project, to track errors and debug issues
+- optimize the performance of the application, by using efficient algorithms, minimizing the number of database queries, and using caching where possible
+- implement continuous integration and deployment
+- implement email and SMS notifications in your project, to send notifications to users
 
 
 
