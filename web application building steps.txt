@@ -38,15 +38,14 @@ this document about building web application with Django🖐️
 ⬜️ What about feasibility study❓️
 Your subconscious mind will define project is feasible or not,
 some common factor are:
-	- Can I do this confident
-	- Match project catalog
-	- Done it before
-	- Understand domain
-	- Enough time
-	- Good client
-	- Handsome money
+	➡️ Can I do this confident
+	➡️ Match project catalog
+	➡️ Done it before
+	➡️ Understand domain
+	➡️ Enough time
+	➡️ Good client
+	➡️ Handsome money
 	
-
 
 ⬜️ What about communication with client and asking questions❓️
 This is tricky part only communication skills save us, convert prospect to sales.
@@ -149,10 +148,9 @@ Design base line data components:
 	♊️ project_delivery_materials
 	♊️ project_architecture
 	♊️ code_structure
-	♊️ 
-	♊️
-	♊️
-	♊️
+	♊️ data_structure
+
+
 
 ⬜️ How to build a Django project❓️
 	👉️ Make sure, You have "Design Document"
@@ -175,7 +173,7 @@ Design base line data components:
 		♊️ django_framework_core_feature
 		♊️ project_name
 		♊️ application_name
-		♊️ model_class_name_&_field
+		♊️ model_class_name
 		♊️ superuser_name
 		♊️ views_description
 		♊️ urls_pattern_description

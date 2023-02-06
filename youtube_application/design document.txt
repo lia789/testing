@@ -28,7 +28,7 @@
 ✅️ data_structure:
 	➡️ Channels Meta Data, based on keyword search
 		♊️ title
-		♊️ description
+		♊️ descriptions
 		♊️ country
 		♊️ view_count
 		♊️ comment_count
@@ -60,4 +60,78 @@
 		♊️ end_time
 		♊️ spider_running_duration_time
 		♊️ job_finish_number
+
+
+✅️ architecture: True
+✅️ code_structure: Django Project
+	
+
+
+
+
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ DJANGO FRAMEWORK COMPONENT ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+
+✅️ django_framework_core_feature:
+	♊️ keyword as user input
+	♊️ submit button
+	♊️ display limited data as like pandas data frame
+	♊️ download file as CSV
+
+
+✅️ project_name: youtube_metrics
+✅️ application_name: data_miner_app
+✅️ model_class_name:
+	 ChannelsMetaData
+	 CommentsData
+	 ChannelsMetaData
+	 
+✅️ superuser_name_&_password: admin, 123
+
+✅️ views_description:
+	There will be "channels_meta_data" function based view,
+	that will read user input and collect data from YouTube API, save on database, and redirect to channels_meta_data_scraping page for down load data as CSV file.
+	channels_meta_data_scraping will be another function based view, that will show small amount of data and a download button to get scraping data as CSV file from database and clean the database after download CSV from client end, and redirect to home page. 
+
+	Do this every feature of this application, make sure every feature should have separate application
+
+
+✅️ web_scraping_integrating_description:
+	Reading keyword from user and inject on API query parameters
+
+✅️ database_query_description:
+	YouTube API data should store on data base as bulk upload, and delete bulk after user download the CSV file
+	
+	
+	
+
+
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ UX UI DESIGN PROCESS ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+
+✅️ list of task about UX UI:
+	♊️ Define website text content
+	♊️ Define color about application
+
+
+
+
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ PROJECT DELIVERY PROCESS ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+
+✅️ project_delivery process:
+	♊️ Project will deploy on render
+	♊️ Supported materials will be polish after complete full feature application
+	♊️ Materials will be store on "admin" repository
+
+
+
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ PROJECT MILESTONE ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+	1️⃣️ Build Django project structure
+	2️⃣️ Design user interface top of Django project
+	3️⃣️ Build YouTube data extraction code on Jupyter lab
+	4️⃣️ Integrate data extraction code with Django
+	5️⃣️ Deploy application on render
+	6️⃣️ Add other supported page on application
+	7️⃣️ Add full feature data extraction code on application
+	8️⃣️ Deploy application
+	9️⃣️ Organize files and close the project
+
 

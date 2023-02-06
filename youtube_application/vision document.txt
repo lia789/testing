@@ -177,12 +177,7 @@ Use YouTube API for building high quality solutions
 	
 
 
-######### LIST OF PENDING TASK #########
-list of pending task, that will filup gaps 2nd version of project:
-	1. UX UI philosophy document
-	2. Designing Userflow, Wireframe, and MOC file on Figma
-	3. Designing static pages like: about, FAQ, and tutorial page
-	4. YouTube API, web scraping, and data structure will develop when feature need
+
 
 
 
