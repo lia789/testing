@@ -120,3 +120,169 @@
     RETRY_TIMES = 2
 
 
+
+**Scrapy Logs**
+
+
+    $ scrapy crawl spider_name --nolog
+    
+    #Scrapy logs settings
+    LOG_ENABLED = True
+    LOG_FILE = "logs.log"
+    LOG_FILE_APPEND = False                                                   # Overwrite existing log file
+    LOG_FORMAT = "%(asctime)s %(levelname)s: %(message)s"
+    LOG_LEVEL = "INFO"
+    
+    # Writing custom logs
+    import logging
+    class MySpider(scrapy.Spider):
+        def parse(self, response):
+            logging.warning("This is a warning message")
+            logging.info("This is an info message")
+            logging.debug("This is a debug message")
+
+
+**Scrapy Items and Data Cleaning**
+
+
+    # Extract data as Yield Dictionary
+    def parse(self, response):
+        for quote in response.xpath('//div[@class="quote"]'):
+            yield {
+                'text': quote.xpath('./span[@class="text"]/text()').get(),
+                'author': quote.xpath('.//small[@class="author"]/text()').get(),
+            }
+
+   	# Extract data as Scrapy Items with out item loader
+	       - Steps One: Define Items on items.py
+	       - Steps Two: Write spider code based on items
+	       - Steps Three: Write data cleaning code on pipeline file
+	       - Steps Four: Sync item pipeline on Scrapy settings
+        
+    #items.py
+    import scrapy
+    class MyItem(scrapy.Item):
+        name = scrapy.Field()
+        age = scrapy.Field()
+        
+    
+    #spider.py
+    import scrapy
+    from ..items import MyItem
+    
+    def parse(self, response):
+        item = MyItem()
+        name = sel.xpath('//div[@class="name"]/text()').get()
+        age = sel.xpath("normalize-space(//div[@class='age']/text())").get()  # With normalize space
+        item['name'] = name
+        item['age'] = age
+        yield item
+   
+    #pipelines.py
+    import re
+    
+    def holding_only_int(value):                                                               # Data cleaning function
+        if value is not None:
+            raw_value = re.findall(r'\d+', value)
+            clean_int_value = ''.join(raw_value)
+        else:
+            clean_int_value = 0
+        return clean_int_value
+    
+    
+    class QuotesBotPipeline:  # Default pipeline
+        def process_item(self, item, spider):
+            return item
+        
+    
+    class DataCleanerPipeline(QuotesBotPipeline):
+        def process_item(self, item, spider):  # Define columns, that need data cleaning
+            item["text"] = item["text"][1:-1]
+            item["fixed"] = holding_only_int(item["fixed"]
+            return item
+       
+    #settings.py
+    ITEM_PIPELINES = {
+        'quotes_bot.pipelines.DataCleanerPipeline': 200,
+        # 'quotes_bot.pipelines.QuotesBotPipeline': 300,
+    }
+
+
+
+
+**Scrapy spiders with Python program**
+
+
+    # Running spider with Python script synchronously with Subprocess
+    import subprocess
+    subprocess.run(["scrapy", "crawl", "quotes", "-o", "quotes_all.json"])
+   
+    # Running spider with Python script asyncronously and symonitiosly
+    process_1 = subprocess.Popen(["scrapy", "crawl", "quotes", "-o", "Data.csv"])
+    process_2 = subprocess.Popen(["scrapy", "crawl", "quotes", "-o", "Data_2.csv"])
+    process_1.wait()
+    process_2.wait()
+
+    # Running Scrapy project spider with crawler process
+    from scrapy.crawler import CrawlerProcess
+    from quotes_bot.spiders.quotes import QuotesSpider
+    from scrapy.utils.project import get_project_settings
+    
+    process = CrawlerProcess(get_project_settings())
+    process.crawl(QuotesSpider)
+    process.start()
+
+    # Running Scrapy spider with a Python script
+    import scrapy
+    from scrapy.crawler import CrawlerProcess
+    
+    class QuotesSpider(scrapy.Spider):
+        name = 'quotes'
+        start_urls = ['http://quotes.toscrape.com/']
+    
+        def parse(self, response):
+            pass
+    
+    if __name__=="__main__":
+        process = CrawlerProcess(
+            settings={
+                "FEEDS": {"items.json": {"format": "json"},
+                },
+            })
+        
+        process.crawl(QuotesSpider)
+        process.start()
+
+    # Saving Scrapy data as pandas df from Python script
+    
+    #main.py
+    import pandas as pd
+    from scrapy import signals
+    from scrapy.crawler import CrawlerProcess, Crawler
+    from scrapy.utils.project import get_project_settings
+    from quotes_bot.spiders.quotes import QuotesSpider
+    
+    # Twisted reactor installation code
+    from twisted.internet import asyncioreactor
+    asyncioreactor.install()
+    
+    items = []
+    
+    process = CrawlerProcess(get_project_settings())
+    quote_crawler = Crawler(QuotesSpider, get_project_settings())
+    
+    def handle_item_scraped(item):  # Singnal function
+        text =  item["text"] 
+        author = item["author"]
+        data = {"text": text, "author": author}
+        items.append(data)
+        
+    quote_crawler.signals.connect(handle_item_scraped, signal=signals.item_scraped)  # Defining signal
+    process.crawl(quote_crawler)
+    process.start()
+    
+    # Save data as pandas df
+    df = pd.DataFrame(items)
+    df.to_csv("quotes.csv", index=False)
+
+
