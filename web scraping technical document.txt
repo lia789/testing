@@ -1,0 +1,193 @@
+"""
+this document about technical details about Web Scraping 🖐️
+"""
+
+
+
+==================================
+Web scraping Meta Data
+==================================
+___Type of web scraping design pattern we have:
+	1. Static Website
+	2. Hidden API
+	3. Simple Dynamic Website
+	4. Hard Dynamic Website with Playwright
+	5. Headless API
+	6. Combination of Multiple Pattern
+
+
+___Identify web scraping design pattern:
+	1. Check website type (static or dynamic) with "Disable JavaScript" chrome extension
+	2. Find out "Hidden API" if any thing out there with chrome developer "network" tab (optional)
+	3. Identify bot detect technology behind website with "Wappalyzer" chrome extension
+	4. View captcha result with website testing tools ("https://tools.pingdom.com/", "https://gtmetrix.com/", "https://tools.keycdn.com/speed")
+	5. Find out project pattern combine (optional)
+	6. Write down design pattern 
+
+
+
+___Common component about "Scrapy" framework:
+	* project name
+	* spider name
+	* start request description
+	* parse method description
+	* pagination description
+	* data_extraction method description (optional)
+	* key settings description
+	* define proxy integration (optional)
+	* define Scrapy logs system (optional)
+
+
+
+
+___Building web scraping project with Scrapy:
+	1. Make sure you have design document
+	2. Scrapy project
+	3. Spider
+	4. Define models on items.py file
+	5. Write spider code
+	6. Do data cleaning task on pipelines.py file
+	7. Define important settings and logs
+	8. Test spider and foreword next software development task
+
+
+
+
+=================================
+STATIC WEBSITE
+=================================
+Component about "STATIC WEBSITE" and common milestone task:
+	__component
+		* Scrapy project components
+		* proxy integration overview (optional)
+		* spider running machine
+
+	__milestone
+		* Write XPATH code on Jupyter lab
+		* Build project based on Scrapy steps
+		
+
+
+
+=================================
+HIDDEN API
+=================================
+component about "HIDDEN API" and common milestone task:
+	__component & steps
+		* Website URL (hidden API mother website)
+		* API URL
+		* Pagination (Find out pagination structure help of Insomnia)
+		* Cookies (Find Out Cookies are important are not)
+		
+	__milestone
+		* Build project on Insomnia, handle pagination, cookies, and data validation
+		* Write JSON data extraction code Jupyter lab and handle error
+		* Setup Scrapy project 
+		* Inject cookies on Scrapy project, validate data (optional)
+
+
+
+
+=================================
+SIMPLE DYNAMIC WEBSITE
+=================================
+component about "SIMPLE DYNAMIC WEBSITE" and common milestone task:
+	__component
+		* Brain storm about target website find easy navigation
+		* Write Playwright automation code on Python file
+		* Scrapy-Playwright settings overview (optional)
+		* Proxy solutions overview (optional)
+		* Scrapy project structure components
+	__milestone
+		* Write website navigation Playwright script on Jupyter lab (optional)
+		* Write XPATH code on Jupyter lab
+		* Setup Scrapy project structure based on design document
+		* Integrate Playwright settings and write spider code and test
+		
+
+
+
+
++++++++++++++++++++++++++++++++++++++
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================
+HARD DYNAMIC WEBSITE
+=================================
+component about "HARD DYNAMIC WEBSITE with PLAYWRIGHT & ZYTE" and common milestone task:
+	__component
+		* "Brain Storming" description, about website structure for scraping easy
+		* Website navigation structure (optional)
+		* Typical request count, identify request number with random page on Chrome developer tools with network tab (optional)
+		* Estimate cost					(optional)
+		* Scrapy project structure components
+	__milestone
+		* Write Xpath code on Jupyter lab
+		* Write website navigation script on Playwright notebook (optional)
+		* Integrate Zyte proxy solutions on Playwright script, and build small test
+		* Setup Scrapy project structure based on design document
+		* Integrate Playwright settings and write spider code
+		* Integrate proxy tools with scrapy-playwright and test
+	
+	
+
+
+
+=================================
+Headless API
+=================================
+component about "Headless API" and common milestone task:
+	__component
+		* "Brain Storming" description, about website structure for scraping easy
+		* Website navigation structure							(optional)
+		* Proxy solution description							(optional)
+		* Proxy cost									(optional)
+		* Scrapy project structure component
+	__milestone
+		* Write Xpath code on Jupyter lab
+		* Test proxy solutions code with single web page in Jupyter lab, and identify settings
+		* Setup Scrapy project structure based on design document
+		* Integrate proxy solution with Scrapy and test
+		
+		
+		
+___Bot protection company in market:
+	- Perimeterx			    https://www.perimeterx.com
+	- Cloudflare    		    https://www.cloudflare.com/products/bot-management
+	- Akamai		            https://www.akamai.com/products/bot-manager
+	- Google Recaptcha 		    https://www.google.com/recaptcha/about
+	- hCapthca 		            https://www.hcaptcha.com
+        - Datadome                          https://datadome.co/
+        - Imperva                           https://www.imperva.com/products/advanced-bot-protection-management/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
