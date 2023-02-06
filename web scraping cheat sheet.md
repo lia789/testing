@@ -77,5 +77,46 @@
         
         # With scrapy build in base url
         yield response.follow(next_page, callback=self.parse)
+
+
+
+**Scrapy Settings**
+
+    # Settings per-spider
+    class MySpider(scrapy.Spider):
+        name = "myspider"
+        custom_settings = {"DOWNLOAD_DELAY": "some value",}
+ 
+    # Settings per-request
+    yield scrapy.Request(url, callback=self.parse, meta={'download_delay': 10})
+  
+    # Access settings in spider
+    def parse(self, response):
+        print(f"Existing settings: {self.settings.attributes.keys()}")
+
+    # List of Scrapy common settings
+    CONCURRENT_ITEMS = 100  #concurrent item to process in paralles
+    DOWNLOAD_TIMEOUT = 180
+    DOWNLOAD_MAXSIZE = 1073741824 #1024MB
+    DUPEFILTER_DEBUG = False  # True will make all duplicate requests log
     
+    JOBDIR = ""  # directory for storing the state of a crawl when pausing and resuming crawls
+    
+    LOG_ENABLED = True
+    LOG_FILE = "spider_logs.log"
+    LOG_FILE_APPEND = True # False, will overwrite logs file
+    
+    CLOSESPIDER_ITEMCOUNT = 0
+    CLOSESPIDER_PAGECOUNT = 0
+    CLOSESPIDER_ERRORCOUNT = 0
+    
+    HTTPCACHE_ALWAYS_STORE = False
+    HTTPCACHE_ENABLED = False
+    HTTPCACHE_EXPIRATION_SECS = 0
+    HTTPCACHE_IGNORE_HTTP_CODES = []
+    HTTPCACHE_IGNORE_SCHEMES = []
+    
+    RETRY_ENABLED = True
+    RETRY_TIMES = 2
+
 
