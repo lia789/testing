@@ -1,0 +1,63 @@
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ PROJECT META DATA ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+
+✅️ project_name: "YouTube Metrics Manager"
+✅️ price: 300$
+✅️ deadline:
+✅️ client_technical_expertise: High
+
+
+
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ DESIGN BASELINE ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+
+✅️ high_level_separation_of_concern:
+	➡️ Design user friendly UI
+	➡️ Build YouTube web scraping script and extract data from API
+	➡️ Write Django framework code structure
+	➡️ Integrate web scraping script with Django, and build dynamic scraping status with JavaScript
+	➡️ Compose everything code structure on Docker container and deploy on Render
+
+	
+✅️ project_delivery_materials:
+	➡️ Live website on Render
+	➡️ Store source code and other materials on "admin" repository
+
+
+✅️ project_architecture: True
+✅️ code_structure: True
+
+✅️ data_structure:
+	➡️ Channels Meta Data, based on keyword search
+		♊️ title
+		♊️ description
+		♊️ country
+		♊️ view_count
+		♊️ comment_count
+	
+	➡️ Comment Scraper
+		♊️ author_display_name
+		♊️ author_channels_url
+		♊️ text_display
+		♊️ published
+		♊️ like_count
+	
+	➡️ Individual Channels All Video Meta Data
+		♊️ 
+		♊️
+		♊️
+
+	➡️ Search Videos Meta Data
+		♊️
+		♊️
+		♊️
+
+	➡️ ScrapyD Meta Data
+		♊️ running_job
+		♊️ pending_job
+		♊️ finished
+		♊️ job_id
+		♊️ spider_list
+		♊️ start_time
+		♊️ end_time
+		♊️ spider_running_duration_time
+		♊️ job_finish_number
+

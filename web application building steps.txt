@@ -138,8 +138,21 @@ Steps about building a Design document:
 	👉️ Write down project delivery process
 	👉️ Write milestone task for building the solution 
 
+Design document project meta data components:
+	♊️ project_name
+	♊️ price
+	♊️ deadline
+	♊️ client_technical_expertise
 
-
+Design base line data components:
+	♊️ high_level_separation_of_concern
+	♊️ project_delivery_materials
+	♊️ project_architecture
+	♊️ code_structure
+	♊️ 
+	♊️
+	♊️
+	♊️
 
 ⬜️ How to build a Django project❓️
 	👉️ Make sure, You have "Design Document"
