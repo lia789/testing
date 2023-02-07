@@ -156,6 +156,7 @@ Design base line data components:
 	👉️ Make sure, You have "Design Document"
 	👉️ Project
 	👉️ Application
+	👉️ Setup file structure
 	👉️ Setup Django project settings
 	👉️ Define models about your application
 	👉️ Define admin
