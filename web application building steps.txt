@@ -1,44 +1,28 @@
-"""
-this document about building web application with Django🖐️
-"""
+""" this document about building web application 🖐️ """
 
 
-⬜️ What steps to follow building a Web Application solutions❓️
+⬜️ What steps to follow building a Web Application solution for client❓️
 	1️⃣️ Do feasibility study with your subconscious mind
-	2️⃣️ Write proposal with application core feature and mention project name
-	3️⃣️ Communication client and asking questions like
-			➡️ Business Goals
-			➡️ System User
-			➡️ System Core Feature
-			➡️ Similar Solution
-			➡️ Web Scraping Meta Data
-			➡️ Data Structure
-			➡️ Web Application Meta Data
-	4️⃣️ Building "Vision Document 📃️" with this structure:
-		👉️ Write down project and client meta data
-		👉️ Gather requirements help of existing document, domain knowledge and questions
-		👉️ Analyzing requirements
-		👉️ Process requirements
-		👉️ UX UI design component
-	5️⃣️ Design user interface help of this structure:
-		👉️ Inspire with other existing solutions
-		👉️ Write down website structure
-		👉️ Draw user flow diagram
-		👉️ Draw web pages scratch on paper
-		👉️ Draw wire frame diagram  
-	6️⃣️ Writing project scope document
-	7️⃣️ Validation with client project scope and UI documents
-	8️⃣️ Write "Design Document 📃️" for building solution
-	9️⃣️ Build solution based on "Design Document" Milestone
-	🔟️ Handover project and do all formalities like asking good review, store projects on "Archive"
+	2️⃣️ Write proposal with application core feature
+	3️⃣️ Convert prospect into sales, and collect project building materials
+	4️⃣️ Building "Vision Document 📃️"
+	5️⃣️ Design User Interface
+	6️⃣️ Writing "SRS Document 📃️"
+	7️⃣️ Validate "SRS" and UI files with client
+	8️⃣️ Write "Design Document 📃️"
+	9️⃣️ Build solution based on design document Milestone 🖥️
+	🔟️ Handover and close project
+
+
+
 
 
 
 
 ⬜️ What about feasibility study❓️
-Your subconscious mind will define project is feasible or not,
+Your subconscious mind will define project is feasible or not.
 some common factor are:
-	➡️ Can I do this confident
+	➡️ Can I do this
 	➡️ Match project catalog
 	➡️ Done it before
 	➡️ Understand domain
@@ -48,14 +32,14 @@ some common factor are:
 	
 
 ⬜️ What about communication with client and asking questions❓️
-This is tricky part only communication skills save us, convert prospect to sales.
+This is tricky part only communication and business skills save pus to convert prospect into sales.
 This is list of goals about initial communication with client:
-	➡️ Consult client and uncover client real need
-	➡️ Convert communication to sales
-	➡️ Collect project building materials
+	➡️ Consult client and uncover client true requirements
+	➡️ Convert prospect to sales
+	➡️ Collect project building technical materials
 
 I should ask questions based on this topics:
-	➡️ Business Goals
+	➡️ Business Goal
 	➡️ System User
 	➡️ System Core Feature
 	➡️ Similar Solution
@@ -65,11 +49,36 @@ I should ask questions based on this topics:
 
 
 
-⬜️ How to build "Vision Document" for a project❓️
-Vision document is base band about building a high quality project, before start building a Vision document make sure you convert it into sales.
-Start with creating a GitHub repository and copy Vision Document template file.
 
-Possible meta data component about project and client ✋️:
+
+
+
+⬜️ How to build "Vision Document" for a project❓️
+Vision document is base band about building high quality solutions.
+
+Steps about building a Vision document:
+	👉️ Make sure, you won the project
+	👉️ Create a GitHub repository
+	👉️ Copy "Vision Document" templates
+	👉️ Write down project meta data
+	👉️ Organize requirements
+		➡️ write project description
+		➡️ organize existing important document
+		➡️ write application core feature as short sentence
+		➡️ write project business goal
+		➡️ work with domain knowledge and constrain
+		➡️ analyze existing solutions and write down key point
+	👉️ Process requirements
+		➡️ identify systems user and their goals
+		➡️ draw use case diagram
+		➡️ write application description for SRS document
+		➡️ write functional and nonfunctional requirements
+		➡️ write project delivery process and materials
+		➡️ define data structure
+		➡️ write web application and web scraping meta data
+	👉️ Write UX UI design component
+
+Project and Client meta data component ✋️:
 	♊️ title
 	♊️ price
 	♊️ deadline
@@ -79,26 +88,18 @@ Possible meta data component about project and client ✋️:
 	♊️ country
 	♊️ time_deference
 	♊️ client_technical_expertise
-	♊️ project_objectives
-
+	
 Possible component about requirements gathering ✋️:
 	♊️ client_job_description
+	♊️ existing_important_document
 	♊️ application_core_feature
+	♊️ project_business_goals
 	♊️ questions_answer
-	♊️ domain_knowledge
-	♊️ constrain
+	♊️ domain_knowledge and constrain
 	♊️ existing_solutions_key_point
-	♊️ data_structure
-	♊️ web_scraping_meta_data
-	♊️ web_application_meta_data
-
-Requirements analyzing steps and component ✋️:
-	♊️ system_user (identify systems user and their goals)
-	♊️ application_core_feature (identify application core feature)
-	➡️ draw Use Case diagram
-
+	
 Requirements processing steps and component ✋️:
-	♊️ project_scope_description
+	♊️ project_description
 	♊️ functional_requirement
 	♊️ nonfunctional_requirement
 	♊️ project_delivery_process
@@ -115,7 +116,10 @@ UX UI design component ✋️:
 
 
 
+
+
 ⬜️ How to build "Design Document"❓️
+Design document is blue print document, based on design document milestones full project will build.
 Based on "Design Document" milestone full solution will build, it insure easy and high quality solution building process.
 Design document has this list of materials:
 	➡️ "Design Document" writing on text file
@@ -125,10 +129,10 @@ Design document has this list of materials:
 
 Steps about building a Design document:
 	👉️ Make sure You have Vision Document, SRS, and other supported files
-	👉️ Write project meta data
+	👉️ Write project meta datap
 	👉️ Define high level separation of concern about the solution
 	👉️ Write project delivery materials
-	👉️ Define architecture about solutions, and design diagram
+	👉️ Define architecture about solutions
 	👉️ Define code structure about project
 	👉️ Define data structure
 	👉️ Write Django framework components
@@ -144,11 +148,28 @@ Design document project meta data components:
 	♊️ client_technical_expertise
 
 Design base line data components:
-	♊️ high_level_separation_of_concern
+	♊️ high_level_separation_of_concernp
 	♊️ project_delivery_materials
 	♊️ project_architecture
 	♊️ code_structure
 	♊️ data_structure
+
+
+
+
+
+
+
+⬜️ How to build User Interface❓️
+	👉️ Inspire with existing solutions
+	👉️ Write down website structure
+	👉️ Draw user flow diagram
+	👉️ Draw web pages scratch on paper
+	👉️ Draw wire frame diagram
+
+
+
+
 
 
 
@@ -158,7 +179,7 @@ Design base line data components:
 	👉️ Application
 	👉️ Setup file structure
 	👉️ Setup Django project settings
-	👉️ Define models about your application
+	👉️ Define models about your applicationp
 	👉️ Define admin
 	👉️ Migrate models and create super user
 	👉️ Create forms based on requirements
@@ -171,7 +192,7 @@ Design base line data components:
 	👉️ Deploy the application
 
 	➡️ List of common framework component for building Django project:
-		♊️ django_framework_core_feature
+		♊️ django_framework_core_featurep
 		♊️ project_name
 		♊️ application_name
 		♊️ model_class_name
@@ -185,6 +206,20 @@ Design base line data components:
 		
 
 
+
+
+
+
+
+
+
+
+
+
+
+## RAF ##
+
+
 ⬜️ What are supported materials available building Django application efficiency❓️
 	➡️ django-crispy-forms (https://django-crispy-forms.readthedocs.io/en/latest/)
 	➡️ django-import-export (https://django-import-export.readthedocs.io/en/latest/index.html)
@@ -195,6 +230,8 @@ Design base line data components:
 	➡️ django-simple-history (https://django-simple-history.readthedocs.io/)
 	➡️ django-model-utils (https://github.com/jazzband/django-model-utils)
 	➡️ django-environ (https://django-environ.readthedocs.io/en/latest/)
+
+
 
 
 
@@ -211,16 +248,3 @@ Design base line data components:
 - optimize the performance of the application, by using efficient algorithms, minimizing the number of database queries, and using caching where possible
 - implement continuous integration and deployment
 - implement email and SMS notifications in your project, to send notifications to users
-
-
-
-
-
-
-
-
-
-
-
-
-

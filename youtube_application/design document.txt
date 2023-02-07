@@ -1,6 +1,6 @@
 ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ PROJECT META DATA ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
-✅️ project_name: "YouTube Metrics Manager"
+✅️ project_name: "YouTube Data Application"
 ✅️ price: 300$
 ✅️ deadline:
 ✅️ client_technical_expertise: High

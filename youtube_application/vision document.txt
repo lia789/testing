@@ -3,7 +3,7 @@
 ✅️ title: YouTube Data Collection Tool for Content Creators
 ✅️ price: 300$
 ✅️ deadline:
-✅️ project_name: "YouTube Metrics Manager"
+✅️ project_name: "YouTube Data Tools"
 ✅️ client_name:
 ✅️ client_country: UK
 ✅️ time_deference: -4H
@@ -13,46 +13,40 @@
 
 
 
+
+
+
 ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ REQUIREMENTS GATHERING ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
 ✅️ project_descriptions:
 """
+I am looking for an experienced freelance web developer to build a custom web application that will collect data from YouTube.
 The application will be used by YouTube content creators, and must have a user-friendly interface.
 The following features are required:
-1. "Input search keyword functionality"
-   - The user will input a search keyword and the application will collect 100 channel metadata from YouTube.
-2. "Video URL input functionality"
-   - The user will input a video URL and the application will collect all comments data.
-3. Keyword search functionality
-   - The user will input a keyword that will search on YouTube and collect all recent video metadata.
+1. "100 Channels meta data based on keyword"
+   	- The user will input a search keyword and the application will collect 100 channel metadata from YouTube.
+2. "Comments data based on video URL"
+   	- The user will input a video URL and the application will collect all comments data.
+3. "Videos meta data based on channel URL"
+   	- The user will input a channel URL and application will collect all channel videos meta data.
 """
 
+
 ✅️ core_application_feature:
-	1. Input search keyword functionality - allows users to input a search keyword and collect 100 channel metadata from YouTube.
-	2. Video URL input functionality - allows users to input a video URL and collect all comments data.
-	3. Keyword search functionality - allows users to input a keyword that will search on YouTube and collect all recent video metadata.
+	1. 100 channels meta data based on user input keyword
+	2. Comments data based on video URL as user input
+	3. All uploaded videos meta data based on channels URL as user input
+	4. View scraping data as small part and export data as CSV
+	5. User friendly interface for wide range of peoples
 	
+
 
 ✅️ project_objective:
 """
-This project aims to build a subscription-based data solution for YouTube content creators. The tool will collect and analyze channel metadata, video metadata, and comment data to provide content creators with valuable insights and data to help grow their channels. The user-friendly interface will be offered as a subscription service to help content creators make informed decisions.
+This project aims to build a subscription-based data solution for YouTube content creators.
+Application will provide valuable data for YouTube content creators make informed decisions.
 """
 
-✅️ existing_important_document:
-"""
-* Build solutions with rich data sets
-* The application will be used by YouTube content creators, and must have a user-friendly interface.
-* 100 channel metadata from YouTube
-* collect all comments data
-* collect all recent video metadata for trending keyword based analytic
-
-"""
-
-
-✅️ domain_knowledge:
-"""
-Use YouTube API for building high quality solutions
-"""
 
 ✅️ similar_solutions:
 1. https://socialblade.com/
@@ -84,66 +78,74 @@ Use YouTube API for building high quality solutions
 
 
 
-⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ REQUIREMENTS ANALYZING ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+
+
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ REQUIREMENTS PROCESSING ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
 ✅️ system_user:
 	1. My team (understand solutions building steps)
 	2. Portfolio (quick preview by client)
 	3. Content Creators
 
-✅️ identified core application features:
-	1. Collect 100 channels meta data based on channels name as keyword from user input 
-	2. Export all comments to CSV file based on YouTube videos URL as user input
-	3. Export all videos meta data to CSV file based on YouTube channels URL as user input
-	4. Collect number of videos meta data based on YouTube search bar keyword as user input
-	5. Export trending YouTube videos meta data based on country and category
-	6. User friendly interface
+✅️ project_description:
+	"""
+	Build a web application tools that will collect YouTube data based on user input.
+	The application will be use YouTube content creator.
+	"""
 
-
-
-
-⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ REQUIREMENTS PROCESSING ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
 ✅️ functional_requirements:
-	➡️ R1: Keyword Input
-		The application shall accept a keyword from the user as input.
-		The keyword shall be limited to alphanumeric characters and have a maximum length of 100 characters.
-	➡️ R2: Video URL Input
-		The application shall accept a YouTube video URL from the user as input.
-	➡️ R3: Video Metrics Collection
-		The application shall collect video metrics from YouTube based on the provided keyword or video URL.
-		The metrics collected shall include video title, channel name, number of views, number of comments, etc.
-	➡️ R4: Comment Collection
-		The application shall collect all comments associated with the specified video.
-	➡️ R5: CSV Output
-		The application shall generate a CSV file containing the collected video metrics and comments data.
-		The user shall be able to download the CSV file via a button on the web page.
-	➡️ R6: User-Friendly Interface
-		The application shall have a user-friendly interface that allows users to easily input their keyword or video URL and view the collected data.
-	➡️ R7: Error Handling
-		If the user input is invalid, the application shall display an error message and ask the user to enter a valid keyword or video URL.
-		If there is an error collecting the video metrics or comments data, the application shall display an error message and terminate the process.
-		If there is an error generating the CSV file or providing it for download, the application shall display an error message and terminate the process.
+	➡️ R1: "keyword as user input and submit button (channels meta data)" 
+		1. The application shall accept a keyword (YouTube search) for channels meta data scraping
+		2. The keyword shall be limited to alphanumeric characters and have a maximum length of 100 characters.
+		3. A submit button for start data collection
+	
+	➡️ R2: "video URL as user input and submit button (comment data)"
+		1. The application shall accept a YouTube video URL from the user as input.
+		2. The video URL should be YouTube video format and application must valeted it before submit button
+		3. A submit button for start data collection
+	
+	
+	➡️ R3: "channels URL as user input and submit button (videos meta data"
+		1. The application shall accept a YouTube channels URL from the user as input.
+		2. The channels URL should be YouTube URL format and application must valeted it before submit button
+		3. A submit button for start data collection
+	
+	
+	View scraping data as small part and export data as CSV
+	
+	➡️ R4: "export data as CSV"
+		1. The application shall a user friendly scraping data preview page
+		2. A button for export data as CSV
+
+	➡️ R5: "user friendly interface"
+		1. The application shall have a user-friendly interface that allows users to easily input their keyword or video URL and view the collected data.
+		
+	➡️ R6: "error handling"
+		1. If the user input is invalid, the application shall display an error message and ask the user to enter a valid keyword or video URL.
+		2. If there is an error collecting the data, the application shall display an error message and terminate the process.
+		3. If there is an error generating the CSV file or providing it for download, the application shall display an error message and terminate the process.
 
 
 ✅️ nonfunctional_requirements:
-	➡️ Should have a user-friendly interface with clear and intuitive navigation.
+	➡️ Should have a user-friendly interface.
 	➡️ Should respond quickly to user inputs and retrieve data from YouTube with in 2 minutes
-	➡️ Protect user data and prevent unauthorized access to the data.
-	➡️ Capable of handling large amounts of data as the user base grows.
 	➡️ The application shall be compatible with a wide range of web browsers and operating systems.
-	➡️ The application shall be easy to maintain and have a clear documentation for future updates and improvements.
-	➡️ Don't harm IP address
+	➡️ Don't harm YouTube API
 	➡️ User should not use multiple feature at a single time
 	➡️ Should clear database every time after scraping data
 	
-✅️ project_delivery_process
+
+
+✅️ project_delivery_process: "Deploy on Render"
+
 ✅️ project_delivery_materials
 	* live application deployed on "Render"
 	* All project file will store on "admin" repository
 	* Make it as portfolio based on Fiverr conditions
 	* Make a project document for teams to visualize how to build a solutions
-✅️ data_structure
+
+
 
 
 
@@ -196,28 +198,5 @@ username: @bodhichittaju
 video_url: https://www.youtube.com/watch?v=fO08c37yhwc
 
 
-list of data points about channel search result:
-name: "বোধিচিত্ত"
-created: Nov 5th, 2016 
-videos: 202
-subscribers: 75.6k
-videos_views: 4311891
-channel_type: "education"
-badge: "B-"
-social_blade_rank: 731061
-subscriber_rank: 2603
-videos_rank: 1343919
-country_rank:
-education_rank: 1697
-subscriber_last_30_days: 700
-estimated_monthly_earning: "13$-204$"
-last_30_days_earning: "51.107k"
-daily_average_subscriber: 24
-daily_average_views: 11928
-last_30_days_subscriber: 700
-last_30_days_view: 51107
-
-
-For other as much as you can!
 
 
