@@ -7,23 +7,36 @@
 
 
 
-⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ DESIGN BASELINE ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+
+
+
+
+
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ HIGH LEVEL DESIGN COMPONENT ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+
+✅️ project_delivery_process:
+	♊️ Project will deploy on render
+	♊️ Supported materials will be polish after complete full feature application
+	♊️ Materials will be store on "admin" repository
+
 
 ✅️ high_level_separation_of_concern:
 	➡️ Design user friendly UI
 	➡️ Build YouTube web scraping script and extract data from API
 	➡️ Write Django framework code structure
-	➡️ Integrate web scraping script with Django, and build dynamic scraping status with JavaScript
-	➡️ Compose everything code structure on Docker container and deploy on Render
-
+	➡️ Integrate web scraping script with Django
+	➡️ deploy on Render
 	
-✅️ project_delivery_materials:
-	➡️ Live website on Render
-	➡️ Store source code and other materials on "admin" repository
-
-
 ✅️ project_architecture: True
-✅️ code_structure: True
+
+
+
+
+
+
+
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ LOW LEVEL DESIGN COMPONENT ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+
 
 ✅️ data_structure:
 	➡️ Channels Meta Data, based on keyword search
@@ -114,12 +127,9 @@
 
 
 
-⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ PROJECT DELIVERY PROCESS ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
-✅️ project_delivery process:
-	♊️ Project will deploy on render
-	♊️ Supported materials will be polish after complete full feature application
-	♊️ Materials will be store on "admin" repository
+
+
 
 
 

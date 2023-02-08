@@ -114,7 +114,7 @@ UX UI design component ✋️:
 
 
 ⬜️ How to build "Design Document"❓️
-Design document is blue print document, based on design document milestones full project will build.
+Building Design document means doing all hard word, raw coding and brain storming inside this part...
 Based on "Design Document" milestone full solution will build, it insure easy and high quality solution building process.
 Design document has this list of materials:
 	➡️ "Design Document" writing on text file
@@ -124,17 +124,20 @@ Design document has this list of materials:
 
 Steps about building a Design document:
 	👉️ Make sure You have Vision Document, SRS, and other supported files
-	👉️ Write project meta datap
-	👉️ Define high level separation of concern about the solution
-	👉️ Write project delivery materials
-	👉️ Define architecture about solutions
-	👉️ Define code structure about project
-	👉️ Define data structure
-	👉️ Write Django framework components
-	👉️ Write web scraping components
+	👉️ Write important project meta data
+	👉️ Write high level design component
+			➡️ Write project delivery process and materials
+			➡️ Define high level separation of concern about the solution
+			➡️ Draw architecture about solution
+	👉️ Write low level deign framework component		
+			➡️ Define data structure
+			➡️ Write Django framework components
+			➡️ Write web scraping components
+			➡️ Define code structure about project
+			➡️ Organize technical parts that need repeatedly in iterative mode
 	👉️ Define UX UI design process and possible task
-	👉️ Write down project delivery process
-	👉️ Write milestone task for building the solution 
+	👉️ Write milestone task for building the solution
+
 
 Design document project meta data components:
 	♊️ project_name
@@ -143,12 +146,11 @@ Design document project meta data components:
 	♊️ client_technical_expertise
 
 Design base line data components:
-	♊️ high_level_separation_of_concernp
+	♊️ high_level_separation_of_concern
 	♊️ project_delivery_materials
 	♊️ project_architecture
 	♊️ code_structure
 	♊️ data_structure
-
 
 
 
@@ -175,11 +177,7 @@ Design base line data components:
 	👉️ Setup file structure
 	👉️ Setup Django project settings
 	👉️ Define models about your applicationp
-	👉️ Define adminIt is quite common for everyone to be busy with daily tasks. My job is to find a way and organize materials so that you can use your time effectively while working on this project. Even starting with a little time is enough. Trust me, it will get easier and easier after the first 20 days.
-
-There may be some set conditions, we will not discuss tools, technology and business when we meet face-to-face. Our business communication should only be done online. There is a psychological reason for this, we should not talk at least in the early stage.
-
-Nice will to meet will Rakib, but should not be for talk about tools and technology.
+	👉️ Define admin
 	👉️ Migrate models and create super user
 	👉️ Create forms based on requirements
 	👉️ Define views as requirements
