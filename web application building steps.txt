@@ -129,8 +129,8 @@ Steps about building a Design document:
 			➡️ Write project delivery process and materials
 			➡️ Define high level separation of concern about the solution
 			➡️ Draw architecture about solution
-	👉️ Write low level deign framework component		
 			➡️ Define data structure
+	👉️ Write low level deign framework component		
 			➡️ Write Django framework components
 			➡️ Write web scraping components
 			➡️ Define code structure about project
@@ -145,12 +145,12 @@ Design document project meta data components:
 	♊️ deadline
 	♊️ client_technical_expertise
 
-Design base line data components:
+High level design components:
+	♊️ project_delivery_process
 	♊️ high_level_separation_of_concern
-	♊️ project_delivery_materials
 	♊️ project_architecture
-	♊️ code_structure
 	♊️ data_structure
+
 
 
 
@@ -176,7 +176,7 @@ Design base line data components:
 	👉️ Application
 	👉️ Setup file structure
 	👉️ Setup Django project settings
-	👉️ Define models about your applicationp
+	👉️ Define models about your application
 	👉️ Define admin
 	👉️ Migrate models and create super user
 	👉️ Create forms based on requirements
@@ -189,7 +189,7 @@ Design base line data components:
 	👉️ Deploy the application
 
 	➡️ List of common framework component for building Django project:
-		♊️ django_framework_core_featurep
+		♊️ django_framework_core_feature
 		♊️ project_name
 		♊️ application_name
 		♊️ model_class_name
