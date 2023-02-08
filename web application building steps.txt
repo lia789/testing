@@ -62,7 +62,7 @@ Steps about building a Vision document:
 	👉️ Copy "Vision Document" templates
 	👉️ Write down project meta data
 	👉️ Organize requirements
-		➡️ write project description
+		➡️ write Upwork project description
 		➡️ organize existing important document
 		➡️ write application core feature as short sentence
 		➡️ write project business goal
@@ -74,8 +74,6 @@ Steps about building a Vision document:
 		➡️ write application description for SRS document
 		➡️ write functional and nonfunctional requirements
 		➡️ write project delivery process and materials
-		➡️ define data structure
-		➡️ write web application and web scraping meta data
 	👉️ Write UX UI design component
 
 Project and Client meta data component ✋️:
@@ -104,9 +102,6 @@ Requirements processing steps and component ✋️:
 	♊️ nonfunctional_requirement
 	♊️ project_delivery_process
 	♊️ project_delivery_materials
-	♊️ data_structure
-	♊️ web_scraping_meta_data
-	♊️ web_application_meta_data
 
 UX UI design component ✋️:
 	♊️ Who are user of this system?
@@ -180,7 +175,11 @@ Design base line data components:
 	👉️ Setup file structure
 	👉️ Setup Django project settings
 	👉️ Define models about your applicationp
-	👉️ Define admin
+	👉️ Define adminIt is quite common for everyone to be busy with daily tasks. My job is to find a way and organize materials so that you can use your time effectively while working on this project. Even starting with a little time is enough. Trust me, it will get easier and easier after the first 20 days.
+
+There may be some set conditions, we will not discuss tools, technology and business when we meet face-to-face. Our business communication should only be done online. There is a psychological reason for this, we should not talk at least in the early stage.
+
+Nice will to meet will Rakib, but should not be for talk about tools and technology.
 	👉️ Migrate models and create super user
 	👉️ Create forms based on requirements
 	👉️ Define views as requirements

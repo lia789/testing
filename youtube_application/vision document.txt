@@ -48,31 +48,32 @@ Application will provide valuable data for YouTube content creators make informe
 """
 
 
-✅️ similar_solutions:
-1. https://socialblade.com/
-2. https://vidiq.com/
-3. https://www.tubebuddy.com/
-4. https://vidooly.com/
+✅️ similar_solutions_key_point:
+	1. https://socialblade.com/
+	2. https://vidiq.com/
+	3. https://www.tubebuddy.com/
+	4. https://vidooly.com/
 
-✅️ TubeBuddy:
-	1. Tracking uploads about about competitors
-	2. Generating report about own channel videos meta data
-	3. Calculate brand worth of YouTube channels
-	4. Comment sentiment analysis
-	5. Export comment
-	6. Get geo location data about viewers
-	7. Identify videos tags based on search result
-	8. Analytics and insights, instantly for any YouTube video
-	9. Screen shot base tutorial for using the solutions
+	♊️ TubeBuddy:
+		1. Tracking uploads about about competitors
+		2. Generating report about own channel videos meta data
+		3. Calculate brand worth of YouTube channels
+		4. Comment sentiment analysis
+		5. Export comment
+		6. Get geo location data about viewers
+		7. Identify videos tags based on search result
+		8. Analytics and insights, instantly for any YouTube video
+		9. Screen shot base tutorial for using the solutions
 
-✅️ Vidiq:
-	1. Trending videos alert via email, SMS
-	
-✅️ Vidooly.com: 
-	1. most trending YouTube videos based on country and category
-	
-✅️ Social Blade: 
-	1. It is totally data related tools
+	♊️ Vidiq:
+		1. Trending videos alert via email, SMS
+		
+	♊️ Vidooly.com: 
+		1. most trending YouTube videos based on country and category
+		
+	♊️ Social Blade: 
+		1. It is totally data related tools
+
 
 
 
@@ -104,15 +105,11 @@ Application will provide valuable data for YouTube content creators make informe
 		1. The application shall accept a YouTube video URL from the user as input.
 		2. The video URL should be YouTube video format and application must valeted it before submit button
 		3. A submit button for start data collection
-	
-	
+
 	➡️ R3: "channels URL as user input and submit button (videos meta data"
 		1. The application shall accept a YouTube channels URL from the user as input.
 		2. The channels URL should be YouTube URL format and application must valeted it before submit button
 		3. A submit button for start data collection
-	
-	
-	View scraping data as small part and export data as CSV
 	
 	➡️ R4: "export data as CSV"
 		1. The application shall a user friendly scraping data preview page
