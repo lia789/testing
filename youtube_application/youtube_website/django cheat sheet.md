@@ -12,6 +12,8 @@
     $ python mange.py makemigrations
     $ python manage.py migrate
     $ python manage.py createsuperuser
+    $ python manage.py reset_db --noinput
+    $ python manage.py admin_generator app_name
 
 
 **Managing the settings.py File**
@@ -19,7 +21,9 @@
     #setings.py
     "DIRS": [BASE_DIR/ "templates"],
     STATICFILES_DIRS = [BASE_DIR/ "static"]
- 
+    "django_extensions",
+    "debug_toolbar"
+
 **Handling Django Models**
 
     class Album(models.Model):
