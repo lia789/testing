@@ -1,0 +1,126 @@
+"""
+This document about technical details about Web Scraping,
+it will be used building freelance project catalogs like 🖐️:
+	➡️ "DATA SCRAPING"
+	➡️ "SCRIPT"
+	➡️ "DESKTOP APPLICATION"
+	➡️ "WEB APPLICATION"
+"""
+
+
+⬜️ What is the goal of this document❓️
+This document will be used inherit web scraping component on different project catalogs.
+
+
+
+
+
+⬜️ How do identify web scraping design pattern❓️
+	👉️ Check website type (static or dynamic) with "Disable JavaScript"
+	👉️ Find out "Hidden API" if any thing out there with chrome developer "network" tab
+	👉️ Identify bot detect technology behind website with "Wappalyzer"
+	👉️ View captcha result with website testing tools ("https://tools.pingdom.com/", "https://gtmetrix.com/", "https://tools.keycdn.com/speed")
+	👉️ Find out project pattern combine (optional)
+	👉️ Write down pattern type of "Design Document"
+	
+	➡️ List of web scraping design pattern we have:
+		♊️ Static Website
+		♊️ Hidden API
+		♊️ Simple Dynamic Website
+		♊️ Hard Dynamic Website with Playwright
+		♊️ Headless 3rd party API
+		♊️ Combination of Multiple Pattern
+		
+	
+
+	
+
+⬜️ What are steps about building Scrapy project❓️
+Scrapy spider building steps, and components:
+	👉️ Make sure you have "Design Document" 
+	👉️ Project
+	👉️ Spider
+	👉️ Define models on items.py file
+	👉️ Write minimal spider code with out pagination
+	👉️ Do data cleaning task on pipelines.py file
+	👉️ Do Scrapy project extensions work like integrating database, proxy, or other related task
+	👉️ Define important settings and logs
+	👉️ Write pagination code
+	👉️ Test spider and foreword next software development task
+	
+	➡️ List of steps about writing Scrapy framework components
+		👉️ Define project and spider name
+			♊️ project_name
+			♊️ spider_name
+		👉️ Define start request process; like general Scrapy request, reading urls from file, or format string
+			♊️ start_url_description
+		👉️ Define parse method key points
+			♊️ parse_method_key_points
+		👉️ Define data extraction method key points
+			♊️ data_extraction_method_key_points
+		👉️ Define pagination
+			♊️ pagination__key_point
+		👉️ Define key settings about project
+			♊️ settings_key_point
+		👉️ Define proxy or other type of integration
+			♊️ scrapy_integration
+		👉️ Work with Scrapy logs
+			♊️ logs_setup
+
+
+
+	
+	
+⬜️ What about STATIC_WEBSITE design component❓️
+Steps about collecting Static Website design components:
+	👉️ Define Scrapy project component
+	👉️ Write down proxy integration plan
+	👉️ Select spider running machine
+		♊️ spider_running_machine
+	
+	➡️ Common milestone task:
+		♊️ Write XPATH code on Jupyter lab
+		♊️ Build project based on Scrapy steps
+	
+
+
+
+
+
+
+⬜️ What about HIDDEN_API design component❓️
+Steps about collecting Static Website design components:
+	👉️ Identify API URL on Google chrome console
+	👉️ Work with pagination URL on Insomnia
+	👉️ Work with cookies and data validation
+	👉️ Write data extraction code on Jupyter lab
+	👉️ Define Scrapy project component
+	👉️ Write down proxy integration plan
+	👉️ Select spider running machine
+		♊️ spider_running_machine
+
+	➡️ Common milestone task:
+		♊️ Build pagination project on Insomnia		
+		♊️ Write data extraction code on Jupyter lab
+		♊️ Build project based on Scrapy steps
+		
+		
+
+
+⬜️ What about SIMPLE_DYNAMIC_WEBSITE design component❓️
+Steps about collecting simple dynamic website design components:
+	👉️ Brain storm about target website find easy navigation
+	👉️ Write Playwright automation code on Python file
+	👉️ Write Scrapy-Playwright settings key points
+	👉️ Define Scrapy project component
+	👉️ Select spider running machine
+	
+	➡️ Common milestone task:
+		♊️ Write website automation code on Jupyter lab
+		♊️ Write data extraction code on Jupyter lab
+		♊️ Build project based on Scrapy steps
+		♊️ Integrate Scrapy-Playwright with Scrapy project
+	
+
+
+

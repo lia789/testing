@@ -82,7 +82,7 @@ Steps about building a Design document:
 	👉️ Write high level design component
 			➡️ Write project delivery process and materials
 			➡️ Identify web scraping design pattern and write down website security structure
-			➡️ Organize technical parts that need repeatedly in iterative mode
+			➡️ Organize technical parts and ideal components, that need repeatedly in iterative mode
 	👉️ Inherit web scraping design pattern components
 	👉️ Write milestone task for building the solution
 
