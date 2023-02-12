@@ -1,0 +1,127 @@
+""" this document about building data scraping project 🖐️ """
+
+
+⬜️ What steps to follow building a data scraping project❓️
+	1️⃣️ Do feasibility study and understand data requirements
+	2️⃣️ Write proposal with application core feature
+	3️⃣️ Convert prospect into sales, and collect project building materials
+	4️⃣️ Building "Vision Document 📃️"
+	5️⃣️ Build sample CSV file as delivery level prototype and validate
+	6️⃣️ Write "Design Document 📃️"
+	7️⃣️ Build solution based on design document Milestone 🖥️
+	8️⃣️ Handover and close project
+
+
+
+
+
+
+⬜️ What about communication with client and asking questions❓️
+This is tricky part only communication and business skills save pus to convert prospect into sales.
+This is list of goals about initial communication with client:
+	➡️ Consult client and uncover client true requirements
+	➡️ Convert prospect to sales
+	➡️ Collect project building technical materials
+
+I should ask questions based on this topics:
+	➡️ Business Goal
+	➡️ System User
+	➡️ Core Data Requirements
+	➡️ Web Scraping Meta Data
+	➡️ Data Structure
+	
+	
+
+
+
+⬜️ How to build "Vision Document" for a project❓️
+Vision document is base band about building high quality solutions.
+
+Steps about building a Vision document:
+	👉️ Make sure, you won the project
+	👉️ Create a GitHub repository
+	👉️ Copy "Vision Document" templates
+	👉️ Write down project meta data
+	👉️ Process requirements
+		➡️ organize existing important document
+		➡️ write data collection business goal
+		➡️ work with domain knowledge and constrain
+		➡️ write project delivery process and materials
+		
+Project and Client meta data component ✋️:
+	♊️ title
+	♊️ price
+	♊️ deadline
+	♊️ project_name
+	♊️ client_name
+	♊️ client_designation
+	♊️ country
+	♊️ time_deference
+	♊️ client_technical_expertise
+	♊️ data_type
+	
+Possible component about requirements processing ✋️:
+	♊️ existing_important_document
+	♊️ data_business_goals
+	♊️ domain_knowledge and constrain
+	♊️ project_delivery_materials
+
+
+
+
+
+
+
+⬜️ How to build "Design Document"❓️
+Building Design document means doing all hard word, raw coding and brain storming inside this part...
+Based on "Design Document" milestone full solution will build, it insure easy and high quality solution building process.
+
+Steps about building a Design document:
+	👉️ Make sure You have Vision Document and sample CSV file
+	👉️ Write important project meta data
+	👉️ Write high level design component
+			➡️ Write project delivery process and materials
+			➡️ Identify web scraping design pattern and write down website security structure
+			➡️ Organize technical parts that need repeatedly in iterative mode
+	👉️ Inherit web scraping design pattern components
+	👉️ Write milestone task for building the solution
+
+Design document project meta data components:
+	♊️ project_name
+	♊️ price
+	♊️ deadline
+
+High level design components:
+	♊️ project_delivery_process
+	♊️ web_scraping_design_pattern
+	♊️ website_security_description
+	
+	
+
+
+
+⬜️ What are common milestone task❓️
+	➡️ Write XPATH code on Jupyter lab
+	➡️ Setup Scrapy project
+	➡️ Run spider and collect data
+	➡️ Build data overview report
+	➡️ Handover project with materials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
