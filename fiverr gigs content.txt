@@ -41,3 +41,45 @@
 ⬜️⬜️⬜️⬜️⬜️ FIVERR PROFILE SETUP ⬜️⬜️⬜️⬜️⬜️
 ✅️ profile_title: "Data Scraping Developer"
 ✅️ profile_description:
+
+
+
+
+
+
+
+
+⬜️⬜️⬜️⬜️⬜️ DEVELOPER FOR REAL ESTATE DATA SCRAPING ⬜️⬜️⬜️⬜️⬜️
+✅️ gigs_image_title: "Developer for Real Estate Data Scraping"
+✅️ gigs_key_service:
+	1. Property data collection from real estate listing, tax assessments, and public records
+	2. Property owner contact details and skip tracing
+	3. MLS data collection
+✅️ gigs_title:
+✅️ 
+✅️ gigs_description:
+✅️ customers: Real estate agents, investors (company or individual)
+✅️ domain finding:
+	* Property data and owner information data is key of my service
+	* Real estate agents, and investors (company or individual) are my client
+	
+
+
+
+
+
+⬜️⬜️⬜️⬜️⬜️ DEVELOPER FOR GOOGLE MAP DATA SCRAPING ⬜️⬜️⬜️⬜️⬜️
+✅️ gigs_image_title: "Developer for Google Map Data Scraping"
+✅️ gigs_key_service:
+	1. Google map business data based on specific industry or location with verified emails
+	2. Google Map reviews for businesses
+✅️ gigs_title:
+✅️ 
+✅️ gigs_description:
+✅️ customers: 
+✅️ domain finding:
+	* 
+	* 
+
+
+

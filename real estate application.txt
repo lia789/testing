@@ -1,0 +1,11 @@
+
+
+"""
+Build a real estate web application that will collect property data based on user URL input.
+List of website is:
+	* Zillow
+	* Realtor.com
+	* Trulia
+	* Redfin
+	* Zoopla
+"""
