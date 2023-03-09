@@ -1,0 +1,204 @@
+""" this document about Fiverr gigs content 🖐️ """
+
+
+⬜️ What are gigs, I have❓️
+	◼️ Developer for Data Scraping			90%
+	◼️ Developer for Web Scraping			70%
+	◼️ Developer for B2B Data Scraping		70%
+	◼️ Developer for Google Map Data Scraping	40%
+	◼️ Developer for Real Estate Data Scraping	70%
+	
+
+
+⬜️ What are my core skills❓️
+	◼️ Data Scraping with understanding domain knowledge (90%)
+	◼️ B2B lead generation with verified emails (90%)
+	◼️ Desktop Application (70%)
+	◼️ Corn job script (40%)
+	◼️ Web Application (20%)
+	◼️ Chrome Extensions (70%)
+	◼️ Web Scraping API with No code solutions (10%)
+	
+
+
+⬜️ What is the philosophy of selling❓️
+My main service will be data scraping and along side B2B leads generations with the front face of developer.
+I am also happy building high paid solutions too.
+The "Developer" trade mark will be my key for getting data scraping projects.
+
+
+
+⬜️ What are list of Keyword❓️
+Keyword should be client business point of view, and not concern about how much used keyword.
+Keywords are also used on tags.
+	◼️ data scraping 	10
+	◼️ web scraping	8
+	◼️ lead generation	7
+	◼️ data mining		4
+	◼️ data collection	4
+	◼️ data extraction	6
+	◼️ data scraper	8
+	◼️ b2b lead generation	5
+	◼️ list building	3
+	◼️ scraper		3
+
+
+
+
+
+⬜️ Fiverr gigs creation template❓️
+	✅️ KEY_SERVICES:
+	✅️ GIG_TITLE:
+	✅️ CATEGORY_&_SUBCATEGORY: "Data" "Data Processing"| "Business" "Sales"
+	✅️ SERVICE_TYPE: "Data Mining & Scraping"| "Lead Generation"
+	✅️ GIGS_META_DATA: Select on spot options based on drop down
+	✅️ SEARCH_TAGS: "data scraping", "data mining", "web scraping", "data collection", "b2b lead generation" "lead generation", "scraping"
+	
+	✅️ BASIC_PRICE_TITLE_&_PRICE:
+	✅️ BASIC_PRICE_SHORT_DESCRIPTION:
+	✅️ STANDARD_PRICE_TITLE_&_PRICE:
+	✅️ STANDARD_PRICE_SHORT_DESCRIPTION:
+	✅️ PREMIUM_PRICE_TITLE_&_PRICE:
+	✅️ PREMIUM_PRICE_SHORT_DESCRIPTION:
+	✅️ DELIVERY_&_REVISIONS: "1 Day & 3 Revisions" | "3 Days & 5 Revisions" | "5 Days & "Unlimited Revisions"
+	✅️ PRICE_FEATURE: ✔️100 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
+	
+	✅️ GIGS_DESCRIPTION:
+	✅️ FAQ:
+	
+	✅️ PROJECT_REQUIREMENTS:
+	
+	✅️ THUMBNAIL_IMAGE:
+	✅️ VIDEOS:
+	✅️ PDF:
+	
+
+
+
+
+⬜️ Fiverr profile setup work❓️
+	✅️ PROFILE_PICTURE:
+	✅️ USER_NAME:
+	✅️ PROFILE_TITLE: "Data Scraping Developer"
+	✅️ DESCRIPTION:
+	✅️ LANGUAGE: English & Bengali
+	✅️ SKILLS: Python, JavaScript, Data scraping, Web scraping, Data mining, Data extraction, Data collecting, Data analysis, B2B lead generation, Email list building
+	✅️ LINKED_ACCOUNT_LIST:
+		Facebook
+		Google
+		Dribbble
+		Stack Overflow
+		GitHub
+		Vimeo
+		Twitter
+	✅️ EDUCATION: Education will be copy from existing 
+		◼️ Certificate - mechanical engineering
+		    Dinajpur Polytechnic Institute, Bangladesh, Graduated 2016
+		◼️ Modern Python Bootcamp
+		   Udemy 2018
+		◼️ Scrapy: Powerful Web Scraping & Crawling with Python
+		   Udemy 2019
+		   
+
+
+
+⬜️ Whats are constrain about Fiverr gigs title❓️
+	◼️ Should be 67 character
+	◼️ All hot keyword will be there
+	◼️ Include "build" for developer for developer
+	◼️ Business flavor
+	
+
+
+
+
+⬜️ DEVELOPER FOR REAL ESTATE DATA SCRAPING❕️
+	✅️ KEY_SERVICES:
+		◼️ Property data scraping from real estate website, government database, or public records
+		◼️ Skip tracing for property owner and investor
+		◼️ Building property and lead generation desktop app, web app, and chrome extension
+	✅️ GIG_TITLE: "I will build data scraping data mining, web scraper for real estate"
+	
+	✅️ CATEGORY_&_SUBCATEGORY: "Data" "Data Processing"
+	✅️ SERVICE_TYPE: "Data Mining & Scraping"
+	✅️ GIGS_META_DATA: Select on spot options based on drop down
+	✅️ SEARCH_TAGS: "data scraping", "data mining", "web scraping", "data collection", "b2b lead generation" "lead generation", "scraping"
+	
+	✅️ BASIC_PRICE_TITLE_&_PRICE: 5$, "Quick & Fast"
+	✅️ BASIC_PRICE_SHORT_DESCRIPTION: 
+	✅️ STANDARD_PRICE_TITLE_&_PRICE:
+	✅️ STANDARD_PRICE_SHORT_DESCRIPTION:
+	✅️ PREMIUM_PRICE_TITLE_&_PRICE:
+	✅️ PREMIUM_PRICE_SHORT_DESCRIPTION:
+	✅️ DELIVERY_&_REVISIONS: "1 Day & 3 Revisions" | "3 Days & 5 Revisions" | "5 Days & "Unlimited Revisions"
+	✅️ PRICE_FEATURE: ✔️100 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+⬜️ DEVELOPER FOR GOOGLE MAP DATA SCRAPING❕️
+	✅️ KEY_SERVICES:
+		◼️ Building business listing with verify emails based on location and keyword
+		◼️ Building google map business to leads desktop app, web app and chrome extension
+	✅️ GIG_TITLE: "I will build data scraping data mining, web scraper for google map"
+	
+
+⬜️ DEVELOPER FOR B2B DATA SCRAPING❕️
+	✅️ KEY_SERVICES:
+		◼️ B2B list building from target industry and location based on business requirements
+		◼️ 
+		◼️ 
+	✅️ GIG_TITLE: "I will build data scraping data mining, web scraper for b2b leads"
+	
+	
+⬜️ DEVELOPER FOR DATA SCRAPING❕️
+	✅️ KEY_SERVICES:
+		◼️ 
+		◼️ 
+		◼️ 
+	✅️ GIG_TITLE: "I will build tools based on data scraping, web scraping data mining"
+	
+	
+⬜️ DEVELOPER FOR WEB SCRAPING❕️
+	✅️ KEY_SERVICES:
+		◼️ 
+		◼️ 
+		◼️ 
+	✅️ GIG_TITLE: "I will build custom web, desktop, Chrome apps using web scraping data scraping"
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
