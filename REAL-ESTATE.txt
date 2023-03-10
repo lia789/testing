@@ -1,7 +1,7 @@
 """ this document about "Developer for Real Estate Data Scraping" gigs content 🖐️ """
 
 
-⬜️ Gigs Selling change❓️
+⬜️ Gigs Selling possibility❓️
 Developer for Real Estate Data Scraping 70%
 
 
@@ -14,6 +14,8 @@ Developer for Real Estate Data Scraping 70%
 
 
 
+
+
 ⬜️ Gigs SEO keywords❓️
 	◼️ data scraping 
 	◼️ skip tracing
@@ -21,6 +23,27 @@ Developer for Real Estate Data Scraping 70%
 	◼️ lead generation
 	◼️ real estate
 	◼️ data mining
+
+
+
+
+
+⬜️ Gigs Materials❓️
+	◼️ THUMBNAIL_IMAGE
+	◼️ VIDEOS
+	◼️ PDF
+	◼️ PORTFOLIO_DESCRIPTION
+	◼️ GIG_IMAGE_CONTENT
+
+
+
+
+
+⬜️ GIG_IMAGE_CONTENT❓️
+	◼️ Property data from listing websites
+	◼️ Property owner skip tracing
+	◼️ Scraping tools desktop, web, and chrome apps
+
 
 
 
@@ -79,6 +102,37 @@ Developer for Real Estate Data Scraping 70%
 		◼️ What are the business goals of this project?
 		◼️ Who are user of this project?
 		◼️ Do you have any target or recommended websites?
+		
+	
+	✅️ GIGS_DESCRIPTION:
+
+"""
+Hello and Welcome! If you're looking for data scraping, skip tracing solutions for Real Estate? Very much welcome again.
+
+
+Here is what I offer:
+	* Property data scraping from real estate websites, government databases, or public record
+	* Property owner skip tracing and investor leads (phone, email)
+	* Building property data scraping desktop, web, and chrome apps
+
+
+Projects will deliver as CSV, Excel, or Google Sheets. Executable file for Desktop App, manifest.json with supported files for Chrome extension. For web applications, I will also set up server.
+
+What I required to build data scraping, and skip tracing:
+	* For property data real estate listing website, location, and filter instruction
+	* For skip tracing, should have a property listing file to trace the property owner or investor
+	* For desktop, web, and chrome apps, need dedicated sessions for requirements engendering
+	
+
+It is always appreciated to discuss project details and then place an order to avoid any kind of unwanted confusion.
+
+
+Feel free to send me message if you'd like to see some samples about real estate web scraping and lead generation, I will show most similar data scraping or skip tracing projects like yours as I have current catalogs.
+"""
+	
+	
+	
+	
 		
 		
 		
