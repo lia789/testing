@@ -1,23 +1,12 @@
 """ this document about "Developer for Google Map Data Scraping" gigs content 🖐️ """
 
-
 ⬜️ Gigs Selling possibility❓️
 Developer for Real Estate Data Scraping 40%
-
-
-
 
 ⬜️ Key service for Google Map Data Scraping❓️
 	◼️ Building business listing based on geographic location, business category with verified emailss
 	◼️ Business owner, CEO, CTO contact information
 	◼️ Data scraping tools
-
-b2b listing with emails
-Business owner & C-level contact information
-Scraping tools desktop, web, and Chrome apps
-
-
-
 
 
 
@@ -29,109 +18,81 @@ Scraping tools desktop, web, and Chrome apps
 	◼️ web scraping
 
 
-
-
-
 ⬜️ Gigs Materials❓️
 	◼️ THUMBNAIL_IMAGE
 	◼️ VIDEOS
 	◼️ PDF
 	◼️ PORTFOLIO_DESCRIPTION
-	◼️ GIG_IMAGE_CONTENT
-
-
-
+	✅️ GIG_IMAGE_CONTENT
 
 
 ⬜️ GIG_IMAGE_CONTENT❓️
-	◼️ Property data from listing websites
-	◼️ Property owner skip tracing
-	◼️ Scraping tools desktop, web, and chrome apps
-
+	◼️ b2b listing with emails
+	◼️ Business owner & C-level contact information
+	◼️ Scraping tools desktop, web, and Chrome apps
 
 
 
 ⬜️ Gigs content❓️
-	✅️ GIG_TITLE: "I will build data scraping skip tracing, web scraper for real estate"
+	✅️ GIG_TITLE: "I will build data scraping b2b lead generation for google map"
 	
 	✅️ CATEGORY_&_SUBCATEGORY: "Business", "Sales"
 	✅️ SERVICE_TYPE: "Lead Generation"
 	✅️ GIGS_META_DATA: "On Spot"
-	✅️ SEARCH_TAGS: "data scraping", "skip tracing", "web scraping", "lead generation", "real estate"
+	✅️ SEARCH_TAGS: "data scraping", "b2b", "lead generation", "google map", "web scraping"
 	
 	✅️ PRICE: 5$ | 25$ | 45$
 	
 	
 	✅️ PRICE_TITLE: "Quick & Fast" | "Complete & Bundle" | "Custom & On-Demand"
 	
-	✅️ BASIC_PRICE_SHORT_DESCRIPTION:
+	
+	◻️ BASIC_PRICE_SHORT_DESCRIPTION:
 		""""
-		Need property or skip tracing fast? This package about data scraping up to 500 property listing or 50 skip tracing leads within few hour
+		
 		"""
-	✅️ STANDARD_PRICE_SHORT_DESCRIPTION:
+	◻️ STANDARD_PRICE_SHORT_DESCRIPTION:
 		"""
-		This package about data scraping up to 5,000 Property Data or 300 Skip Tracing, within 24 to 48 hour
 		"""
-	✅️ PREMIUM_PRICE_SHORT_DESCRIPTION: 
+	◻️ PREMIUM_PRICE_SHORT_DESCRIPTION: 
 		"""
-		Include data scraping custom number Property & Skip Tracing; Building Web, Desktop, and Chrome Apps
 		"""
+	
 	
 	
 	✅️ DELIVERY_&_REVISIONS: "1 Day & 3 Revisions" | "3 Days & 5 Revisions" | "5 Days & "Unlimited Revisions"
 	✅️ PRICE_FEATURE: ✔️50 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
 	
 	
-	✅️ FAQ:
+	◻️ FAQ:
 		◼️ What about project management?
 		   """
-		   A data scraping project starts with discussing requirements. After that I will give a Project Scope Document to confirm, we are both on same place. Once you place the order, I will begin the project & keep you updated on progress. We will check quality of project before delivery confirmation.
+		   
 		   """
 	
 		◼️ What about project delivery process?
 		   """
-		   Delivery process depends on requirement. Clean CSV or format google sheet for data scraping, executable file for Desktop App, manifest.json with supported files for Chrome extension and Web App, have to discuss server deployment. User Manual, Source Code, and supported files include every project.
+		  
 		   """
 		   
 		◼️ What about maintenance?
 		   """
-		   Every project will include source code and supporting files. If I am not live on Fiverr, it should not be very hard for other developers to extend and maintain the project.
 		   """
+		   
 		 ◼️ What happens if I'm not satisfied with the work?
 		   """
-		   This is part of the process and crucial, I will do my best to make high-quality project. If still some things look beyond me, don't worry there is straightforward refund policy on Fiverr.
 		   """
 	
-	✅️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:
+	◻️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:
 		◼️ What are the business goals of this project?
 		◼️ Who are user of this project?
 		◼️ Do you have any target or recommended websites?
 		
 	
-	✅️ GIGS_DESCRIPTION:
+	◻️ GIGS_DESCRIPTION:
 
 """
-Hello and Welcome! If you're looking for data scraping, skip tracing solutions for Real Estate? Very much welcome again.
 
-
-Here is what I offer:
-	* Property data scraping from real estate websites, government databases, or public record
-	* Property owner skip tracing and investor leads (phone, email)
-	* Building property data scraping desktop, web, and chrome apps
-
-
-Projects will deliver as CSV, Excel, or Google Sheets. Executable file for Desktop App, manifest.json with supported files for Chrome extension. For web applications, I will also set up server.
-
-What I required to build data scraping, and skip tracing:
-	* For property data real estate listing website, location, and filter instruction
-	* For skip tracing, should have a property listing file to trace the property owner or investor
-	* For desktop, web, and chrome apps, need dedicated sessions for requirements engendering
-	
-
-It is always appreciated to discuss project details and then place an order to avoid any kind of unwanted confusion.
-
-
-Feel free to send me message if you'd like to see some samples about real estate web scraping and lead generation, I will show most similar data scraping or skip tracing projects like yours as I have current catalogs.
 """
 	
 	

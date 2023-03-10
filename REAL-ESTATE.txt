@@ -33,7 +33,7 @@ Developer for Real Estate Data Scraping 70%
 	◼️ VIDEOS
 	◼️ PDF
 	◼️ PORTFOLIO_DESCRIPTION
-	◼️ GIG_IMAGE_CONTENT
+	✅️ GIG_IMAGE_CONTENT
 
 
 
