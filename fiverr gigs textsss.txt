@@ -112,28 +112,85 @@ Keywords are also used on tags.
 
 
 
-⬜️ DEVELOPER FOR REAL ESTATE DATA SCRAPING❕️
+1️⃣️ DEVELOPER FOR REAL ESTATE DATA SCRAPING❕️
 	✅️ KEY_SERVICES:
 		◼️ Property data scraping from real estate website, government database, or public records
 		◼️ Skip tracing for property owner and investor
 		◼️ Building property and lead generation desktop app, web app, and chrome extension
+	✅️ GIGS_KEYWORD: "data scraping", "skip tracing", "web scraping", "lead generation", "real estate", "data mining", "data collection", "scraping"
+	
 	✅️ GIG_TITLE: "I will build data scraping data mining, web scraper for real estate"
 	
 	✅️ CATEGORY_&_SUBCATEGORY: "Data" "Data Processing"
 	✅️ SERVICE_TYPE: "Data Mining & Scraping"
 	✅️ GIGS_META_DATA: Select on spot options based on drop down
-	✅️ SEARCH_TAGS: "data scraping", "data mining", "web scraping", "data collection", "b2b lead generation" "lead generation", "scraping"
+	✅️ SEARCH_TAGS: "data scraping", "skip tracing", "web scraping", "lead generation", "real estate"
 	
-	✅️ BASIC_PRICE_TITLE_&_PRICE: 5$, "Quick & Fast"
-	✅️ BASIC_PRICE_SHORT_DESCRIPTION: 
-	✅️ STANDARD_PRICE_TITLE_&_PRICE:
-	✅️ STANDARD_PRICE_SHORT_DESCRIPTION:
-	✅️ PREMIUM_PRICE_TITLE_&_PRICE:
-	✅️ PREMIUM_PRICE_SHORT_DESCRIPTION:
+	✅️ PRICE: 5$ | 25$ | 45$
+	
+	✅️ BASIC_PRICE_TITLE: "Quick & Fast"
+	✅️ BASIC_PRICE_SHORT_DESCRIPTION: "Need property or leads data fast? This data scraping service about delivering up to 500 property listings or 50 skip tracing within few hours"
+	
+	✅️ STANDARD_PRICE_TITLE: "Complete & Bundle"
+	✅️ STANDARD_PRICE_SHORT_DESCRIPTION: "This data scraping includes up to 5,000 Property Data or 300 Skip Tracing, within 24 to 48 hours"
+	
+	✅️ PREMIUM_PRICE_TITLE: "Custom & On-Demand"
+	✅️ PREMIUM_PRICE_SHORT_DESCRIPTION: "Includes large custom number Properties & Skip Tracing data; alongside Web, Desktop, and Chrome Apps"
+	
+	✅️ DELIVERY_&_REVISIONS: "1 Day & 3 Revisions" | "3 Days & 5 Revisions" | "5 Days & "Unlimited Revisions"
+	✅️ PRICE_FEATURE: ✔️50 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
+	
+	
+	◻️ GIGS_DESCRIPTION:
+	◻️ FAQ:
+	◻️ PROJECT_REQUIREMENTS:
+	
+	
+	◻️ THUMBNAIL_IMAGE:
+	◻️ VIDEOS:
+	◻️ PDF:
+	
+	
+	
+
+
+
+
+
+2️⃣️ DEVELOPER FOR GOOGLE MAP DATA SCRAPING❕️
+	✅️ KEY_SERVICES:
+		◼️ Building business listing with verify emails based on location and keyword
+		◼️ Building google map business to leads desktop app, web app and chrome extension
+	✅️ GIGS_KEYWORD: "data scraping", "google map data scraping", "google map", "web scraping", "lead generation", "data mining", "data collection"
+		
+	✅️ GIG_TITLE: "I will build data scraping data mining, web scraper for google map"
+	
+	✅️ CATEGORY_&_SUBCATEGORY: "Data" "Data Processing"
+	✅️ SERVICE_TYPE: "Data Mining & Scraping"
+	✅️ GIGS_META_DATA: Select on spot options based on drop down
+	✅️ SEARCH_TAGS: "data scraping", "google map", "google map data scraping", "web scraping", "lead generation"
+	
+	✅️ PRICE: 5$ | 25$ | 45$ 
+	✅️ BASIC_PRICE_TITLE: "Quick & Fast"
+	✅️ STANDARD_PRICE_TITLE: "Complete & Bundle"
+	✅️ PREMIUM_PRICE_TITLE: "Custom & On-Demand"
+	
+	◻️ BASIC_PRICE_SHORT_DESCRIPTION:
+	◻️ STANDARD_PRICE_SHORT_DESCRIPTION:
+	◻️ PREMIUM_PRICE_SHORT_DESCRIPTION:
+	
 	✅️ DELIVERY_&_REVISIONS: "1 Day & 3 Revisions" | "3 Days & 5 Revisions" | "5 Days & "Unlimited Revisions"
 	✅️ PRICE_FEATURE: ✔️100 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
 	
 	
+	◻️ GIGS_DESCRIPTION:
+	◻️ FAQ:
+	◻️ PROJECT_REQUIREMENTS:
+	
+	
+	◻️ THUMBNAIL_IMAGE:
+	◻️ VIDEOS:
+	◻️ PDF:
 	
 
 
@@ -143,37 +200,129 @@ Keywords are also used on tags.
 
 
 
-
-
-⬜️ DEVELOPER FOR GOOGLE MAP DATA SCRAPING❕️
-	✅️ KEY_SERVICES:
-		◼️ Building business listing with verify emails based on location and keyword
-		◼️ Building google map business to leads desktop app, web app and chrome extension
-	✅️ GIG_TITLE: "I will build data scraping data mining, web scraper for google map"
-	
-
-⬜️ DEVELOPER FOR B2B DATA SCRAPING❕️
+3️⃣️ DEVELOPER FOR B2B DATA SCRAPING❕️
 	✅️ KEY_SERVICES:
 		◼️ B2B list building from target industry and location based on business requirements
 		◼️ 
-		◼️ 
+		◼️
+	✅️ GIGS_KEYWORD: "data scraping", "web scraping", "lead generation", "b2b lead generation", "b2b leads" 
+		
+		
 	✅️ GIG_TITLE: "I will build data scraping data mining, web scraper for b2b leads"
 	
+	✅️ CATEGORY_&_SUBCATEGORY: "Data" "Data Processing"
+	✅️ SERVICE_TYPE: "Data Mining & Scraping"
+	✅️ GIGS_META_DATA: Select on spot options based on drop down
+	✅️ SEARCH_TAGS: "data scraping", "web scraping", "lead generation", "b2b lead generation", "b2b leads"
+
+
+	✅️ PRICE: 5$ | 25$ | 45$ 
+	✅️ BASIC_PRICE_TITLE: "Quick & Fast"
+	✅️ STANDARD_PRICE_TITLE: "Complete & Bundle"
+	✅️ PREMIUM_PRICE_TITLE: "Custom & On-Demand"
 	
-⬜️ DEVELOPER FOR DATA SCRAPING❕️
-	✅️ KEY_SERVICES:
+	◻️ BASIC_PRICE_SHORT_DESCRIPTION: 
+	◻️ STANDARD_PRICE_SHORT_DESCRIPTION:
+	◻️ PREMIUM_PRICE_SHORT_DESCRIPTION:
+	
+	✅️ DELIVERY_&_REVISIONS: "1 Day & 3 Revisions" | "3 Days & 5 Revisions" | "5 Days & "Unlimited Revisions"
+	✅️ PRICE_FEATURE: ✔️100 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
+	
+	
+	◻️ GIGS_DESCRIPTION:
+	◻️ FAQ:
+	◻️ PROJECT_REQUIREMENTS:
+	
+	◻️ THUMBNAIL_IMAGE:
+	◻️ VIDEOS:
+	◻️ PDF:
+	
+	
+	
+	
+	
+	
+
+
+4️⃣️ DEVELOPER FOR DATA SCRAPING❕️
+	◻️ KEY_SERVICES:
 		◼️ 
 		◼️ 
 		◼️ 
+	✅️ GIGS_KEYWORD: "data scraping", "web scraping", "lead generation", "python", "data mining"
+	
+	
 	✅️ GIG_TITLE: "I will build tools based on data scraping, web scraping data mining"
+	✅️ CATEGORY_&_SUBCATEGORY: "Data" "Data Processing"
+	✅️ SERVICE_TYPE: "Data Mining & Scraping"
+	✅️ GIGS_META_DATA: Select on spot options based on drop down
+	✅️ SEARCH_TAGS: "data scraping", "web scraping", "lead generation", "python", "data mining"
+	
+	✅️ PRICE: 5$ | 35$ | 75$ 
+	✅️ BASIC_PRICE_TITLE: "Quick & Fast"
+	✅️ STANDARD_PRICE_TITLE: "Complete & Bundle"
+	✅️ PREMIUM_PRICE_TITLE: "Custom & On-Demand"
+	
+	◻️ BASIC_PRICE_SHORT_DESCRIPTION: 
+	◻️ STANDARD_PRICE_SHORT_DESCRIPTION:
+	◻️ PREMIUM_PRICE_SHORT_DESCRIPTION:
+	
+	✅️ DELIVERY_&_REVISIONS: "1 Day & 3 Revisions" | "3 Days & 5 Revisions" | "5 Days & "Unlimited Revisions"
+	✅️ PRICE_FEATURE: ✔️100 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
 	
 	
-⬜️ DEVELOPER FOR WEB SCRAPING❕️
-	✅️ KEY_SERVICES:
+	◻️ GIGS_DESCRIPTION:
+	◻️ FAQ:
+	◻️ PROJECT_REQUIREMENTS:
+	
+	◻️ THUMBNAIL_IMAGE:
+	◻️ VIDEOS:
+	◻️ PDF:
+	
+	
+	
+	
+
+
+
+	
+
+
+5️⃣️ DEVELOPER FOR WEB SCRAPING❕️
+	◻️ KEY_SERVICES:
 		◼️ 
 		◼️ 
 		◼️ 
+	
+	✅️ GIGS_KEYWORD: "data scraping", "web scraping", "lead generation", "python", "data mining"
+	
 	✅️ GIG_TITLE: "I will build custom web, desktop, Chrome apps using web scraping data scraping"
+	
+	✅️ CATEGORY_&_SUBCATEGORY: "Data" "Data Processing"
+	✅️ SERVICE_TYPE: "Data Mining & Scraping"
+	✅️ GIGS_META_DATA: Select on spot options based on drop down
+	✅️ SEARCH_TAGS: "data scraping", "web scraping", "lead generation", "python", "data mining"
+	
+	✅️ PRICE: 5$ | 35$ | 75$ 
+	✅️ BASIC_PRICE_TITLE: "Quick & Fast"
+	✅️ STANDARD_PRICE_TITLE: "Complete & Bundle"
+	✅️ PREMIUM_PRICE_TITLE: "Custom & On-Demand"
+	
+	◻️ BASIC_PRICE_SHORT_DESCRIPTION: 
+	◻️ STANDARD_PRICE_SHORT_DESCRIPTION:
+	◻️ REMIUM_PRICE_SHORT_DESCRIPTION:
+	
+	✅️ DELIVERY_&_REVISIONS: "1 Day & 3 Revisions" | "3 Days & 5 Revisions" | "5 Days & "Unlimited Revisions"
+	✅️ PRICE_FEATURE: ✔️100 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
+	
+	
+	◻️ GIGS_DESCRIPTION:
+	◻️ FAQ:
+	◻️ PROJECT_REQUIREMENTS:
+	
+	◻️ THUMBNAIL_IMAGE:
+	◻️ VIDEOS:
+	◻️ PDF:
 	
 	
 
