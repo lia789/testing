@@ -1,0 +1,117 @@
+""" this document about "Developer for Data Scraping" gigs content 🖐️ """
+
+
+⬜️ Gigs Selling possibility❓️
+Developer for Data Scraping 90%
+
+
+
+
+⬜️ Key service for Data Scraping❓️
+	◼️ Scraping data from directories, product listings, and other sources
+	◼️ Extracting data from complex sources, including those behind logins and APIs
+	◼️ Developing data scraping tools such as desktop, web, Chrome apps, and Microsoft Excel plugins
+	◼️ Building google sheet Airtable automation schedule script
+	
+
+
+
+⬜️ Gigs SEO keywords❓️
+	◼️ data scraping 
+	◼️ web scraping
+	◼️ python
+	◼️ data extraction
+	◼️ data mining
+
+
+
+
+
+⬜️ Gigs Materials❓️
+	◼️ THUMBNAIL_IMAGE
+	◼️ VIDEOS
+	◼️ PDF
+	◼️ PORTFOLIO_DESCRIPTION
+	✅️ GIG_IMAGE_CONTENT
+
+
+
+
+
+⬜️ GIG_IMAGE_CONTENT❓️
+	◼️ Data scraping from complex sources & APIs
+	◼️ Developing tools for desktop, web, Chrome apps, and MS Excel plugins
+	◼️ Building automation schedule script
+
+
+
+
+⬜️ Gigs content❓️
+	✅️ GIG_TITLE: "I will build data scraping web scraping, data mining tools with Python"
+	
+	✅️ CATEGORY_&_SUBCATEGORY: "Data" "Data Processing"
+	✅️ SERVICE_TYPE: "Data Mining & Scraping"
+	✅️ GIGS_META_DATA: "On Spot"
+	✅️ SEARCH_TAGS: "data scraping", "web scraping", "python", "data extraction", "data mining"
+	
+	✅️ PRICE: 5$ | 35$ | 75$ 
+	
+	
+	◻️ PRICE_TITLE: "Quick & Fast" | "Complete & Bundle" | "Custom & On-Demand"
+	
+	◻️ BASIC_PRICE_SHORT_DESCRIPTION:
+		""""
+		
+		"""
+	◻️ STANDARD_PRICE_SHORT_DESCRIPTION:
+		"""
+		
+		"""
+	◻️ PREMIUM_PRICE_SHORT_DESCRIPTION: 
+		"""
+		
+		"""
+	
+	
+	✅️ DELIVERY_&_REVISIONS: "1 Day & 3 Revisions" | "3 Days & 5 Revisions" | "5 Days & "Unlimited Revisions"
+	✅️ PRICE_FEATURE: ✔️50 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
+	
+	
+	◻️ FAQ:
+		◼️ What about project management?
+		   """
+		  
+		   """
+	
+		◼️ What about project delivery process?
+		   """
+		   
+		   """
+		   
+		◼️ What about maintenance?
+		   """
+		  
+		   """
+		 ◼️ What happens if I'm not satisfied with the work?
+		   """
+		   
+		   """
+	
+	◻️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:
+		◼️ What are the business goals of this project?
+		◼️ Who are user of this project?
+		◼️ Do you have any target or recommended websites?
+		
+	
+	◻️ GIGS_DESCRIPTION:
+
+"""
+
+"""
+	
+	
+	
+	
+		
+		
+		

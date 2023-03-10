@@ -1,0 +1,103 @@
+""" this document about "Developer for B2B Data Scraping" gigs content 🖐️ """
+
+⬜️ Gigs Selling possibility❓️
+Developer for B2B Data Scraping 70%
+
+
+⬜️ Key service for B2B Data Scraping❓️
+	◼️ B2B lead generation with verified email
+	◼️ C-level lead generation with contact infromation
+
+
+
+⬜️ Gigs SEO keywords❓️
+	◼️ data scraping 
+	◼️ b2b
+	◼️ lead generation
+	◼️ business leads
+	◼️ web scraping
+
+
+⬜️ Gigs Materials❓️
+	◼️ THUMBNAIL_IMAGE
+	◼️ VIDEOS
+	◼️ PDF
+	◼️ PORTFOLIO_DESCRIPTION
+	✅️ GIG_IMAGE_CONTENT
+
+
+⬜️ GIG_IMAGE_CONTENT❓️
+	◼️ B2B leads with verified email
+	◼️ Business owner & C-level contact information
+	◼️ Scraping tools desktop, web, and Chrome apps
+
+
+
+⬜️ Gigs content❓️
+	✅️ GIG_TITLE: "I will build data scraping business leads, web scraping for b2b leads"
+	
+	✅️ CATEGORY_&_SUBCATEGORY: "Business", "Sales"
+	✅️ SERVICE_TYPE: "Lead Generation"
+	✅️ GIGS_META_DATA: "On Spot"
+	✅️ SEARCH_TAGS: "data scraping", "b2b", "lead generation", "business leads", "web scraping"
+	
+	✅️ PRICE: 5$ | 25$ | 45$
+	
+	
+	✅️ PRICE_TITLE: "Quick & Fast" | "Complete & Bundle" | "Custom & On-Demand"
+	
+	
+	◻️ BASIC_PRICE_SHORT_DESCRIPTION:
+		""""
+		
+		"""
+	◻️ STANDARD_PRICE_SHORT_DESCRIPTION:
+		"""
+		"""
+	◻️ PREMIUM_PRICE_SHORT_DESCRIPTION: 
+		"""
+		"""
+	
+	
+	
+	✅️ DELIVERY_&_REVISIONS: "1 Day & 3 Revisions" | "3 Days & 5 Revisions" | "5 Days & "Unlimited Revisions"
+	✅️ PRICE_FEATURE: ✔️50 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
+	
+	
+	◻️ FAQ:
+		◼️ What about project management?
+		   """
+		   
+		   """
+	
+		◼️ What about project delivery process?
+		   """
+		  
+		   """
+		   
+		◼️ What about maintenance?
+		   """
+		   """
+		   
+		 ◼️ What happens if I'm not satisfied with the work?
+		   """
+		   """
+	
+	◻️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:
+		◼️ What are the business goals of this project?
+		◼️ Who are user of this project?
+		◼️ Do you have any target or recommended websites?
+		
+	
+	◻️ GIGS_DESCRIPTION:
+
+"""
+
+"""
+	
+	
+	
+	
+		
+		
+		
