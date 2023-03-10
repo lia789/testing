@@ -1,16 +1,21 @@
-""" this document about "Developer for Real Estate Data Scraping" gigs content 🖐️ """
+""" this document about "Developer for Google Map Data Scraping" gigs content 🖐️ """
 
 
 ⬜️ Gigs Selling possibility❓️
-Developer for Real Estate Data Scraping 70%
+Developer for Real Estate Data Scraping 40%
 
 
 
 
-⬜️ Key service for Real Estate Data Scraping❓️
-	◼️ Property data scraping from real estate website, government database, or public records
-	◼️ Skip tracing for property owner and investor
-	◼️ Building property and lead generation desktop app, web app, and chrome extension
+⬜️ Key service for Google Map Data Scraping❓️
+	◼️ Building business listing based on geographic location, business category with verified emailss
+	◼️ Business owner, CEO, CTO contact information
+	◼️ Data scraping tools
+
+b2b listing with emails
+Business owner & C-level contact information
+Scraping tools desktop, web, and Chrome apps
+
 
 
 
@@ -18,11 +23,10 @@ Developer for Real Estate Data Scraping 70%
 
 ⬜️ Gigs SEO keywords❓️
 	◼️ data scraping 
-	◼️ skip tracing
-	◼️ web scraping
+	◼️ b2b
 	◼️ lead generation
-	◼️ real estate
-	◼️ data mining
+	◼️ google map
+	◼️ web scraping
 
 
 
@@ -42,7 +46,7 @@ Developer for Real Estate Data Scraping 70%
 ⬜️ GIG_IMAGE_CONTENT❓️
 	◼️ Property data from listing websites
 	◼️ Property owner skip tracing
-	◼️ Scraping tools desktop, web, and Chrome apps
+	◼️ Scraping tools desktop, web, and chrome apps
 
 
 
@@ -50,8 +54,8 @@ Developer for Real Estate Data Scraping 70%
 ⬜️ Gigs content❓️
 	✅️ GIG_TITLE: "I will build data scraping skip tracing, web scraper for real estate"
 	
-	✅️ CATEGORY_&_SUBCATEGORY: "Data" "Data Processing"
-	✅️ SERVICE_TYPE: "Data Mining & Scraping"
+	✅️ CATEGORY_&_SUBCATEGORY: "Business", "Sales"
+	✅️ SERVICE_TYPE: "Lead Generation"
 	✅️ GIGS_META_DATA: "On Spot"
 	✅️ SEARCH_TAGS: "data scraping", "skip tracing", "web scraping", "lead generation", "real estate"
 	
