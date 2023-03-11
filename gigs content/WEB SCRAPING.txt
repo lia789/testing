@@ -77,7 +77,7 @@ Developer for Data Scraping 90%
 	✅️ PRICE_FEATURE: ✔️50 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
 	
 	
-	◻️ FAQ:
+	✅️ FAQ:
 		◼️ What about project management?
 		   """
 		  Web Scraping project start with requirements gathering and building Project Scope Document to ensure we are on same place. Once we have agreed on the scope, I will begin the project & keep you updated on progress. Before final delivery, we will review quality of the project to ensure it meets expectations.
@@ -100,10 +100,27 @@ Developer for Data Scraping 90%
 		◼️ Do you have any target or recommended like websites, keyword, location, or others?
 		
 	
-	◻️ GIGS_DESCRIPTION:
+	✅️ GIGS_DESCRIPTION:
 
 """
+Hello and Welcome! If you need web scraping, data scraping or custom tool development? Welcome Once Again!
 
+Here is what I offer:
+	* Data Scraping from product listing, directories, behind logins, and APIs
+	* Developing web scraping tools such as web, desktop, Chrome apps, and Microsoft Excel plugin
+	* Building script to automate workflows, schedule tasks, trigger webhook, and update Google Sheet
+
+
+Data scraping projects will deliver as clean CSV, Excel, or format Google Sheets. Executable file for Desktop App, manifest.json with supported files for Chrome extension, and web applications, I will also set up server.
+
+What I required to build a web scraping project:
+	* For data scraping set of instructions about listing website, location, filter, or custom requirements
+	* For web scraping tools instruction about user interface and core system functions
+	* Access to supported tools and credentials as requirement
+	
+It is always appreciated to discuss project details before placing an order to avoid any unwanted confusion.
+
+If you would like to see some samples of web scraping data scraping projects, feel free to message me. I will show you similar projects like yours, that I have in my current catalogs.
 """
 	
 	

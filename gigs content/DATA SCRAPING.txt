@@ -103,9 +103,27 @@ Developer for Data Scraping 90%
 		◼️ Do you have any target or recommended like websites, keyword, location, or others?
 		
 	
-	◻️ GIGS_DESCRIPTION:
+	✅️ GIGS_DESCRIPTION:
 
 """
+Hello and Welcome! If You're looking data scraping, web scraping, or tools development? Welcome Again!
+
+Here is my offer:
+	* Data scraping from directory, product listing, behind logins, and APIs
+	* Custom data scraping web scraping tools, including web, desktop, Chrome apps, and MS Excel plugin
+	* Data scraping scripts, workflow automation, task scheduling, webhook triggering, and Google Sheet update
+
+Project will deliver as CSV, Excel, or format Google Sheets. Executable file for Desktop App, manifest.json with supported files for Chrome extension, and web applications, I will also set up server.
+
+What I required to build  data scraping web scraping project:
+	* Set of instructions about listing, location, filter, or custom requirement
+	* For tools, instruction about business goals, user interface, and system functions
+	* Necessary tools and credentials access
+
+It's always appreciated to discuss web scraping project details before proceeding order to avoid any unwanted confusion.
+
+If you would like to see some samples of web scraping projects, feel free to message me. I will show similar projects, that I have current catalogs.
+
 
 """
 	
