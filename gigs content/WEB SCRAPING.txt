@@ -94,10 +94,10 @@ Developer for Data Scraping 90%
 		   This is part of freelancer project, I will do my best to make high-quality project and meet expectations. If still some things look beyond me, don't uncomfortable! There is straightforward refund policy on Fiverr.
 		   """
 	
-	◻️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:
+	✅️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:
 		◼️ What are the business goals of this project?
 		◼️ Who are user of this project?
-		◼️ Do you have any target or recommended websites?
+		◼️ Do you have any target or recommended like websites, keyword, location, or others?
 		
 	
 	◻️ GIGS_DESCRIPTION:

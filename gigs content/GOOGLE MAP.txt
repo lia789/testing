@@ -90,10 +90,10 @@ Developer for Real Estate Data Scraping 40%
 		   
 
 	
-	◻️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:
+	✅️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:
 		◼️ What are the business goals of this project?
 		◼️ Who are user of this project?
-		◼️ Do you have any target or recommended websites?
+		◼️ Do you have any target or recommended like keyword, location, or others?
 		
 	
 	◻️ GIGS_DESCRIPTION:
