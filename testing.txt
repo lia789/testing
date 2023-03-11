@@ -1,36 +1,28 @@
-
-Data scraping
+B2B Data Scraping
 """
-Hello and Welcome! If you are looking for data scraping, web scraping or custom tool development? Welcome Again!
+Hello and Welcome! If you're looking for data scraping, web scraping solutions for B2B? Welcome Again.
 
-Here is my offer:
-	* Data Scraping from directories, product listing, behind logins and APIs
-	* Creating custom data scraping solutions, including web-based tools, desktop applications, Chrome extensions, and Microsoft Excel plugin
-	* Building scripts for workflow automation, task scheduling, webhook triggering, and Google Sheet update
-
-Data scraping projects will deliver as clean CSV, Excel, or format Google Sheet. Executable file for Desktop App, manifest.json with supported files for Chrome extension, and web applications, I will also set up server.
+Here is what I offer:
+	* Building business list based on location, keyword, business category with verified emails
+	* Business owner, C-level executive's contact information with phone and emails
+	* Custom data scraping web scraping tools, including web, desktop, Chrome apps, and MS Excel plugin
 
 
-What I required to build a data scraping project:
-	* Set of instructions about listing website, location, filter, or custom requirements
-	* For tools building instruction about business goals, user interface, and system functions
-	* Access necessary tools and credentials as requirements
-
-It's always appreciated to discuss project details before proceeding an order to avoid any unwanted confusion.
+Data scraping projects will deliver as CSV, Excel, or format Google Sheets. Executable file for Desktop App, manifest.json with supported files for Chrome extension.
 
 
-If you would like to see some samples of web scraping data scraping projects, feel free to message me. I will show you similar projects like yours, that I have in my current catalogs.
+What I required to build data scraping, web scraping for google map:
+	* Set of instructions about business category, location, filter, or custom requirements for listing and contact information
+	* For tools, instruction about business goals, user interface, and system functions
+	* Necessary credentials and tools access
 
+It is always appreciated to discuss project details before placing an order to avoid any unwanted confusion.
 
-If you're like to see some samples of web scraping, data scraping or custom tool development projects, please feel free to message me. I will show you similar projects like yours, that I have in my current catalogs.
-
-
+If you want to see examples of my previous web scraping data scraping google map projects, feel free to message me. I can show you similar projects that I have in my current catalog about google map.
 """
 
 
-Feel free to send me message if you'd like to see some samples about real estate web scraping and lead generation, I will show most similar data scraping or skip tracing projects like yours as I have current catalogs.
 
+	◼️ B2B lead generation with verified email
+	◼️ C-level lead generation with contact infromation
 
-	◼️ Web Scraping data from product listing, directories, behind logins and APIs
-	◼️ Developing web scraping tools such as web, desktop, Chrome apps, and Microsoft Excel plugins
-	◼️ Building scripts to automate workflows, schedule tasks, trigger webhook, and update Google Sheet

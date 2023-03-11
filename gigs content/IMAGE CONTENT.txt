@@ -10,12 +10,12 @@
 	✅️ B2B:
 		◼️ Developer for B2B Data Scraping
 			◼️ B2B leads with verified email
-			◼️ Business owner, C-level contact information
+			◼️ Business owner, C-level executive's information
 			◼️ Scraping tools desktop, web, and Chrome apps
 	✅️ GOOGLE MAP:
 		◼️ Developer for Google Map Data Scraping
 			◼️ B2B listing with emails
-			◼️ Business owner, C-level contact information
+			◼️ Business owner, C-level executive's information
 			◼️ Scraping tools desktop, web, and Chrome apps
 	✅️ DATA SCRAPING:
 		◼️ Developer for Data Scraping
