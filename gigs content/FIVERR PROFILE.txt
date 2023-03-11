@@ -1,0 +1,68 @@
+""" this document about Fiverr profile content 🖐️ """
+
+
+⬜️ Fiverr main keywords❓️
+	◼️ data scraping
+	◼️ web scraping
+	◼️ python
+	◼️ data extraction
+	◼️ data mining
+	
+
+
+⬜️ Fiverr profile setup supported materials❓️
+	◼️ PROFILE PICTURE
+	◼️ LINKED_ACCOUNT
+		◽️ Facebook
+		◽️ Google
+		◽️ Dribbble
+		◽️ Stack Overflow
+		◽️ GitHub
+		◽️ Vimeo
+		◽️ Twitter
+	◼️ USER_NAME
+
+
+
+⬜️ Fiverr profile setup text content❓️
+	✅️ PROFILE_TITLE: "Data Scraping Developer"
+	✅️ LANGUAGE: English & Bengali
+	✅️ SKILLS:
+		◽️ Python
+		◽️ JavaScript
+		◽️ Data scraping
+		◽️ Web scraping
+		◽️ Data mining 
+		◽️ Data extraction 
+		◽️ Data collecting
+		◽️ Data analysis
+		◽️ B2B lead generation
+		◽️ Email list building
+	
+	✅️ EDUCATION:
+		◽️ Bangladesh
+		◽️ Dinajpur Polytechnic Institute
+		◽️ Certificate
+		◽️ Mechanical Engineering
+		◽️ 2016
+		
+	✅️ CERTIFICATION:
+		◽️ Modern Python Bootcamp
+		◽️ Udemy
+		◽️ 2018
+		
+		◽️Scrapy: Powerful Web Scraping & Crawling With Python
+		◽️ Udemy
+		◽️ 2019
+		
+		
+	✅️ PROFILE_DESCRIPTION:
+		"""
+		Hi, I am Lia, a hard-code data scraping Python Developer.
+		
+		Python is primary tool for doing web scraping, data scraping, and automation tasks. I also use JavaScript for front-end and browser automation. Scrapy, Django, Pandas, and Selenium is often used framework for my projects.
+		
+		Earlier I worked for a telecommunication company, and now as full-time dedicated Python freelance developer.
+		
+		"""
+		
