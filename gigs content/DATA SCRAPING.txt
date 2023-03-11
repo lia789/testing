@@ -8,10 +8,9 @@ Developer for Data Scraping 90%
 
 
 ⬜️ Key service for Data Scraping❓️
-	◼️ Scraping data from directories, product listings, and other sources
-	◼️ Extracting data from complex sources, including those behind logins and APIs
+	◼️ Data Scraping data from directories, product listings, behind logins and APIs
 	◼️ Developing data scraping tools such as desktop, web, Chrome apps, and Microsoft Excel plugins
-	◼️ Building google sheet Airtable automation schedule script
+	◼️ Building scripts about automate workflow, schedule task, trigger webhook, and update Google Sheet
 	
 
 
@@ -39,9 +38,9 @@ Developer for Data Scraping 90%
 
 
 ⬜️ GIG_IMAGE_CONTENT❓️
-	◼️ Data scraping from complex sources & APIs
-	◼️ Developing tools for desktop, web, Chrome apps, and MS Excel plugins
-	◼️ Building automation schedule script
+	◼️ Data from directory, listing, behind logins and APIs
+	◼️ Developing desktop, web, Chrome apps, MS Excel plugins
+	◼️ Automate, schedule task, trigger webhook, update Google Sheet
 
 
 
@@ -57,19 +56,19 @@ Developer for Data Scraping 90%
 	✅️ PRICE: 5$ | 35$ | 75$ 
 	
 	
-	◻️ PRICE_TITLE: "Quick & Fast" | "Complete & Bundle" | "Custom & On-Demand"
+	✅️ PRICE_TITLE: "Quick & Fast" | "Complete & Bundle" | "Custom & On-Demand"
 	
-	◻️ BASIC_PRICE_SHORT_DESCRIPTION:
+	✅️ BASIC_PRICE_SHORT_DESCRIPTION:
 		""""
-		
+		Need data fast? This package about web scraping up to 1000 data row within few hour
 		"""
-	◻️ STANDARD_PRICE_SHORT_DESCRIPTION:
+	✅️ STANDARD_PRICE_SHORT_DESCRIPTION:
 		"""
-		
+		This package about data scraping behind logins, APIs and building automation script
 		"""
-	◻️ PREMIUM_PRICE_SHORT_DESCRIPTION: 
+	✅️ PREMIUM_PRICE_SHORT_DESCRIPTION: 
 		"""
-		
+		Include data scraping desktop, desktop, web, Chrome apps, and MS Excel plugins
 		"""
 	
 	
@@ -77,24 +76,25 @@ Developer for Data Scraping 90%
 	✅️ PRICE_FEATURE: ✔️50 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
 	
 	
-	◻️ FAQ:
+	✅️ FAQ:
 		◼️ What about project management?
 		   """
-		  
+		  Data Scraping project start with requirements gathering and building Project Scope Document to ensure we are on same place. Once we have agreed on the scope, I will begin the project & keep you updated on progress. Before final delivery, we will review quality of the project to ensure it meets expectations.
 		   """
 	
-		◼️ What about project delivery process?
+		◼️ What about data scraping project delivery process?
 		   """
+		   Delivery process depends on requirements. Clean CSV or format google sheet for data scraping, executable file for Desktop App, manifest.json with supported files for Chrome extension, and have to discuss server deployment about web apps. All project include User Manual, Source Code, and supported files.
 		   
 		   """
 		   
-		◼️ What about maintenance?
+		◼️ What about project maintenance?
 		   """
-		  
+		  Every data scraping project will include source code and supporting files. If I am not live on Fiverr, it should not be very hard for other developers to extend and maintain the project.
 		   """
-		 ◼️ What happens if I'm not satisfied with the work?
+		 ◼️ What if I'm not satisfied?
 		   """
-		   
+		   This is part of process, I will do my best to make high-quality project and meet expectations. If still some things look beyond me, don't uncomfortable! There is straightforward refund policy on Fiverr.
 		   """
 	
 	◻️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:

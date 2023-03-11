@@ -8,10 +8,9 @@ Developer for Data Scraping 90%
 
 
 ⬜️ Key service for Web Scraping❓️
-	◼️ Scraping data from directories, product listings, and other sources
-	◼️ Extracting data from complex sources, including those behind logins and APIs
-	◼️ Developing data scraping tools such as desktop, web, Chrome apps, and Microsoft Excel plugins
-	◼️ Building google sheet Airtable automation schedule script
+	◼️ Web Scraping data from product listing, directories, behind logins and APIs
+	◼️ Developing web scraping tools such as web, desktop, Chrome apps, and Microsoft Excel plugins
+	◼️ Building scripts to automate workflows, schedule tasks, trigger webhook, and update Google Sheet
 	
 
 
@@ -40,9 +39,9 @@ Developer for Data Scraping 90%
 
 
 ⬜️ GIG_IMAGE_CONTENT❓️
-	◼️ Data scraping from complex websites & APIs
-	◼️ Building scraping tools desktop, web, Chrome apps, and MS Excel plugins
-	◼️ Developing automation schedule script
+	◼️ Data from listing, directory, behind logins, and APIs
+	◼️ Developing web, desktop, Chrome apps, MS Excel plugins
+	◼️ Automate, schedule task, trigger webhook, update Google Sheet
 
 
 
@@ -58,19 +57,19 @@ Developer for Data Scraping 90%
 	✅️ PRICE: 5$ | 35$ | 75$ 
 	
 	
-	◻️ PRICE_TITLE: "Quick & Fast" | "Complete & Bundle" | "Custom & On-Demand"
+	✅️ PRICE_TITLE: "Quick & Fast" | "Complete & Bundle" | "Custom & On-Demand"
 	
-	◻️ BASIC_PRICE_SHORT_DESCRIPTION:
+	✅️ BASIC_PRICE_SHORT_DESCRIPTION:
 		""""
-		
+		Need data fast? This package about web scraping up to 1000 data row within few hour
 		"""
-	◻️ STANDARD_PRICE_SHORT_DESCRIPTION:
+	✅️ STANDARD_PRICE_SHORT_DESCRIPTION:
 		"""
-		
+		This package about web scraping behind logins, APIs and building automation script
 		"""
-	◻️ PREMIUM_PRICE_SHORT_DESCRIPTION: 
+	✅️ PREMIUM_PRICE_SHORT_DESCRIPTION: 
 		"""
-		
+		Include web scraping desktop, desktop, web, Chrome apps, and MS Excel plugins
 		"""
 	
 	
@@ -81,21 +80,18 @@ Developer for Data Scraping 90%
 	◻️ FAQ:
 		◼️ What about project management?
 		   """
-		  
+		  Web Scraping project start with requirements gathering and building Project Scope Document to ensure we are on same place. Once we have agreed on the scope, I will begin the project & keep you updated on progress. Before final delivery, we will review quality of the project to ensure it meets expectations.
 		   """
 	
-		◼️ What about project delivery process?
-		   """
-		   
-		   """
-		   
 		◼️ What about maintenance?
 		   """
-		  
-		   """
-		 ◼️ What happens if I'm not satisfied with the work?
+		   Every web scraping project will include source code and supporting files. If I am not live on Fiverr, it should not be very hard for other developers to extend and maintain the project.
 		   """
 		   
+
+		 ◼️ What if I am not happy with the project?
+		   """
+		   This is part of freelancer project, I will do my best to make high-quality project and meet expectations. If still some things look beyond me, don't uncomfortable! There is straightforward refund policy on Fiverr.
 		   """
 	
 	◻️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:

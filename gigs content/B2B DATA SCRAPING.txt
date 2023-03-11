@@ -64,24 +64,24 @@ Developer for B2B Data Scraping 70%
 	✅️ PRICE_FEATURE: ✔️50 leads included ✔️1 source mine/scraped ✔️1 page mined/scraped ✔️Formatting & clean up ✔️Source code
 	
 	
-	◻️ FAQ:
+	✅️ FAQ:
 		◼️ What about project management?
 		   """
-		   
+		   B2B data scraping project start with requirements gathering and building Project Scope Document to ensure both of us about high quality data. Once we have agreed on the scope, I will begin the project & keep you updated on progress. Before final delivery, we will review quality of the project to ensure it meets expectations.
 		   """
 	
-		◼️ What about project delivery process?
+		◼️ What about b2b data scraping project delivery process?
 		   """
-		  
+Delivery process depends on requirements. Clean ready to use CSV or format google sheet for b2b data scraping, executable file for Desktop App, manifest.json with supported files for Chrome extension, and have to discuss server deployment about web apps.
 		   """
+
 		   
-		◼️ What about maintenance?
+		 ◼️ What if the work doesn't meet my expectations?
 		   """
+		   This is part of freelance project, I will do my best to make high-quality work and meet expectations. If still some things look beyond me, don't uncomfortable! There is straightforward refund policy on Fiverr.
 		   """
-		   
-		 ◼️ What happens if I'm not satisfied with the work?
-		   """
-		   """
+	
+	
 	
 	◻️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:
 		◼️ What are the business goals of this project?

@@ -82,20 +82,24 @@ Developer for Real Estate Data Scraping 70%
 		◼️ What about project management?
 		   """
 		   A data scraping project starts with discussing requirements. After that I will give a Project Scope Document to confirm, we are both on same place. Once you place the order, I will begin the project & keep you updated on progress. We will check quality of project before delivery confirmation.
+		◼️ What about real estate data scraping project delivery process?
+		   """
+		  What about real estate data scraping project delivery process?
+Delivery process depends on requirements. Clean ready to use CSV or format google sheet for real estate data scraping, executable file for Desktop App, manifest.json with supported files for Chrome extension, and have to discuss server deployment about web apps
 		   """
 	
-		◼️ What about project delivery process?
+		◼️ What about project maintenance?
 		   """
-		   Delivery process depends on requirement. Clean CSV or format google sheet for data scraping, executable file for Desktop App, manifest.json with supported files for Chrome extension and Web App, have to discuss server deployment. User Manual, Source Code, and supported files include every project.
+		  Every real estate data scraping project will include source code and supporting files. If I am not live on Fiverr, it should not be very hard for other developers to extend and maintain the project.
 		   """
 		   
 		◼️ What about maintenance?
 		   """
 		   Every project will include source code and supporting files. If I am not live on Fiverr, it should not be very hard for other developers to extend and maintain the project.
 		   """
-		 ◼️ What happens if I'm not satisfied with the work?
+		 ◼️ What if project doesn't meet my expectations?
 		   """
-		   This is part of the process and crucial, I will do my best to make high-quality project. If still some things look beyond me, don't worry there is straightforward refund policy on Fiverr.
+		   This is part of freelance, I will do my best to make high-quality project and meet expectations. If still some things look beyond me, don't uncomfortable! There is straightforward refund policy on Fiverr.
 		   """
 	
 	✅️ PROJECT_REQUIREMENTS_QUESTIONS_FOR_BUYER:
