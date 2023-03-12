@@ -1,0 +1,22 @@
+
+
+
+
+Application Description:
+"""
+Build a web scraping application about quotes scraping based on user tag input from "https://www.goodreads.com/quotes/tag/love"
+
+Application core feature:
+	1. User input tag name
+	2. Scraping data based on tag name
+	3. Display Scrapy spider status
+	4. Download quotes data as CSV file
+"""
+
+
+Goals of the project:
+	1. Web application design document building and supported files
+	2. Django cheat sheet
+	3. Web scraping cheat sheet
+	4. Building a architecture about Scrapy, Django, ScrapyD and JavaScript
+
