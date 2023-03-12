@@ -64,7 +64,7 @@ NEWSPIDER_MODULE = "good_reader_project.spiders"
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     "good_reader_project.pipelines.DataCleanerPipeline": 200,
-    # 'good_reader_project.pipelines.GoodReaderProjectPipeline': 300,
+    'good_reader_project.pipelines.GoodReaderProjectPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -97,3 +97,11 @@ TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 # LOG_FILE = "logs.log"
 # LOG_LEVEL = "INFO"
 # LOG_FILE_APPEND = False
+
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': 'db.sqlite3',
+#     }
+# }

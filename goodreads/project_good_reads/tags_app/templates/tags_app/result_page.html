@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- Dashboard -->
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-10">
+            <table class="table table-bordered ">
+                <thead>
+                  <tr>
+                    <th scope="col">Status</th>
+                    <th scope="col">Items</th>
+                    <th scope="col">Runtime</th>
+                    <th scope="col">Started</th>
+                    <th scope="col">Finished</th>
+                  </tr>
+                </thead>
+                <tbody class="table-info">
+                  <tr>
+                    <th scope="row status"><span id="spider-status">Loading...</span></th>
+                    <td>100</td>
+                    <td>00.00.37</td>
+                    <td>2023-02-27 06:40:54 UTC</td>
+                    <td>2023-02-27 06:41:31 UTC</td>
+                  </tr>
+                </tbody>
+              </table>
+        </div>
+        <div class="col"></div>
+    </div>
+</div>
+<!-- Dashboard end -->
+
+<!-- Download Button -->
+<div class="container mt-5">
+  <button type="button" class="btn btn-primary btn-lg">Download</button>
+</div>
+<!-- Download Button end -->
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function() {
+    // update spider status every 5 seconds
+    setInterval(function() {
+        $.getJSON("{% url 'spider_status' %}", function(data) {
+            if (data.status.length > 0) {
+                $("#spider-status").text("Running");
+            } else {
+                $("#spider-status").text("Finished");
+            }
+        });
+    }, 1000);
+});
+</script>
+{% endblock %}

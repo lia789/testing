@@ -93,3 +93,10 @@ Project will run on local machine
 ✅️ DATA_EXTRACTION_CODE:
 
 
+
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ DJANGO FRAME WORK COMPONENT ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+✅️ PROJECT_NAME: project_good_reads
+✅️ APP_NAME: tags_app
+
+
+
