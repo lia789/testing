@@ -1,0 +1,204 @@
+""" This document about B2B Lead Generation and Skip Tracing 🖐️ """
+
+
+⬜️ What I want about lead generation❓️
+	◼️ robust lead generation document
+	◼️ project building steps
+	◼️ format Google Sheet
+	◼️ Chrome account setup
+
+
+
+⬜️ Why you need lead generation data scraping❓️
+My gigs service on Fiverr are heavily based on lead generation data scraping.
+
+
+
+⬜️ Why company hire lead generation expert❓️
+Lead generation data used on company sales process, high quality data is very much important them to for marketing.
+The goal of lead generation project is found out decision maker of a company, who will be interest for a business product or service.
+Company data along side with decision maker contact information is game changer.
+
+
+
+⬜️ What type of lead generation project have in market❓️
+Email, phone or contact information collection is heart of lead generation project.
+There are many type of lead generation project have like B2B, B2C, Inbound, Outbound, and others.
+We are only interest on B2B lead generation project.
+B2B lead generation can be two type:
+	➡️ Company Data (B-level)
+	➡️ Decision Maker Data (C-level)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⬜️ How to collect business data❓️
+Specific industry, product name and geographic location is important for collecting business data from any source.
+	✅️ Google Search
+		♊️ "site:companywebsite.com email"
+		♊️ "site:companywebsite.com phone number"
+	✅️ Company website
+		♊️ header
+		♊️ footer
+		♊️ about us
+		♊️ contact us
+		♊️ 3rd party chrome extension
+	✅️ Business directory
+		♊️ Google map
+		♊️ Yelp
+		♊️ Yellow Pages
+		♊️ Manta
+
+
+
+
+⬜️ What about C-level lead generation❓️
+C-level data always ask to find business emails, business emails are based on domain names.
+Chat GPT can help building business domain emails pattern for verify on hunter.io
+
+First I have to find business, than business owners email address.
+
+	✅️ LinkedIn and LinkedIn sales navigator
+	✅️ Specific business directories
+		♊️ ZoomInfo 
+		♊️ Hoovers
+		♊️ Dun & Bradstreet
+	✅️ Social Media
+	
+
+
+
+
+⬜️ What are popular business directories❓️
+	✅️ Yelp: A directory that lists businesses in a variety of categories, including restaurants, shopping, and home services"""
+	✅️ Yellow Pages: An online directory that lists businesses by category and location, making it easy to find companies in your area"""
+	✅️ Google My Business: A directory that lists businesses on Google Maps, allowing users to find businesses based on location and industry
+	✅️ Better Business Bureau: A directory that lists businesses that have been accredited by the Better Business Bureau, providing information about their reputation and history.
+	✅️ Crunchbase: A directory that lists companies, investors, and other business information, with a focus on technology and startups.
+	✅️ Manta: A directory that provides information about small businesses, including their contact information and company details.
+	✅️ Dun & Bradstreet: A directory that provides information about businesses, including their financials, industry classification, and contact information.
+	✅️ ZoomInfo: A directory that provides contact information and company details for businesses, including decision-makers and key personnel.
+	✅️ Hoovers: A directory that provides information about businesses, including their financials, industry classification, and contact information.
+	✅️ ThomasNet: A directory that lists industrial manufacturers, distributors, and service providers, with information about their products and services.
+	✅️ Kompass: A global business directory that lists companies by industry and location, with detailed company information and contact details.
+	✅️ Angie's List: A directory that provides information about local service providers, including home repair, health care, and pet services.
+	✅️ HomeAdvisor: A directory that lists home service providers, including contractors, landscapers, and repair services.
+	✅️ Zillow: A directory that provides information about real estate agents, brokers, and listings.
+	✅️ TripAdvisor: A directory that lists travel-related businesses, including hotels, restaurants, and tourist attractions.
+	✅️ Foursquare: A directory that provides information about local businesses, including reviews and recommendations from users.
+	✅️ Angie's List: A directory that provides information about local service providers, including home repair, health care, and pet services.
+	✅️ Local.com: A directory that lists local businesses, including their contact information and location.
+	✅️ Superpages: A directory that lists businesses by category and location, with information about their products and services.
+	✅️ Citysearch: A directory that provides information about local businesses, including their contact information, reviews, and ratings.
+
+
+
+
+
+
+⬜️ What are popular directory of employees❓️
+	✅️ LinkedIn: The largest professional networking site with over 700 million members worldwide. LinkedIn allows users to connect with professionals in their industry and search for companies and job openings.
+	✅️ ZoomInfo: A directory of over 50 million business professionals with contact information, job titles, and company details. ZoomInfo is a popular tool for B2B lead generation and sales prospecting.
+	✅️ Hunter.io: A directory of email addresses and other contact information for professionals within a company. Hunter.io allows users to search for contacts by company name or domain.
+	✅️ Clearbit Connect: A Gmail extension that provides contact information for professionals within a company, including email addresses and social media profiles.
+	✅️ Crunchbase: A directory of over 1.7 million companies and their employees, with a focus on startups and technology.
+	✅️ Data.com Connect: A directory of business professionals that includes contact information, job titles, and company details. Data.com Connect is a subscription-based service that offers access to over 30 million business contacts.
+	✅️ Lead411⁉️
+	✅️ Hoovers: A directory of businesses and their key personnel, with information about their job titles and contact information. Hoovers is a subscription-based service that offers access to over 120 million companies and their employees.
+	✅️ DiscoverOrg: A directory of companies and their employees, with contact information and other company details. DiscoverOrg is a popular tool for B2B sales and marketing teams.
+	✅️ Adapt.io: A directory of over 200 million business contacts, including email addresses, phone numbers, and social media profiles. Adapt.io is a popular tool for B2B lead generation and sales prospecting.
+	✅️ Apollo.io: A directory of over 200 million business contacts, including email addresses, phone numbers, and social media profiles. Apollo.io is a popular tool for B2B lead generation and sales prospecting.
+	✅️ Lusha: A directory of contact information for professionals within a company, including email addresses and phone numbers. Lusha integrates with LinkedIn and other platforms to provide real-time contact information.
+	✅️ RocketReach: A directory of over 400 million business contacts, with contact information, job titles, and company details. RocketReach is a popular tool for B2B lead generation and sales prospecting.
+	✅️ Discoverly: A Chrome extension that provides additional contact information for professionals within a company, including social media profiles and contact details.
+	✅️ Skrapp.io: A directory of email addresses for professionals within a company, with a focus on startups and technology. Skrapp.io allows users to search for contacts by company name or domain.
+
+
+
+
+
+⬜️ What are common data points about lead generation project❓️
+	✅️ Company data with decision maker:
+		♊️ company_name
+		♊️ location
+		♊️ website
+		♊️ phone
+		♊️ email
+		♊️ linkedIn_profile
+		♊️ facebook_page
+		♊️ twitter_profile
+		♊️ industry
+		♊️ business_type
+		♊️ founded_year
+		♊️ company_size
+		♊️ location
+		♊️ contact_name
+		♊️ contact_email
+		♊️ contact_phone
+		♊️ street_address
+		♊️ city
+		♊️ state
+		♊️ zip_code
+	
+	✅️ Decision maker data:
+		♊️ first_name
+		♊️ last_name
+		♊️ job_title
+		♊️ company_name
+		♊️ company_website
+		♊️ industry
+		♊️ business_email
+		♊️ phone
+		♊️ linkedIn_profile
+		♊️ twitter_profile
+		♊️ facebook_profile
+
+
+	
+
+
+
+
+
+
+
+### Pending Task ###
+# Make a description help of CHAT GPT about "Search Queries"
+# Make a description about Google map address to State, Zip and other
+# Build b2b data scraping project steps
+
+
+
+
+
+
+
+
+
+## RAF ## 
+What are process about lead generation project?
+1. Understand domain and core requirements
+2. Writing effective proposal
+3. Collect data manually
+4. Build a data report
+
