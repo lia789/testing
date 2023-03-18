@@ -10,39 +10,135 @@
 
 
 ⬜️ Why you need lead generation data scraping❓️
-My gigs service on Fiverr are heavily based on lead generation data scraping.
+My gigs service on Fiverr are heavily depend behind the science based on lead generation data scraping.
 
 
 
 ⬜️ Why company hire lead generation expert❓️
-Lead generation data used on company sales process, high quality data is very much important them to for marketing.
-The goal of lead generation project is found out decision maker of a company, who will be interest for a business product or service.
-Company data along side with decision maker contact information is game changer.
+Goal of lead generation is rich out business owner, or C-level executives for sales.
 
 
 
-⬜️ What type of lead generation project have in market❓️
-Email, phone or contact information collection is heart of lead generation project.
-There are many type of lead generation project have like B2B, B2C, Inbound, Outbound, and others.
-We are only interest on B2B lead generation project.
-B2B lead generation can be two type:
-	➡️ Company Data (B-level)
-	➡️ Decision Maker Data (C-level)
+⬜️ What type of lead generation project, we do❓️
+We have two type of projects:
+	1. B2B leads (business & owner)
+	2. C-level executives
 
 
 
+⬜️ What are skills for lead generation project❓️
+	◼️ understand requirement
+	◼️ proposal writing
+	◼️ internet research
+	◼️ keyword selection
+	◼️ data collection
+	◼️ google sheet format
 
 
 
+⬜️ What is requirements understending formula❓️
+There are must have felds about every project requirements:
+	◼️ number of leads
+	◼️ location
+	◼️ information type (b2b|c-level)
+	◼️ businees name|type|category|industries
+	◼️ business filter requirements (optional)
 
 
 
+⬜️ What are common data fields to collect❓️
+	◼️ b2b data with business owner:
+		◽️ company_name
+		◽️ website
+		◽️ email
+		◽️ phone
+		◽️ owner_name
+		◽️ owner_email
+		◽️ owner_phone
+		◽️ location
+		◽️ street_address
+		◽️ city
+		◽️ state
+		◽️ zip_code
+		◽️ linkedIn_profile
+		◽️ facebook_page
+
+	◼️ c-level executives data:
+		◽️ first_name
+		◽️ last_name
+		◽️ job_title
+		◽️ company_name
+		◽️ company_website
+		◽️ industry
+		◽️ business_email
+		◽️ phone
+		◽️ linkedIn_profile
+		◽️ twitter_profile
+		◽️ facebook_profile
 
 
 
+⬜️ How to collect business data❓️
+	◼️ understand requirements
+	◼️ doing base internet research
+	◼️ select keywords
+	◼️ source website selection
+	◼️ data collection
+	
+
+
+⬜️ What about business data collection source❓️
+If We found business website, We can found eamils too!
+
+Source of website about collecting business:
+	◼️ Google Map
+	◼️ Yellow Page
+	◼️ https://yellowpages.fr/world/ (yellow page directory)
+	◼️ Yelp (VPN need)
+	◼️ Yell (UK)
+	◼️ BBB (Better Business Bureau, VPN need)
+	◼️ Supper Page
+	◼️ White Page
+	◼️ Trip advisor
+	◼️ Truck data base
+	◼️ www.opentable.com
+	◼️ whois
+	
 
 
 
+⬜️ What about C-level executives data collection❓️
+We must have business data file with name and website for finding C-lvele executives data!
+Common C-level executives are Owner|CEO|CXO|CoF|HR|GM
+
+Source of website about collecting C-level executives data:
+	◼️ LinkedIn Sales Navigator
+
+
+
+⬜️ What are lead generation premium database provider❓️
+	◼️ www.crunchbase.com
+	◼️ www.dnb.com
+	◼️ www.apollo.io
+	◼️ www.zoominfo.com
+	◼️ 
+	
+
+⬜️ What are tools for b2b lead generations❓️
+	◼️ Snov.io (Extension for website email finder)
+	◼️ Hunter.io (Extension for website email finder)
+	◼️ Setup VPN (VPN Extesnstion)
+	◼️ Kendu (Extension for LinkedIn eamil finder)
+	◼️ Email finder Get Prospect (Extension for C-level email finder)
+	◼️ Email finder lead leaper (Extension for C-level email finder)
+	◼️ Lusa (Extension for C-level email finder)
+	◼️ SignalHire (Extension for C-level email finder, hign price and have API. You can build similar tools with Python)
+	◼️ SalesQL (LinkdeIn primium extension)
+	◼️ apollo.io (Estension for email finder)
+	◼️ growmeorganic.com (Extension for email finder)
+	◼️ Clearbit Connect (Extension)
+	◼️ 
+	 
 
 
 
