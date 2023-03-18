@@ -142,6 +142,24 @@ Source of website about collecting C-level executives data:
 
 
 
+⬜️ What is real estate skip tracing❓️
+Real Estate skip tracing all about finding property owner as leads, real estate agent will meet property owner for property sales. Every leads are valuable for client, because they meet property owner phicilay. Agent are rich client, and one word persones.
+
+Steps about collecting skip tracing data:
+	1. Property data collection based on specifc filter
+	2. Property owner name finding based on tax or goverment website
+	3. Owner phone and email finding based on truepeople search
+
+
+Type of work and tools:
+	1. Property data collection
+	2. Owner namme finding
+	3. Owner email and phone finding 
+
+
+
+
+
 
 
 
