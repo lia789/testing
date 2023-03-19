@@ -1,52 +1,90 @@
 """ This document about B2B Lead Generation and Skip Tracing 🖐️ """
 
 
-⬜️ What I want about lead generation❓️
-	◼️ robust lead generation document
-	◼️ project building steps
-	◼️ format Google Sheet
-	◼️ Chrome account setup
+🟥️🟥️ Motivation 🟥️🟥️
+
+🟦️ What is the goals of this Eid❓️
+We have to earn minimum 700$ with in 27 days.
+
+Fiverr Gigs Deploy: 7.30 PM Friday 24 March, After 1st Ramadan Iftar.
 
 
 
-⬜️ Why you need lead generation data scraping❓️
-My gigs service on Fiverr are heavily depend behind the science based on lead generation data scraping.
+
+🟦️ Why us need lead generation & skip tracing❓️
+We have 3 major reson to deal with:
+	◼️ Technology shaping through AI
+	◼️ Observe finansial crises
+	◼️ Meet short EID deadline
+
+B2B, Skip Tracing ---> Nocode, Data Scraping, Automaion Script ---> Chrome Extension, MS Plugin, Desktop App, Web App ---> Block Chanin, AI, Machine Learing ---> Ethical Haking --> Build Facebook
 
 
 
-⬜️ Why company hire lead generation expert❓️
-Goal of lead generation is rich out business owner, or C-level executives for sales.
 
 
+🟥️🟥️ B2B  🟥️🟥️
 
-⬜️ What type of lead generation project, we do❓️
-We have two type of projects:
-	1. B2B leads (business & owner)
-	2. C-level executives
+🟦️ What are steps to build a freelancer b2b project❓️
+	◼️ Reading job description and understand requirements help of lead generation formula
+	◼️ Writing proposal
+	◼️ Communication client and convert prospect into sales
+	◼️ Writing "Design" document
+	◼️ Raw internet research and identify source website
+	◼️ Identify keyword
+	◼️ Format Google Sheet
+	◼️ Data collection
+	◼️ Project handover
 
 
-
-⬜️ What are skills for lead generation project❓️
+🟦️ What are skills for lead generation project need❓️
 	◼️ understand requirement
 	◼️ proposal writing
 	◼️ internet research
 	◼️ keyword selection
 	◼️ data collection
-	◼️ google sheet format
+	◼️ formating google sheet	
+
+
+🟦️ Why company hire lead generation expert❓️
+Goal of lead generation is rich out business owner, or C-level executives for sales.
 
 
 
-⬜️ What is requirements understending formula❓️
-There are must have felds about every project requirements:
+🟦️ What type of lead generation project, we do❓️
+There are two type of lead generation are there:
+	1. B2B (Developer)
+	2. B2C (Degital Marketing)
+	
+
+We are very much interested on B2B, we have two type of projects:
+	1. B2B leads (business & owner)
+	2. C-level executives
+
+
+
+🟦️ How to read b2b jobs description and understand requirements❓️
+A lead generation project should include this list of points:
 	◼️ number of leads
 	◼️ location
 	◼️ information type (b2b|c-level)
 	◼️ businees name|type|category|industries
-	◼️ business filter requirements (optional)
+	◼️ business filter (optional)
+	◼️ columns name (optional)
+
+Based on this requirements you will draw conclution:
+	◼️ Type of project B2B|C-Level
+	◼️ Number of leads
+	◼️ Location
+	◼️ Business type
+	◼️ Source website
+	◼️ Keyword
+
+🚩️ Based on conclution, we will write proposal. How to write proposal, this part I not work yet! How over, I have very good proposal format about Data Scraping and Script. Same work need to done about b2b and skip tracing too.
 
 
 
-⬜️ What are common data fields to collect❓️
+🟦️ What are common data fields to collect❓️
 	◼️ b2b data with business owner:
 		◽️ company_name
 		◽️ website
@@ -78,17 +116,8 @@ There are must have felds about every project requirements:
 
 
 
-⬜️ How to collect business data❓️
-	◼️ understand requirements
-	◼️ doing base internet research
-	◼️ select keywords
-	◼️ source website selection
-	◼️ data collection
-	
-
-
-⬜️ What about business data collection source❓️
-If We found business website, We can found eamils too!
+🟦️ What about business data collection source❓️
+🚩️ If We found business website, We can found eamils too!
 
 Source of website about collecting business:
 	◼️ Google Map
@@ -106,9 +135,8 @@ Source of website about collecting business:
 	
 
 
-
-⬜️ What about C-level executives data collection❓️
-We must have business data file with name and website for finding C-lvele executives data!
+🟦️ What about C-level executives data collection❓️
+🚩️ We must have business data file with name and website for finding C-lvele executives data!
 Common C-level executives are Owner|CEO|CXO|CoF|HR|GM
 
 Source of website about collecting C-level executives data:
@@ -116,15 +144,17 @@ Source of website about collecting C-level executives data:
 
 
 
-⬜️ What are lead generation premium database provider❓️
+🟦️ What are lead generation premium database provider❓️
+🚩️ Have to have make this list better.
 	◼️ www.crunchbase.com
 	◼️ www.dnb.com
 	◼️ www.apollo.io
 	◼️ www.zoominfo.com
-	◼️ 
+	
 	
 
-⬜️ What are tools for b2b lead generations❓️
+🟦️ What are tools for b2b lead generations❓️
+🚩️ Have to have make this list better.
 	◼️ Snov.io (Extension for website email finder)
 	◼️ Hunter.io (Extension for website email finder)
 	◼️ Setup VPN (VPN Extesnstion)
@@ -137,155 +167,77 @@ Source of website about collecting C-level executives data:
 	◼️ apollo.io (Estension for email finder)
 	◼️ growmeorganic.com (Extension for email finder)
 	◼️ Clearbit Connect (Extension)
-	◼️ 
+
 	 
 
 
 
-⬜️ What is real estate skip tracing❓️
-Real Estate skip tracing all about finding property owner as leads, real estate agent will meet property owner for property sales. Every leads are valuable for client, because they meet property owner phicilay. Agent are rich client, and one word persones.
+🟥️🟥️ SKIP TRACING  🟥️🟥️
 
-Steps about collecting skip tracing data:
-	1. Property data collection based on specifc filter
-	2. Property owner name finding based on tax or goverment website
+
+🟦️ What is real estate skip tracing❓️
+Real Estate skip tracing all about finding property owner as leads, real estate agent will meet property owner for property sales. Every leads are valuable for client, because they meet property owner phicilay.
+Agents are rich client, and one word persones.
+
+
+
+🟦️ How to read skip tracing jobs description and understand requirements❓️
+🚩️ There are 3 kind of project, You will found:
+	1. Property data without owner information
+	2. Owner information
+	3. Property data and owner information
+	
+
+
+🟦️ What are steps to build a freelancer skip tracing project❓️
+Steps about building a Skip Tracing project:
+	◼️ Reading job description and understand requirements
+	◼️ Writing proposal
+	◼️ Communication client and convert prospect into sales
+	◼️ Writing "Design" document
+	◼️ Raw internet research and identify source website
+	◼️ Format Google Sheet
+	◼️ Setup VPN and other supported tools
+	◼️ Data collection
+	◼️ Project handover
+
+
+Steps about collecting skip tracing full feature data:
+	1. Property data collection based on specifc filter from client recomend property listing website
+	2. Property owner name finding based on tax or goverment website (hard part)
 	3. Owner phone and email finding based on truepeople search
 
 
-Type of work and tools:
-	1. Property data collection
-	2. Owner namme finding
-	3. Owner email and phone finding 
+
+🟦️ How are tools and website for lead generation❓️
+🚩️
+TLOxp
+Lexis Nexis
+People Finder
+Control Launch
+
+
+LocatePlus.com
+https://www.truepeoplesearch.com/
+https://opencorporates.com/
+https://www.fastpeoplesearch.com/
+
+"assesros property search "state_name" county
 
 
 
 
 
-
-
-
-
-
-
-⬜️ How to collect business data❓️
-Specific industry, product name and geographic location is important for collecting business data from any source.
-	✅️ Google Search
-		♊️ "site:companywebsite.com email"
-		♊️ "site:companywebsite.com phone number"
-	✅️ Company website
-		♊️ header
-		♊️ footer
-		♊️ about us
-		♊️ contact us
-		♊️ 3rd party chrome extension
-	✅️ Business directory
-		♊️ Google map
-		♊️ Yelp
-		♊️ Yellow Pages
-		♊️ Manta
-
-
-
-
-⬜️ What about C-level lead generation❓️
-C-level data always ask to find business emails, business emails are based on domain names.
-Chat GPT can help building business domain emails pattern for verify on hunter.io
-
-First I have to find business, than business owners email address.
-
-	✅️ LinkedIn and LinkedIn sales navigator
-	✅️ Specific business directories
-		♊️ ZoomInfo 
-		♊️ Hoovers
-		♊️ Dun & Bradstreet
-	✅️ Social Media
 	
 
 
-
-
-⬜️ What are popular business directories❓️
-	✅️ Yelp: A directory that lists businesses in a variety of categories, including restaurants, shopping, and home services"""
-	✅️ Yellow Pages: An online directory that lists businesses by category and location, making it easy to find companies in your area"""
-	✅️ Google My Business: A directory that lists businesses on Google Maps, allowing users to find businesses based on location and industry
-	✅️ Better Business Bureau: A directory that lists businesses that have been accredited by the Better Business Bureau, providing information about their reputation and history.
-	✅️ Crunchbase: A directory that lists companies, investors, and other business information, with a focus on technology and startups.
-	✅️ Manta: A directory that provides information about small businesses, including their contact information and company details.
-	✅️ Dun & Bradstreet: A directory that provides information about businesses, including their financials, industry classification, and contact information.
-	✅️ ZoomInfo: A directory that provides contact information and company details for businesses, including decision-makers and key personnel.
-	✅️ Hoovers: A directory that provides information about businesses, including their financials, industry classification, and contact information.
-	✅️ ThomasNet: A directory that lists industrial manufacturers, distributors, and service providers, with information about their products and services.
-	✅️ Kompass: A global business directory that lists companies by industry and location, with detailed company information and contact details.
-	✅️ Angie's List: A directory that provides information about local service providers, including home repair, health care, and pet services.
-	✅️ HomeAdvisor: A directory that lists home service providers, including contractors, landscapers, and repair services.
-	✅️ Zillow: A directory that provides information about real estate agents, brokers, and listings.
-	✅️ TripAdvisor: A directory that lists travel-related businesses, including hotels, restaurants, and tourist attractions.
-	✅️ Foursquare: A directory that provides information about local businesses, including reviews and recommendations from users.
-	✅️ Angie's List: A directory that provides information about local service providers, including home repair, health care, and pet services.
-	✅️ Local.com: A directory that lists local businesses, including their contact information and location.
-	✅️ Superpages: A directory that lists businesses by category and location, with information about their products and services.
-	✅️ Citysearch: A directory that provides information about local businesses, including their contact information, reviews, and ratings.
+🟥️🟥️🟥️ PENDING TASK 🟥️🟥️🟥️
 
 
 
 
 
 
-⬜️ What are popular directory of employees❓️
-	✅️ LinkedIn: The largest professional networking site with over 700 million members worldwide. LinkedIn allows users to connect with professionals in their industry and search for companies and job openings.
-	✅️ ZoomInfo: A directory of over 50 million business professionals with contact information, job titles, and company details. ZoomInfo is a popular tool for B2B lead generation and sales prospecting.
-	✅️ Hunter.io: A directory of email addresses and other contact information for professionals within a company. Hunter.io allows users to search for contacts by company name or domain.
-	✅️ Clearbit Connect: A Gmail extension that provides contact information for professionals within a company, including email addresses and social media profiles.
-	✅️ Crunchbase: A directory of over 1.7 million companies and their employees, with a focus on startups and technology.
-	✅️ Data.com Connect: A directory of business professionals that includes contact information, job titles, and company details. Data.com Connect is a subscription-based service that offers access to over 30 million business contacts.
-	✅️ Lead411⁉️
-	✅️ Hoovers: A directory of businesses and their key personnel, with information about their job titles and contact information. Hoovers is a subscription-based service that offers access to over 120 million companies and their employees.
-	✅️ DiscoverOrg: A directory of companies and their employees, with contact information and other company details. DiscoverOrg is a popular tool for B2B sales and marketing teams.
-	✅️ Adapt.io: A directory of over 200 million business contacts, including email addresses, phone numbers, and social media profiles. Adapt.io is a popular tool for B2B lead generation and sales prospecting.
-	✅️ Apollo.io: A directory of over 200 million business contacts, including email addresses, phone numbers, and social media profiles. Apollo.io is a popular tool for B2B lead generation and sales prospecting.
-	✅️ Lusha: A directory of contact information for professionals within a company, including email addresses and phone numbers. Lusha integrates with LinkedIn and other platforms to provide real-time contact information.
-	✅️ RocketReach: A directory of over 400 million business contacts, with contact information, job titles, and company details. RocketReach is a popular tool for B2B lead generation and sales prospecting.
-	✅️ Discoverly: A Chrome extension that provides additional contact information for professionals within a company, including social media profiles and contact details.
-	✅️ Skrapp.io: A directory of email addresses for professionals within a company, with a focus on startups and technology. Skrapp.io allows users to search for contacts by company name or domain.
-
-
-
-
-
-⬜️ What are common data points about lead generation project❓️
-	✅️ Company data with decision maker:
-		♊️ company_name
-		♊️ location
-		♊️ website
-		♊️ phone
-		♊️ email
-		♊️ linkedIn_profile
-		♊️ facebook_page
-		♊️ twitter_profile
-		♊️ industry
-		♊️ business_type
-		♊️ founded_year
-		♊️ company_size
-		♊️ location
-		♊️ contact_name
-		♊️ contact_email
-		♊️ contact_phone
-		♊️ street_address
-		♊️ city
-		♊️ state
-		♊️ zip_code
-	
-	✅️ Decision maker data:
-		♊️ first_name
-		♊️ last_name
-		♊️ job_title
-		♊️ company_name
-		♊️ company_website
-		♊️ industry
-		♊️ business_email
-		♊️ phone
-		♊️ linkedIn_profile
-		♊️ twitter_profile
-		♊️ facebook_profile
 
 
 	
@@ -296,23 +248,5 @@ First I have to find business, than business owners email address.
 
 
 
-### Pending Task ###
-# Make a description help of CHAT GPT about "Search Queries"
-# Make a description about Google map address to State, Zip and other
-# Build b2b data scraping project steps
 
-
-
-
-
-
-
-
-
-## RAF ## 
-What are process about lead generation project?
-1. Understand domain and core requirements
-2. Writing effective proposal
-3. Collect data manually
-4. Build a data report
 
