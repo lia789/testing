@@ -1,0 +1,118 @@
+⬜️⬜️⬜️ PROJECT META DATA ⬜️⬜️⬜️
+🔳️ PROJECT_NAME: quotes application
+🔳️ DEADLINE:
+🔳️ PRICE: 100$
+🔳️ COUNTRY_&_TIME_DEFERENCE:
+🔳️ CLIENT_NAME_&_DESIGNATIONS:
+🔳️ FREELANCE_PLATFROM:
+
+
+
+
+⬜️⬜️⬜️ REQUIREMENTS ⬜️⬜️⬜️
+🔳️ APPLICATION_DESCRIPTION:
+"""
+The purpose of the project about;
+building a data extraction tool that will collect quotes data based on URL as user input.
+
+Application core requirements is:
+	- URL as user input
+	- Collect quotes data based on inpu
+	- Save data as CSV file
+"""
+
+🔳️ FUNCTIONAL_REQUIREMENTS:
+	◽️ URL as Input
+	   	- The system shall allow quotes URL as input
+	   	- The system should validate user input
+	◽️ Scraping Quotes data
+		- The system shall collect quotes data based on usr URL input
+		- The system should display mening full message if not found any data
+	◽️ Download data as CSV file
+		- The system should display small amount data on after finish data extraction
+		- The system shall allow user to download data as CSV file
+
+
+🔳️ NONFUNCTIONAL_REQUIREMENTS:
+	◽️ The system should scraping data with in 5 minits
+	◽️ The system should have user friendly interface
+	◽️ The system should not blok its Ip during data extraction
+	◽️ The system should handle one user at a time
+	◽️ The source code should be writen as for easy maintain
+	◽️ The system should deploy on free cloud service
+	◽️ The system should have user manual inside it
+
+
+🔳️ PROJECT_BOUNDARY:
+	◽️ The system only collect data from one website
+	◽️ The system handle only one user at a time
+
+
+🔳️ DELEVERY_MATERIALS:
+	◽️ Live website on cloud
+	◽️ Source code
+	◽️ Project scope document
+	◽️ Design document
+
+
+⬜️⬜️⬜️ DESIGN COMPONENT ⬜️⬜️⬜️
+🔳️ SEPARATION_OF_CONCERN:
+	◽️ Writing data extraction code
+	◽️ User interface design with Streamlit
+	◽️ Integrating data extraction code with Streamlit
+	◽️ Building Docker container of the application
+	◽️ Organizing project delivery materials
+
+
+🔳️ FRONT_END_FRAMEWORK_MATERIALAS:
+"""
+List of component should have on application user interface:
+	- Heading
+	- Input box
+	- Spider running progress bar
+	- Spider live logs
+	- Spider running status with timer
+	- Display short data
+	- Download button
+
+Heading: Welcome to Quotes application
+Input box: Input URL here
+Spider status: Running | 12s
+"""
+
+
+🔳️ MILESTONE:
+	◽️ Organize Quotes data extraction code
+	◽️ Build Streamlit Frontend code
+	◽️ Integrate Scrapy project with Streamlit
+	◽️ Work with non functional requirements
+	◽️ Build docker container
+	◽️ Organize delivery and software development materials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
