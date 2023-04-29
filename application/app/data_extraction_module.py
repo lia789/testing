@@ -4,33 +4,35 @@ from scrapyd_api import ScrapydAPI
 
 
 scrapyd = ScrapydAPI('http://localhost:6800')
-project_name = "quotesbot"
-spider_name = "toscrape-xpath"
+project_name = "quotes"
+spider_name = "spider"
 
 
 
 
 def trigger_spider(keyword=None):
     scrapyd = ScrapydAPI('http://localhost:6800')
-    project_name = "quotesbot"
-    spider_name = "toscrape-xpath"
+    project_name = "quotes"
+    spider_name = "spider"
     scrapyd.schedule(project_name, spider_name)
 
 
 
-def spider_running_status() -> None:
+def server_status():
     """
     Wait until spider finishes running on scrapyd server
     """
-    time.sleep(2)
-    URL = "http://localhost:6800/daemonstatus.json"
-    response = requests.get(URL)
+    scrapyd_server = "http://localhost:6800/daemonstatus.json"
+    response = requests.get(scrapyd_server)
     spider_status = response.json()
 
-    while spider_status["running"] != 0:
+    
+
+    while spider_status["running"] != 0 or spider_status["pending"] != 0:
         time.sleep(1.5)
-        response = requests.get(URL)
+        response = requests.get(scrapyd_server)
         spider_status = response.json()
+        print("Spider running ............")
     
     return True
 

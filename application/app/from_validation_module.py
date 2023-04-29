@@ -47,12 +47,10 @@ def validate_and_submit(url_input_label: str, submit_button_label: str, submit_f
     if submit_button:
         if validate_url(url):
             submit_function(url) # Write submit_function based on requirements
-            # st.stop()
-            st.write("Spider finish")
         else:
             st.error("Invalid URL, please enter a valid URL.") # Write error message here
             st.session_state.disabled = False
-            time.sleep(1.5)
+            time.sleep(1)
             st.experimental_rerun()
 
         

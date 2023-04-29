@@ -1,18 +1,11 @@
-# -*- coding: utf-8 -*-
 import time
 import scrapy
 
 
-class ToScrapeSpiderXPath(scrapy.Spider):
-    name = 'toscrape-xpath'
+class SpiderSpider(scrapy.Spider):
+    name = "spider"
 
-    start_urls = [
-        'http://quotes.toscrape.com/',
-    ]
-
-    # def start_requests(self):
-    #     URL = f"https://quotes.toscrape.com/page/{self.NUMBER}/"
-    #     yield scrapy.Request(URL)
+    start_urls = ["https://quotes.toscrape.com/"]
 
     def parse(self, response):
         for quote in response.xpath('//div[@class="quote"]'):
@@ -26,4 +19,3 @@ class ToScrapeSpiderXPath(scrapy.Spider):
         if next_page_url is not None:
             time.sleep(2)
             yield scrapy.Request(response.urljoin(next_page_url))
-
