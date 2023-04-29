@@ -1,5 +1,3 @@
-import time
-import requests
 from scrapyd_api import ScrapydAPI
 
 
@@ -18,23 +16,6 @@ def trigger_spider(keyword=None):
 
 
 
-def server_status():
-    """
-    Wait until spider finishes running on scrapyd server
-    """
-    scrapyd_server = "http://localhost:6800/daemonstatus.json"
-    response = requests.get(scrapyd_server)
-    spider_status = response.json()
-
-    
-
-    while spider_status["running"] != 0 or spider_status["pending"] != 0:
-        time.sleep(1.5)
-        response = requests.get(scrapyd_server)
-        spider_status = response.json()
-        print("Spider running ............")
-    
-    return True
 
 
 
