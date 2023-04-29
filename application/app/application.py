@@ -5,17 +5,23 @@ import streamlit as st
 import pandas as pd
 from scrapyd_api import ScrapydAPI
 
-from data_extraction_module import trigger_spider
 from from_validation_module import validate_and_submit
 
+
+SCRAPYD = ScrapydAPI('http://localhost:6800')
+SCRAPYD_SERVER = "http://localhost:6800/daemonstatus.json"
+SCRAPY_PROJECT_NAME = "quotes"
+SPIDER_NAME = "spider"
+
+
+
+def trigger_spider(keyword=None):
+    SCRAPYD.schedule(SCRAPY_PROJECT_NAME, SPIDER_NAME)
 
 def convert_df(df):
     return df.to_csv().encode('utf-8')
 
-scrapyd = ScrapydAPI('http://localhost:6800')
-scrapyd_server = "http://localhost:6800/daemonstatus.json"
-project_name = "quotes"
-spider_name = "spider"
+
 
 
 
@@ -24,36 +30,43 @@ st.header("Welcome to Quotes application")
 
 
 
-
-
-
-# Current running spider finding code
-response = requests.get(scrapyd_server)
+# Scrapyd server current status
+response = requests.get(SCRAPYD_SERVER)
 spider_status = response.json()
 
 
+# 2nd page
 if spider_status["running"] != 0 or spider_status["pending"] != 0:
-    st.info("Spider is already running...")
+    spider_status_placeholder = st.empty()
+    spider_status_placeholder.info("Spider is already running...")
+    
     while spider_status["running"] != 0 or spider_status["pending"] != 0:
         time.sleep(1.5)
-        response = requests.get(scrapyd_server)
+        response = requests.get(SCRAPYD_SERVER)
         spider_status = response.json()
-        
-    st.success("Spider Finish")
+    spider_status_placeholder.success("Spider Finish")
 
     df = pd.read_csv("DATA.csv") 
     st.write(df.head(n=3))
 
     csv = convert_df(df)
 
-    st.download_button(
+    download_button = st.download_button(
         label="Download data as CSV",
         data=csv,
         file_name='data.csv',
         mime='text/csv',
+
     )
 
 
+
+
+
+
+
+
+# 1st page
 else:
     # URL input form
     validate_and_submit(
@@ -63,27 +76,33 @@ else:
     )
 
     
-    response = requests.get(scrapyd_server)
+    response = requests.get(SCRAPYD_SERVER)
     spider_status = response.json()
 
     if spider_status["running"] != 0 or spider_status["pending"] != 0:
+        spider_status_placeholder = st.empty()
+        spider_status_placeholder.info("Spider is running...")
         while spider_status["running"] != 0 or spider_status["pending"] != 0:
             time.sleep(1.5)
-            response = requests.get(scrapyd_server)
+            response = requests.get(SCRAPYD_SERVER)
             spider_status = response.json()
 
-        st.success("Spider Finish")
+        spider_status_placeholder.success("Spider Finish")
         df = pd.read_csv("DATA.csv") 
         st.write(df.head())
 
         csv = convert_df(df)
 
-        st.download_button(
+        download_button = st.download_button(
             label="Download data as CSV",
             data=csv,
             file_name='data.csv',
             mime='text/csv',
         )
+
+
+
+
 
 
 
