@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 from scrapyd_api import ScrapydAPI
 
-from data_extraction_module import trigger_spider, server_status
+from data_extraction_module import trigger_spider
 from from_validation_module import validate_and_submit
 
 
@@ -38,6 +38,22 @@ if spider_status["running"] != 0 or spider_status["pending"] != 0:
     st.write(df.head())
 
 
+    def convert_df(df):
+        return df.to_csv().encode('utf-8')
+
+    csv = convert_df(df)
+
+
+
+    st.download_button(
+        label="Download data as CSV",
+        data=csv,
+        file_name='data.csv',
+        mime='text/csv',
+    )
+
+
+
 
 
 # URL input form
@@ -66,6 +82,21 @@ if spider_status["running"] != 0 or spider_status["pending"] != 0:
     st.success("Spider Finish")
     df = pd.read_csv("DATA.csv") 
     st.write(df.head())
+
+    def convert_df(df):
+        return df.to_csv().encode('utf-8')
+
+    csv = convert_df(df)
+
+
+
+    st.download_button(
+        label="Download data as CSV",
+        data=csv,
+        file_name='data.csv',
+        mime='text/csv',
+    )
+
 
 
 
