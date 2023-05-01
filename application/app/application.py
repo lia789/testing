@@ -25,7 +25,7 @@ def convert_df(df):
 
 
 
-st.header("Welcome to Quotes application")
+st.title("Welcome to Zillow property scraper")
 
 
 
@@ -70,7 +70,7 @@ if spider_status["running"] != 0 or spider_status["pending"] != 0:
 else:
     # URL input form
     validate_and_submit(
-        url_input_label="Enter quotes URL",
+        url_input_label="Enter property URL",
         submit_button_label="Submit",
         submit_function=trigger_spider
     )
@@ -88,8 +88,8 @@ else:
             spider_status = response.json()
 
         spider_status_placeholder.success("Spider Finish")
-        df = pd.read_csv("DATA.csv") 
-        st.write(df.head())
+        df = pd.read_csv("DATA.csv", index_col=0) 
+        st.write(df.head(n=3))
 
         csv = convert_df(df)
 
