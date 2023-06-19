@@ -1,0 +1,189 @@
+One moment while I search the internet...
+
+__ff__source[{"url":"https://www.pythondiscord.com/pages/guides/python-guides/discordpy/","title":"Python Discord | Discord.py Learning Guide","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://www.pythondiscord.com/pages/guides/python-guides/discordpy/"},{"url":"https://www.writebots.com/how-to-make-a-discord-bot/","title":"How To Make A Discord Bot In 2023: From The Ground Up","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://www.writebots.com/how-to-make-a-discord-bot/"},{"url":"https://pythoninoffice.com/building-a-simple-python-discord-bot-with-discordpy-in-2022-2023/","title":"Building A Simple Python Discord Bot with DiscordPy in 2022/2023 - Python In Office","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://pythoninoffice.com/building-a-simple-python-discord-bot-with-discordpy-in-2022-2023/"},{"url":"https://docs.replit.com/tutorials/python/build-basic-discord-bot-python","title":"","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://docs.replit.com/tutorials/python/build-basic-discord-bot-python"},{"url":"https://discordpy.readthedocs.io/","title":"Welcome to discord.py","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://discordpy.readthedocs.io/"},{"url":"https://realpython.com/how-to-make-a-discord-bot-python/","title":"How to Make a Discord Bot in Python – Real Python","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://realpython.com/how-to-make-a-discord-bot-python/"}]__endsourceSure, I'd be happy to help you with your project. Here's a step-by-step guide on how you can achieve this:
+
+1. **Scraping Data from the Website**: You can use Python's `requests` library to send HTTP requests and `BeautifulSoup` to parse the HTML response. Here's a simple example:
+
+
+```python
+import requests
+from bs4 import BeautifulSoup
+
+def scrape_data():
+    url = "https://streamelements.com/casinodaddy/store/"
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    # Find the element containing the "gift" data
+    # This depends on the structure of the webpage
+    gift_element = soup.find('div', {'class': 'gift-class'})  # replace 'div' and 'gift-class' with actual tag and class
+    gift = int(gift_element.text)
+
+    return gift
+```
+
+
+2. **Checking the "Gift" Value**: You can simply use an `if` statement to check if the "gift" value is below 10.
+
+```python
+def check_gift(gift):
+    if gift < 10:
+        return True
+    return False
+```
+
+
+3. **Sending a Notification on Discord**: To send a message to a Discord server, you can use Discord's Webhook feature. Here's how you can do it:
+
+First, you need to create a Webhook on your Discord server. Here's how you can do it:
+
+- Go to Server Settings -> Integrations -> View Webhooks.
+- Click on the "New Webhook" button, give it a name and select the channel where you want the notifications to be sent.
+- Copy the Webhook URL.
+
+Then, you can use the `requests` library to send a POST request to the Webhook URL:
+
+```python
+def send_discord_notification(webhook_url, message):
+    data = {
+        "content": message
+    }
+    response = requests.post(webhook_url, data=data)
+```
+
+4. **Putting It All Together**: You can create a main function that runs every hour using a library like `schedule`. Here's how you can do it:
+
+```python
+import schedule
+import time
+
+def job():
+    gift = scrape_data()
+    if check_gift(gift):
+        send_discord_notification("your-webhook-url", "Gift is below 10")
+
+# Schedule the job every hour
+schedule.every(1).hours.do(job)
+
+while True:
+    schedule.run_pending()
+    time.sleep(1)
+```
+
+Remember to replace `"your-webhook-url"` with your actual Webhook URL.
+
+This is a basic implementation and might need to be adjusted based on the actual structure of the webpage and your specific requirements. Make sure to handle potential exceptions and edge cases to make your program more robust.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+-------------------------------------------
+from parsel import Selector
+import requests
+
+
+html = requests.get("")
+response = Selector(text=html.text)
+price = response.xpath("//h1/text()").get()
+
+
+
+
+if price>10:
+    # Discord code
+------
+this is raw code I have..
+
+
+I want to send a message on discord channel that the price is going down if the price is bellow 10.
+
+
+My message will be "Price is bellow 10, go and buy"
+
+
+This script run every hour in my server. How to that? 
+
+
+I also want if the price the discord notification will delete old one and add new message, if price is not bellow 10 then it should delelete all notification on server.
+
+
+So that when ever user open the server, there will one notification that price bellow or there will be no notification.
+
+
+Give me code and guiideline building this script
+----------------------------------------------------------------
+
+
+
+One moment while I search the internet...
+
+__ff__source[{"url":"https://stackoverflow.com/questions/64167141/how-do-i-schedule-a-function-to-run-everyday-at-a-specific-time-in-discord-py","title":"python - How do I schedule a function to run everyday at a specific time in discord.py? - Stack Overflow","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://stackoverflow.com/questions/64167141/how-do-i-schedule-a-function-to-run-everyday-at-a-specific-time-in-discord-py"},{"url":"https://discordpy.readthedocs.io/en/stable/ext/tasks/index.html","title":"discord.ext.tasks – asyncio.Task helpers","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://discordpy.readthedocs.io/en/stable/ext/tasks/index.html"},{"url":"https://www.reddit.com/r/Discord_Bots/comments/g76ax6/discordpy_schedule_daily_tasks/","title":"Reddit - Dive into anything","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://www.reddit.com/r/Discord_Bots/comments/g76ax6/discordpy_schedule_daily_tasks/"},{"url":"https://github.com/Taaku18/discord-message-scheduler","title":"","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://github.com/Taaku18/discord-message-scheduler"},{"url":"https://pipedream.com/apps/pipedream/integrations/discord/send-message-with-discord-api-on-new-scheduled-tasks-from-pipedream-api-int_MKsaA8o","title":"Send Message with Discord API on New Scheduled Tasks from Pipedream API - Pipedream","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://pipedream.com/apps/pipedream/integrations/discord/send-message-with-discord-api-on-new-scheduled-tasks-from-pipedream-api-int_MKsaA8o"},{"url":"https://discord.com/developers/docs/resources/guild-scheduled-event","title":"","favicon":"https://www.google.com/s2/favicons?sz=64&domain_url=https://discord.com/developers/docs/resources/guild-scheduled-event"}]__endsourceSure, I can help you with that. Here's a basic outline of how you could structure your script:
+
+1. Fetch the price from the website using the `requests` and `parsel` libraries.
+2. Check if the price is below 10.
+3. If it is, send a message to a Discord channel using the `discord.py` library.
+4. If it's not, delete all messages in the channel.
+
+Here's a sample code snippet that should do what you're asking for:
+
+```python
+import discord
+from discord.ext import tasks
+from parsel import Selector
+import requests
+import asyncio
+
+intents = discord.Intents.default()
+intents.message_content = True
+
+client = discord.Client(intents=intents)
+
+channel_id = 'YOUR_CHANNEL_ID'  # replace with your channel ID
+bot_token = 'YOUR_BOT_TOKEN'  # replace with your bot token
+url = 'YOUR_URL'  # replace with your URL
+
+@client.event
+async def on_ready():
+    check_price.start()  # start the task when the bot is ready
+
+@tasks.loop(hours=1)
+async def check_price():
+    channel = client.get_channel(int(channel_id))
+
+    # Fetch the price
+    html = requests.get(url)
+    response = Selector(text=html.text)
+    price = float(response.xpath("//h1/text()").get())
+
+    # Delete all messages in the channel
+    await channel.purge()
+
+    # If the price is below 10, send a message
+    if price < 10:
+        await channel.send('Price is below 10, go and buy')
+
+check_price.start()
+client.run(bot_token)
+```
+
+This script will run the `check_price` function every hour. The function fetches the price from the website, deletes all messages in the specified Discord channel, and if the price is below 10, sends a message to the channel.
+
+Please replace `'YOUR_CHANNEL_ID'`, `'YOUR_BOT_TOKEN'`, and `'YOUR_URL'` with your actual channel ID, bot token, and URL.
+
+Remember to install the necessary libraries by running `pip install discord.py requests parsel`.
+
+Please note that this script will delete all messages in the channel every time it runs, regardless of who sent them or what they contain. If you want to only delete certain messages, you'll need to modify the script accordingly.
+
+Also, be aware that deleting messages and sending frequent automated messages can be considered spammy behavior, so make sure you have the necessary permissions and that your actions comply with Discord's terms of service and community guidelines.
+"""
