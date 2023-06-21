@@ -1,6 +1,7 @@
 import re
 import time
 
+
 # Selenium library
 from parsel import Selector
 from selenium import webdriver
@@ -12,12 +13,8 @@ from selenium.webdriver.chrome.options import Options
 # Discord library
 import discord
 from discord.ext import commands
+from config import CHANNEL_ID, TOKEN
 
-
-
-# Discord Token and Client ID Replace with environment variable
-CHANNEL_ID = int("1120209779726487613")
-TOKEN = "MTEyMDM0NTY4ODM4ODE1NzQ3MQ.Gm_yGM.pzmDsTTHSDOVgj_k59vJs-BRSZ0KdVWOHXY8Vo"
 
 
 # Selenium driver setup code
@@ -28,9 +25,13 @@ options.add_argument('--disable-dev-shm-usage')
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
 
+print("=========== Script start running =========")
+
+
 # Sending request
 driver.get('https://streamelements.com/casinodaddy/store/')
-time.sleep(5)
+print("================ Sending request to URL ================")
+time.sleep(3)
 
 
 # Html content 
@@ -46,14 +47,13 @@ _10_git_card_quantity = response.xpath("//h2[@title='Gamdom $10 Gift Card']/..//
 
 
 # Data cleaning code
-_25_git_card_quantity = re.findall(r'\d+', _25_git_card_quantity)
-_25_git_card_quantity = int(''.join(_25_git_card_quantity))
+_25_git_card_quantity_check = int(''.join(re.findall(r'\d+', _25_git_card_quantity) or '0'))
+print(f"==========25$ Gift Card quantity found: {_25_git_card_quantity_check} ================")
 
 
 
 
-
-if _25_git_card_quantity < 10:
+if _25_git_card_quantity_check < 10:
 
     # Discord setup code
     intents = discord.Intents.default()
@@ -74,24 +74,28 @@ if _25_git_card_quantity < 10:
 
             # Should be replace with client requirements
             embed = discord.Embed(
-                title="Gamdom Gift Cards Restocked!",
+                title="Gamdom Gift Card Stock Update",
                 url="https://streamelements.com/casinodaddy/store/",
-                description="Good news! The Gamdom gift cards are back in stock on the store. Hurry, grab yours before they sell out again!",
+                description="Attention! It's time to update the availability of Gamdom gift cards on our website. Make sure to restock the inventory to meet customer demands.",
                 color=0xf91010
                 )
             embed.set_thumbnail(url="https://i.postimg.cc/9Q4sKqvr/ambulance-lights.png")
-            embed.add_field(name="250$ countity:", value=_250_git_card_quantity, inline=True)
-            embed.add_field(name="100$ countity:  ", value=_100_git_card_quantity, inline=False)
-            embed.add_field(name="50$ countity:  ", value=_50_git_card_quantity, inline=False)
-            embed.add_field(name="25$ countity:  ", value=_25_git_card_quantity, inline=False)
-            embed.add_field(name="10$ countity:  ", value=_10_git_card_quantity, inline=False)
+            embed.add_field(name="250$ quantity:", value=_250_git_card_quantity, inline=True)
+            embed.add_field(name="100$ quantity:  ", value=_100_git_card_quantity, inline=False)
+            embed.add_field(name="50$ quantity:  ", value=_50_git_card_quantity, inline=False)
+            embed.add_field(name="25$ quantity:  ", value=_25_git_card_quantity, inline=False)
+            embed.add_field(name="10$ quantity:  ", value=_10_git_card_quantity, inline=False)
 
             
 
         
-            await channel.purge(limit=None)
+
+            # Delete only bot messages in the channel
+            await channel.purge(limit=None, check=lambda message: message.author == bot.user)
+
+
             await channel.send(embed=embed)
-            print("===== Message send ======")
+            print("========== Message send to the server ============")
         else:
             print('Channel not found.')
         
@@ -101,6 +105,8 @@ if _25_git_card_quantity < 10:
     bot.run(TOKEN)
 
 
+
+print("============= Script close ===============")
 
 
 

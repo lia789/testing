@@ -1,0 +1,67 @@
+
+
+
+"""
+Hi carrotmrkev,
+
+I have built a raw Discord bot for you, that does this list of things:
+1. The bot check "Gamdom gift cards" sold out quantity under 10
+2. If it found quantity it sends a Discord message notification
+3. If it not found quantity it does nothing
+4. The bot delete all previews notification Discord message if it found a quantity under 10 and send a new notification message
+5. The bot checks quantity every 30 minutes
+
+
+
+The bot now only checks "25$ Gamdom gift cards" quantity, but we can add other gift cards quantity too.
+
+The message can be customized as your requirements, and also we can schedule this script based on custom times like 30 minutes, 50Minite or Hours.
+
+
+
+
+There is a list of tasks have to do setup on your end:
+1. Customize notification messages based on the guide
+2. Setup Discord bot credentials to your server
+3. Setup AWS cloud service to deploy the script 24/4 running
+
+
+
+
+Do you have any cloud server to set up this script? Or we can use AWS Lambda cloud, AWS Lambda free trials enough to run this script 24/7 without any service cost. We have to set up an AWS cloud account from your end. We also need to set up your Discord credentials to access the bot.
+
+The setup process can be done with a Zoom call, after placing an order you will have the option to communicate with me via Zoom. I will be there with Zoom for set up the full process. Full process setup with Zoom call will take 40 minutes or more, so have to time in your time then will need to start deploying the solution on your environment.
+
+
+
+
+I don't know how much important this script or solution is for your business or how much big your business is, I am very open with price. You should pay me with your budget and importance.
+
+That is the full history of your thought to functional solutions. Don't need to hurry, take time, and then we will set up this solution.
+
+Lia,,,,
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+That is the full history of your thought to funcitonal solutions. Don't need to hurry, take time and then we will setup this solutions.
+
+Lia,,,,
+
+
+
+
+
+
+
+
+
