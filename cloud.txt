@@ -1,0 +1,378 @@
+Setting up an AWS Account as a Root User:
+1. Visit the following URL: "https://aws.amazon.com/"
+2. Click on "Create an AWS Account" to open the "Sign up for AWS" screen.
+3. Enter your email address for the root user and provide an informal name for your AWS account. Click on "Verify email address."
+4. Check your Root user email for the verification code, and enter it in the appropriate field.
+5. Create a secure password for the root user, enter it in the "Root user password" field, and confirm it. Click on "Continue."
+6. Select the option "Personal - for your own projects" and provide the required information.
+7. Fill in your billing information, including your card number, as AWS requires it.
+8. Choose the "Basic support - Free" plan.
+9. Make sure to store the root user email and password in a secure place for future login purposes.
+
+
+
+
+
+
+
+Setting up a Freelance Developer Account on AWS:
+1. Go to the top bar and search for "IAM." 
+2. Inside the "Access Management" section on the left sidebar, click on "Users." 
+3. Select "Add users." 
+4. Enter a "User name" and leave the option "Provide user access to the AWS Management Console" unchecked. Click "Next." 
+5. Choose "Attach policies directly." 
+6. Add the following AWS services by searching and selecting the corresponding permission policies:
+   - Search for "IAMFullAccess" ad select it.
+   - Search for "AmazonS3FullAccess" and select it.
+   - Search for "AWSLambda_FullAccess" and select it.
+   - Search for "AmazonEventBridgeFullAccess" and select it.
+   - Search for "CloudWatchFullAccess" and select it.
+7. Click "Create user" to create a new user.
+8. Open the user dashboard by clicking on the newly created user. 
+9. Click on "Security credentials." 
+10. Enable console access. 
+11. Select "Enable" for Console access. 
+12. Choose a custom password (which will be shared with your remote developer). Do not check "User must create a new password." 
+13. Save the credentials either by copying them or exporting them as a CSV file. These credentials will be shared with the developer. 
+
+
+
+
+Deploy code on AWS Lamnda:
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------- RAW 
+
+AWS Lambda deployment pacakge with no dependency:
+1. Create new directory
+	$ mkdir my-lambda-function
+	$ cd my-lambda-function
+2. Create new lambdda function code, and write code
+	$ touch lambda_function.py
+3. Build zip package
+	$ zip my-deployment-package.zip lambda_function.py
+4. Upload the zip file
+
+
+AWS Lambda deployment package with dependency:
+1. Create new directory
+	$ mkdir my-lambda-function
+	$ cd my-lambda-function
+2. Create new lambdda function code, and write code
+	$ touch lambda_function.py
+3. Install library to a new "package" directory
+	$ pip install --target ./package requests
+4. Create a deployment package with the installed library at the root
+	$ zip -r ../my-deployment-package.zip .
+5. Add the lambda_function.py file to the root of the zip file
+	$ zip my-deployment-package.zip lambda_function.py
+6. Upload the zip file
+
+
+
+
+
+
+
+AWS Cloud keypoints:
+- I should give billing report with pdf to understand client better about AWS pricing
+- I have to setup AWS account for client as like as root user and also developer userr
+- There are setup steps about AWS root user
+
+
+
+
+
+
+
+Stpes about setup AWS Lambda on client machine
+1. Login with root user
+2. Create IAM role for AWS Lambda and EventBridge
+3. 
+
+
+What are things need to concern about client:
+- display billing information
+- cost estimation
+- application logs
+- secure root id and password
+- logs delete
+
+
+
+
+
+
+
+
+Freelance developer account setup:
+1. Search and selct ""IAM"" on top bar
+2. Click ""Users"" on left side bar inside ""Access management""
+3. Click ""Add users""
+4. Enter ""User name"", don't check ""Provide user access to the AWS Management Consle"" and click ""Next""
+5. Select ""Attach policies directly""
+6. Add AWS servicess on permission policies and go to ""Next""
+	A. Search "AmazonS3FullAccess" and select "AmazonS3FullAccess"
+	B. Search "AWSLambda_FullAccess" and select "AWSLambda_FullAccess"
+	C. Search "AmazonEventBridgeFullAccess" and select "AmazonEventBridgeFullAccess"
+	D. Search "CloudWatchFullAccess" and select "CloudWatchFullAccess"
+
+
+7. Click ""Create user"" (It will create new user)
+8. Click newly created user, it will open user dashboard
+9. Click ""Security credentials""
+10. Click ""Enable console access""
+11. Select ""Enable"" on Console access
+12. Click ""Custom password"", this password will share with your remote developer. Don't check ""User must create new password""
+13. Copy this list of credentials or save this as csv file. This credentials will share with developer
+	- Console sign-in URl: https://lia01.signin.aws.amazon.com/console
+	- User name: developer
+	- Console password: Lia123456789
+
+
+
+Revoke developer account:
+1. Go to newly creaded dashboard
+2. Click "Security credentials"
+3. Click "Manage console access"
+4. Selct "Disable" Console access
+5. Click "Apply"
+
+ 
+
+
+
+
+
+
+1. Search and selct ""IAM"" on top bar
+2. Click ""Users"" on left side bar inside ""Access management""
+3. Click ""Add users""
+4. Enter ""User name"", don't check ""Provide user access to the AWS Management Consle"" and click ""Next""
+5. Select ""Attach policies directly""
+6. Add AWS servicess on permission policies and go to ""Next""
+	A. Search "AmazonS3FullAccess" and select "AmazonS3FullAccess"
+	B. Search "AWSLambda_FullAccess" and select "AWSLambda_FullAccess"
+	C. Search "AmazonEventBridgeFullAccess" and select "AmazonEventBridgeFullAccess"
+	D. Search "CloudWatchFullAccess" and select "CloudWatchFullAccess"
+
+
+7. Click ""Create user"" (It will create new user)
+8. Click newly created user, it will open user dashboard
+9. Click ""Security credentials""
+10. Click ""Enable console access""
+11. Select ""Enable"" on Console access
+12. Click ""Custom password"", this password will share with your remote developer. Don't check ""User must create new password""
+13. Copy this list of credentials or save this as csv file. This credentials will share with developer
+
+
+
+
+
+
+Setting up a Freelance Developer Account on AWS: 
+
+1. Go to the top bar and search for "IAM." 
+2. Inside the "Access Management" section on the left sidebar, click on "Users." 
+3. Select "Add users." 
+4. Enter a "User name" and leave the option "Provide user access to the AWS Management Console" unchecked. Click "Next." 
+5. Choose "Attach policies directly." 
+6. Add the following AWS services by searching and selecting the corresponding permission policies:
+   - Search for "AmazonS3FullAccess" and select it.
+   - Search for "AWSLambda_FullAccess" and select it.
+   - Search for "AmazonEventBridgeFullAccess" and select it.
+   - Search for "CloudWatchFullAccess" and select it.
+7. Click "Create user" to create a new user.
+8. Open the user dashboard by clicking on the newly created user. 
+9. Click on "Security credentials." 
+10. Enable console access. 
+11. Select "Enable" for Console access. 
+12. Choose a custom password (which will be shared with your remote developer). Do not check "User must create a new password." 
+13. Save the credentials either by copying them or exporting them as a CSV file. These credentials will be shared with the developer. 
+
+This simplified guide will help new developers or users set up their AWS freelance developer account easily.
+
+
+
+
+
+
+
+
+
+
+
+
+1. **Create a new directory**: Open your terminal and create a new directory where you'll install the requests library. You can do this with the command `mkdir lambda_layer`.
+
+2. **Navigate to the new directory**: Use the command `cd lambda_layer`.
+
+3. **Create a Python directory**: AWS Lambda expects Python packages in a directory named "python". Create this directory with the command `mkdir python`.
+
+4. **Navigate to the Python directory**: Use the command `cd python`.
+
+5. **Install the requests library**: Use pip to install the requests library in the current directory with the command `pip install requests -t .`. The `-t .` option tells pip to install the packages in the current directory.
+
+6. **Navigate back to the lambda_layer directory**: Use the command `cd ..`.
+
+7. **Create a ZIP file**: AWS Lambda expects the layer to be uploaded as a ZIP file. Create this file with the command `zip -r requests_layer.zip python/`. This command creates a new ZIP file named "requests_layer.zip" that contains the contents of the "python" directory.
+
+8. **Upload the ZIP file to AWS Lambda**:
+
+   - Open the AWS Management Console in your web browser.
+   - Navigate to the AWS Lambda service.
+   - Click on "Layers" in the left-hand menu.
+   - Click on "Create layer".
+   - Give your layer a name, such as "requests".
+   - Click on "Upload" and select the "requests_layer.zip" file you created earlier.
+   - Select the appropriate runtime (e.g., "python 3.8").
+   - Click on "Create".
+
+9. **Use the layer in a Lambda function**:
+
+   - Navigate to the AWS Lambda service in the AWS Management Console.
+   - Either create a new function or select an existing one.
+   - Scroll down to the "Layers" section and click on "Add a layer".
+   - Select "Custom layers" and choose the "requests" layer you created earlier.
+   - Click on "Add".
+
+Now, your Lambda function has access to the requests library via the layer you created. You can import the library in your function code with the line `import requests`.
+
+
+
+
+------------
+Running Python playwright code on AWS Lambda with a headless browser involves several steps. Here's a general outline of the process:
+
+1. **Set up your local environment**: Make sure you have Python and pip installed on your local machine. You'll also need the AWS CLI installed and configured with your AWS credentials.
+
+2. **Install Playwright**: Install Playwright in your local environment using pip:
+   ```
+   pip install playwright
+   ```
+   Then, run the playwright install command to download the necessary browser binaries:
+   ```
+   playwright install
+   ```
+
+3. **Create a new directory for your Lambda function**: This directory will contain your Python script and any necessary dependencies. Let's call this directory `lambda_function`.
+
+4. **Write your Playwright script**: Create a new Python file in the `lambda_function` directory (e.g., `main.py`). Write your Playwright script in this file, making sure to run browsers in headless mode.
+
+5. **Install your dependencies locally**: AWS Lambda needs all dependencies to be included in the deployment package. In the `lambda_function` directory, install your dependencies with pip, targeting the current directory:
+   ```
+   pip install -t . playwright
+   ```
+
+6. **Package your Lambda function**: AWS Lambda requires your function and its dependencies to be uploaded as a ZIP file. In the `lambda_function` directory, create a ZIP file containing your Python script and the dependencies:
+   ```
+   zip -r lambda_function.zip .
+   ```
+
+7. **Create a new Lambda function on AWS**: Log in to the AWS Management Console and create a new Lambda function. Make sure to select a Python runtime that matches the version you used locally.
+
+8. **Upload your Lambda function**: In the function code section of your new Lambda function, upload the `lambda_function.zip` file you created earlier.
+
+9. **Set the handler**: The handler tells Lambda which method to invoke when the function is triggered. If your Python file is named `main.py` and your function is named `handler`, you would set the handler to `main.handler`.
+
+10. **Increase the timeout and memory**: Playwright scripts can be resource-intensive, so you might need to increase the timeout and memory allocated to your Lambda function.
+
+11. **Test your Lambda function**: Create a new test event and click on "Test" to run your function.
+
+Remember, AWS Lambda has a read-only file system, but it does provide a `/tmp` directory that your function can write to. If your Playwright script needs to download files or write to disk, make sure it uses the `/tmp` directory.
+
+Also, keep in mind that the Playwright package is quite large (~200MB), and AWS Lambda has a deployment package size limit of 250MB (unzipped). If you run into issues with the package size, you might need to use AWS Lambda layers or look into slimming down your dependencies.
+------------
+ 
+
+
+
+-------------
+Running a Selenium script on AWS Lambda can be a bit tricky because it requires a headless browser, but it's definitely possible. Here's a step-by-step guide on how to do it:
+
+1. **Create a new directory**: Open your terminal and create a new directory where you'll install the Selenium library and the headless browser. You can do this with the command `mkdir selenium_lambda`.
+
+2. **Navigate to the new directory**: Use the command `cd selenium_lambda`.
+
+3. **Create a Python directory**: AWS Lambda expects Python packages in a directory named "python". Create this directory with the command `mkdir python`.
+
+4. **Navigate to the Python directory**: Use the command `cd python`.
+
+5. **Install the Selenium library**: Use pip to install the Selenium library in the current directory with the command `pip install selenium -t .`. The `-t .` option tells pip to install the packages in the current directory.
+
+6. **Navigate back to the selenium_lambda directory**: Use the command `cd ..`.
+
+7. **Download the headless Chrome browser and ChromeDriver**:
+
+   - You'll need a version of Chrome that's compatible with AWS Lambda. You can download a compatible version from the following URL: `https://github.com/adieuadieu/serverless-chrome/releases`. You'll want to download the `headless-chromium` file.
+   - You'll also need a compatible version of ChromeDriver, which is the WebDriver for Chrome. You can download it from the following URL: `https://sites.google.com/a/chromium.org/chromedriver/downloads`.
+
+8. **Move the downloaded files to the selenium_lambda directory**: Use the `mv` command to move the downloaded files to the `selenium_lambda` directory.
+
+9. **Create a ZIP file**: AWS Lambda expects the layer to be uploaded as a ZIP file. Create this file with the command `zip -r selenium_layer.zip .`. This command creates a new ZIP file named "selenium_layer.zip" that contains the contents of the current directory.
+
+10. **Upload the ZIP file to AWS Lambda**:
+
+    - Open the AWS Management Console in your web browser.
+    - Navigate to the AWS Lambda service.
+    - Click on "Layers" in the left-hand menu.
+    - Click on "Create layer".
+    - Give your layer a name, such as "selenium".
+    - Click on "Upload" and select the "selenium_layer.zip" file you created earlier.
+    - Select the appropriate runtime (e.g., "python 3.8").
+    - Click on "Create".
+
+11. **Use the layer in a Lambda function**:
+
+    - Navigate to the AWS Lambda service in the AWS Management Console.
+    - Either create a new function or select an existing one.
+    - Scroll down to the "Layers" section and click on "Add a layer".
+    - Select "Custom layers" and choose the "selenium" layer you created earlier.
+    - Click on "Add".
+
+12. **Update your Selenium script**:
+
+    - You'll need to update your Selenium script to use the headless Chrome browser and ChromeDriver you uploaded to AWS Lambda. Here's an example of how you can do this:
+
+    ```python
+    from selenium import webdriver
+    from selenium.webdriver.chrome.options import Options
+
+    options = Options()
+    options.binary_location = '/opt/headless-chromium'
+    options.add_argument('--headless')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--single-process')
+    options.add_argument('--disable-dev-shm-usage')
+
+    driver = webdriver.Chrome('/opt/chromedriver', chrome_options=options)
+    ```
+
+    - In this script, `/opt/headless-chromium` is the path to the headless Chrome browser in the AWS Lambda environment, and `/opt/chromedriver` is the path to ChromeDriver.
+
+Now, your Lambda function should be able to execute your Selenium script. Remember to set the timeout and memory settings appropriately for your function, as web scraping tasks can sometimes take a while to complete and use a significant amount of memory.
+-------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
