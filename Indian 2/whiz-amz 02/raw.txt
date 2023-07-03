@@ -1,0 +1,10 @@
+
+
+
+list of function name:
+1. get_service_area_id()
+2. get_drivers_data(yyyy_mm_dd, service_area_id)
+3. get_drivers_location(yyyy_mm_dd, service_area_id, transporter_ids: list)
+4. manipulate_the_data(input_df)
+5. split_the_df(input_df)
+6. get_current_drivers_data(sample)
