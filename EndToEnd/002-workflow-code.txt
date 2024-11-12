@@ -1,0 +1,34 @@
+@startuml
+title Service Booking System Workflow
+
+start
+:User visits Home Page;
+:User searches for services by category, price, or rating;
+if (Results Found?) then (Yes)
+    :Filter and sort results;
+    :View service details;
+    :Proceed to book service;
+else (No)
+    :Display "No results found.";
+    stop
+endif
+
+partition Vendor {
+    :Vendor logs in;
+    :Vendor views dashboard;
+    if (Add or Edit Service?) then (Yes)
+        :Vendor adds or edits services;
+    endif
+    :Vendor checks customer bookings;
+}
+
+partition Admin {
+    :Admin logs in;
+    :Admin accesses Admin Panel;
+    :Admin manages user accounts;
+    :Admin manages vendor accounts;
+    :Admin oversees all bookings;
+}
+
+stop
+@enduml

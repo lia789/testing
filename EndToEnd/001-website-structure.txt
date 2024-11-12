@@ -1,0 +1,101 @@
+Home
+├── Explore Services
+│   ├── Search Results Page (with filters: category, price, rating, location, availability)
+│   ├── Service Details Page
+│   │   ├── Gallery
+│   │   ├── Service Description
+│   │   ├── Customer Reviews
+│   │   ├── Pricing & Packages
+│   │   ├── Availability Calendar
+│   │   ├── Book Now Button
+├── Categories
+│   ├── Spa
+│   ├── Massage
+│   ├── Hair Services
+│   ├── Skincare
+│   ├── Nails
+│   ├── Fitness
+│   ├── Medical Aesthetic
+├── Vendors
+│   ├── Vendor Listings (Browse vendors by location or category)
+│   ├── Vendor Dashboard
+│   │   ├── Manage Listings
+│   │   ├── Add/Edit Services
+│   │   ├── Pricing Management
+│   │   ├── Availability Calendar
+│   │   ├── Manage Bookings (Confirmed, Pending, Cancelled)
+│   │   ├── Sales Reports
+│   │   ├── Profile Management
+│   │   ├── Business Insights (Basic Analytics)
+├── User Profile
+│   ├── Dashboard
+│   ├── My Bookings
+│   │   ├── Upcoming Bookings
+│   │   ├── Completed Bookings
+│   │   ├── Cancelled Bookings
+│   ├── Booking History
+│   ├── Wishlist/Favorites
+│   ├── Payment Methods
+│   ├── Edit Profile (Name, Picture, Preferences)
+│   ├── Notifications (Booking reminders, promotions)
+├── Admin Panel
+│   ├── Dashboard (Key Metrics and KPIs)
+│   ├── Manage Users
+│   │   ├── View/Edit/Delete User Accounts
+│   │   ├── Reset Passwords
+│   ├── Manage Vendors
+│   │   ├── Approve/Reject Vendor Applications
+│   │   ├── View Vendor Profiles
+│   │   ├── Manage Listings and Complaints
+│   ├── Manage Bookings
+│   │   ├── Approve/Cancel Bookings
+│   │   ├── Refund Requests
+│   ├── View Payments (Vendor Payments, Refunds, Platform Earnings)
+│   ├── System Logs
+│   ├── Promotions Management (Coupons, Discounts)
+│   ├── CMS (Manage Static Pages)
+├── Payments
+│   ├── Checkout Page
+│   │   ├── Select Payment Method (Credit Card, PayPal, Wallet)
+│   │   ├── Apply Coupons or Discounts
+│   │   ├── Confirm Booking
+│   ├── Payment Success Page
+│   ├── Payment Failed Page
+│   ├── Payment History (User and Vendor-specific)
+├── About
+│   ├── About Us (Mission, Vision, Team)
+│   ├── Terms and Policies
+│   │   ├── Privacy Policy
+│   │   ├── Refund Policy
+│   ├── Contact Us (Contact Form, Email, Phone Number)
+│   ├── FAQs (General, Payment, Vendor-specific)
+├── Authentication
+│   ├── Log In
+│   ├── Sign Up
+│   │   ├── User Registration
+│   │   ├── Vendor Registration
+│   ├── Forgot Password
+│   ├── OTP Verification (for account recovery or signup)
+├── Promotions
+│   ├── Deals & Offers (Highlight ongoing discounts)
+│   ├── Refer-a-Friend Program
+│   ├── Gift Cards
+├── Reviews
+│   ├── Write a Review (After Booking Completion)
+│   ├── Browse Reviews (Service and Vendor-specific)
+├── Blogs & Resources
+│   ├── Beauty Tips & Advice
+│   ├── Wellness Trends
+│   ├── Tutorials
+│   ├── Vendor Success Stories
+│   ├── Platform Updates
+├── Notifications
+│   ├── Booking Confirmations
+│   ├── Payment Alerts
+│   ├── Promotions
+│   ├── Vendor Messages
+├── Error Pages
+│   ├── 404 Page
+│   ├── 500 Internal Server Error Page
+│   ├── Maintenance Page
+

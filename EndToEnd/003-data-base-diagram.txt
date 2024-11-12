@@ -1,0 +1,38 @@
+@startuml
+entity User {
+  * id: UUID
+  * username: String
+  * email: String
+  * password: String
+  * date_joined: Date
+  * last_login: Date
+}
+
+entity Vendor {
+  * id: UUID
+  * name: String
+  * address: String
+  * contact_info: String
+}
+
+entity Service {
+  * id: UUID
+  * name: String
+  * category: String
+  * price: Decimal
+  * duration: Integer
+  * vendor_id: UUID
+}
+
+entity Booking {
+  * id: UUID
+  * user_id: UUID
+  * service_id: UUID
+  * booking_date: Date
+  * status: String
+}
+
+User "1" -- "0..*" Booking: creates
+Booking "1" -- "1" Service: is for
+Service "0..*" -- "1" Vendor: offers
+@enduml
